@@ -20,7 +20,6 @@ en_type_duree: Installation, Performance 10'
 
 image_couv: ./assets/projets/a_trap/1.ensemble1.jpg
 images:
-  - path: "./assets/projets/a_trap/1.ensemble1.jpg"
   - path: "./assets/projets/a_trap/2.chaise.jpg"
   - path: "./assets/projets/a_trap/3.chaise2.jpg"
   - path: "./assets/projets/a_trap/4.Victor-Deletraz-┬®Laura-Spozio_1.jpg"
