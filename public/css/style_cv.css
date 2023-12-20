@@ -1,0 +1,205 @@
+html, body {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+/* Haut de la page  */
+
+.header_logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.vic_identite {
+    display: none;
+}
+
+.cv_image {
+    display: flex;
+    width: 15vw;
+    height: auto;
+    padding-top: 2vh;
+    padding-left: 0.5vw;
+}
+
+.icon {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    width: 8vw;
+    height: auto;
+    padding-top: 2vh;
+    padding-right: 2vw;
+    cursor: pointer;
+    z-index: 1;
+}
+
+/* BOUTONS DES LANGUES */
+
+.langue_container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 1vh;
+    padding-left: 2vw;
+}
+
+button {
+    padding-inline: 0;
+}
+
+.fr_btn {
+    display: flex;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    padding-left: 1vw;
+}
+
+.en_btn {
+    display: flex;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+}
+
+.img_langue {
+    display: flex;
+    width: 3vw;
+    color: white;
+    background-color: white;
+    border: 0;
+}
+
+/* Contenu du CV  */
+
+
+h1 {
+    font-size: 1.7vw;
+}
+
+p {
+    display: flex;
+    font-size: 1.2vw;
+    white-space: pre-line;
+}
+
+
+.container_gauche {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-left: 2vw;
+    padding-bottom: 2.5vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+    max-height: 80vh; /* Set a maximum height */
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+}
+
+.container_gauche::-webkit-scrollbar {
+    width: 0.5em;
+}
+
+.container_gauche::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+
+.details {
+    display: flex;
+    flex-direction: row;
+}
+
+.dates {
+    display: flex;
+    flex-direction: column;
+    width: 13vh;
+    white-space: pre-line;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2vw;
+}
+
+
+/* PHOTO VICTOR A DROITE */
+
+.container_droite {
+    display: flex;
+    flex: 0 0 auto;
+    width: 30%;
+    transform: translateY(-30%);
+    padding-right: 22%;
+    z-index: -1;
+}
+
+.photo_victor {
+    width: 100%; /* Adjust width to fill the container */
+}
+
+main.contenu_main {
+    display: flex;
+    align-items: flex-start; /* Align items at the flex start */
+}
+
+
+/* VERSION MOBILE */
+@media all and (max-width: 992px) {
+
+    .cv_image {
+        display: none;
+    }
+
+    .vic_identite {
+        display: flex;
+        width: 17vw;
+        height: auto;
+        padding-top: 1vh;
+        padding-left: 2vw;
+    }
+
+    .header_logo {
+        align-items: flex-start;
+    }
+
+    .icon {
+        width: 15vw;
+    }
+
+    .container_gauche {
+        width: 100%;
+    }
+
+    .langue_container {
+        padding-bottom: 1vh;
+    }
+
+    .img_langue {
+        width: 5vw;
+    }
+
+    .fr_btn {
+        padding-left: 1.5vw;
+    }
+
+    .container_droite {
+        display: none;
+    }
+
+    h1 {
+        font-size: 2.5vw;
+    }
+    
+    p {
+        display: flex;
+        font-size: 2.3vw;
+    }
+
+}

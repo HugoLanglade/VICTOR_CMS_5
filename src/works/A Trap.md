@@ -6,7 +6,7 @@ nom_lieu : A trap that doesn't kill - HEAD, Genève
 année: 2023
 mois: 09
 
-lien: #vimeo_video
+lien: "#vimeo_video"
 texte_lien_fr: Captation Video
 texte_lien_en: Video Capture
 

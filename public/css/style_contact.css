@@ -1,0 +1,115 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* PAGE CONTACT */
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.enveloppe_contact_phone {
+    display: none;
+}
+
+.nav_icon {
+    display: flex;
+    overflow: hidden;
+    flex-shrink: 0;
+    width: 10vw;
+    margin-left: auto; /* Add this line */
+    padding-top: 1vh;
+    padding-right: 1vw;
+}
+
+.middle {
+    display: flex;
+}
+
+.enveloppe_contact {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    justify-self: center;
+    width: 20%;
+    height: auto;
+    margin: auto;
+}
+
+.contact_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding-top: 1vh;
+    white-space: pre-line;
+}
+
+.contact_info p {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%; /* 14px/16=0.875em */
+}
+
+.mail, .instagram {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%; /* 14px/16=0.875em */
+}
+
+
+/* FORMAT TELEPHONE */
+
+@media all and (max-width: 992px) {
+
+    .top {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+
+    .enveloppe_contact_phone {
+        display: flex;
+        width: 18vw;
+        height: auto;
+        padding-left: 1vw;
+        padding-top: 2vh;
+    }
+
+    .nav_icon {
+        display: flex;
+        width: 17vw;
+        height: auto;
+        padding-right: 2vw;
+        padding-top: 2vw;
+        
+    }
+
+    .enveloppe_contact {
+        display: none;
+    }
+
+    .contact_info {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+        height: 40%;
+        padding-left: 2vw;
+        padding-top: 1vh;
+    }
+
+    .contact_info p, .mail, .instagram {
+        font-size: 1.4rem;
+    }
+}

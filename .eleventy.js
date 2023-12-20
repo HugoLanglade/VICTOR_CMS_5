@@ -5,9 +5,24 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/assets/");
     eleventyConfig.addPassthroughCopy("./src/works/");
     eleventyConfig.addPassthroughCopy("./src/works/*.md");
+    eleventyConfig.addPassthroughCopy("./src/cv/");
+    eleventyConfig.addPassthroughCopy("./src/cv/*.md");
+    eleventyConfig.addPassthroughCopy("./src/bio/");
 
     eleventyConfig.addCollection('works', function (collection) {
       return collection.getFilteredByTag('works');
+    });
+
+    eleventyConfig.addCollection('cv', function (collection) {
+      return collection.getFilteredByTag('cv');
+    });
+
+    eleventyConfig.addCollection('bio', function (collection) {
+      return collection.getFilteredByTag('bio');
+    });
+
+    eleventyConfig.addCollection('contact', function (collection) {
+      return collection.getFilteredByTag('contact');
     });
 
   
