@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (isMobile()) {
           // Mobile behavior: toggle visibility of container_gauche and container_droite
           event.preventDefault(); // Prevent the default behavior of the anchor link
-          window.location.href = "/works.njk";
+          window.location.href = "/works.html";
         } else {
           // Desktop behavior: redirect to index.html
           window.location.href = "/index.html";

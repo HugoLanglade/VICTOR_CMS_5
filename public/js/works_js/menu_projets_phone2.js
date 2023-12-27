@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
         handleArticleClick(event, articleId);
   
         // Dynamically determine the destination based on the clicked article
-        const destination = `/works.njk#${articleId}`;
+        const destination = `/works.html#${articleId}`;
         window.location.href = destination;
       });
     });
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (isMobile()) {
           event.preventDefault();
           console.log("revient à works");
-          window.location.href = "/works.njk";
+          window.location.href = "/works.html";
         } else {
             console.log("revient à index");
           window.location.href = "/index.html";
