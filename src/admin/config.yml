@@ -16,7 +16,7 @@ backend:
         # ... other fields for the 'contact' collection ...
     - name: "bio"
       label: "bio"
-      folder: "src/bio" 
+      folder: "src/bio"
       create: false
       slug: "{{slug}}" 
       fields:
