@@ -25,7 +25,7 @@ backend:
     - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
     - {label: "Biographie (Français)", name: "bio_français", widget: "markdown"}
     - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown"}
-- name: "works"
+  - name: "works"
   label: "works"
   folder: "src/works"
   create: true
