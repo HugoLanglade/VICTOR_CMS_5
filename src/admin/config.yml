@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: main
-  media_folder: "public/assets/projets" # Media files will be stored in the repo under static/images/uploads
-  public_folder: "assets/projets" # The src attribute for uploaded media will begin with /images/uploads
+  media_folder: "public/assets" # Media files will be stored in the repo under static/images/uploads
+  public_folder: "assets" # The src attribute for uploaded media will begin with /images/uploads
   collections:
   - name: "contact"
     label: "contact"
@@ -25,5 +25,3 @@ backend:
     - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
     - {label: "Biographie (Français)", name: "bio_français", widget: "markdown"}
     - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown"}
-
-  
