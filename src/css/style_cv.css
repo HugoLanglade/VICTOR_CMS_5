@@ -85,7 +85,6 @@ h1 {
 p {
     display: flex;
     font-size: 1.2vw;
-    white-space: pre-line;
 }
 
 
@@ -95,8 +94,8 @@ p {
     width: 50%;
     padding-left: 2vw;
     padding-bottom: 2.5vh;
-    overflow-y: auto; /* Enable vertical scrolling */
-    max-height: 80vh; /* Set a maximum height */
+    overflow-y: auto; 
+   height: 70vh;
     scrollbar-width: thin;
     scrollbar-color: transparent transparent;
 }
@@ -112,6 +111,11 @@ p {
 
 .details {
     display: flex;
+    flex-direction: column;
+}
+
+.sous_details {
+    display: flex;
     flex-direction: row;
 }
 
@@ -119,13 +123,12 @@ p {
     display: flex;
     flex-direction: column;
     width: 13vh;
-    white-space: pre-line;
 }
 
 .description {
     display: flex;
     flex-direction: column;
-    padding-left: 2vw;
+    padding-left: 3vw;
 }
 
 
@@ -159,18 +162,14 @@ main.contenu_main {
 
     .vic_identite {
         display: flex;
-        width: 17vw;
+        width: 25vw;
         height: auto;
         padding-top: 1vh;
         padding-left: 2vw;
     }
 
-    .header_logo {
-        align-items: flex-start;
-    }
-
     .icon {
-        width: 15vw;
+        width: 20vw;
     }
 
     .container_gauche {
@@ -178,15 +177,16 @@ main.contenu_main {
     }
 
     .langue_container {
+        padding-top: 3%;
         padding-bottom: 1vh;
     }
 
     .img_langue {
-        width: 5vw;
+        width: 10vw;
     }
 
     .fr_btn {
-        padding-left: 1.5vw;
+        padding-left: 4vw;
     }
 
     .container_droite {
@@ -194,12 +194,12 @@ main.contenu_main {
     }
 
     h1 {
-        font-size: 2.5vw;
+        font-size: 1.7rem;
     }
     
     p {
         display: flex;
-        font-size: 2.3vw;
+        font-size: 1.2rem;
     }
 
 }

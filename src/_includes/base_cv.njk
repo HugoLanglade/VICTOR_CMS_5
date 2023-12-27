@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./js/changeLanguage_cv.js"></script> 
+    <link rel="icon" type="image/x-icon" href="./assets/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="./css/style_cv.css" /> 
-    <title>CV</title>
+    <title>{{ title }}</title>
 </head>
 
 
@@ -22,191 +23,161 @@
       </div>
 </header>
 
-
-
 <main class="contenu_main">
-    <div class="container_gauche">
-        <div class="english">
-            <div class="education">
-                <h1>Education</h1>
-                <div class="details">
-                    <div class="dates">
-                {% for cv in collections.cv %}        
-                        <p>{{cv.data.dates_formation}}</p>
-                    </div>
-                    <div class="description">
-                        <p>{{cv.data.description_formation_en}}</p>
-                    </div> 
-                {% endfor %}
-                </div>
-            </div>
-<div class="collective_shows">
-            <h1>Collective Shows</h1>
-            <div class="details">
-                <div class="dates">
-                {% for cv in collections.cv %}  
-                    <p>{{cv.data.dates_show}}</p>
-                </div>
-                <div class="description">
-                    <p>{{cv.data.show_en}}</p>
-                {% endfor %}
-                </div> 
-            </div>
+<div class="container_gauche">
+<div class="english">
+    <h1>Education</h1>
+    <div class="details">
+    {% for education in collections.cv %}
+        {% if education.data.tags and "education" in education.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{education.data.dates_formation}}</p>
+          <p class="description">{{education.data.formation_en}}</p>
         </div>
-
-        <div class="performance">
-            <h1>Performance</h1>  
-            <div class="details">
-                <div class="dates">
-                {% for cv in collections.cv %}
-                    <p>{{cv.data.dates_performance}}</p>
-                </div>
-                <div class="description">
-                    <p>{{cv.data.performance_en}}</p>
-                {% endfor %}
-                </div> 
-            </div>
-        </div>
-
-        <div class="curating">
-            <h1>Curating</h1>  
-            <div class="details">
-                <div class="dates">
-                {% for cv in collections.cv %}
-                    <p>{{cv.data.dates_curation}}</p>
-                </div>
-                <div class="description">
-                    <p>{{cv.data.curation_en}}</p>
-                {% endfor %}
-                </div> 
-            </div>
-        </div>
-
-        <div class="association">
-            <h1>Association</h1>  
-            <div class="details">
-                <div class="dates">
-                {% for cv in collections.cv %}
-                    <p>{{cv.data.dates_association}}</p>
-                </div>
-                <div class="description">
-                    <p>{{cv.data.association_en}}</p>
-                {% endfor %}
-                </div> 
-            </div>
-        </div>
-
-        <div class="press">
-            <h1>Press</h1>  
-            <div class="details">
-                <div class="dates">
-                {% for cv in collections.cv %}
-                    <p>{{cv.data.dates_press}}</p>
-                </div>
-                <div class="description">
-                    <p>{{cv.data.press_en}}</p>
-                {% endfor %}
-                </div> 
-            </div>
-        </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
-
-{# FRANCAIS #}
-
-<div class="français">
-    <div class="education">
-        <h1>Formation</h1>
-        <div class="details">
-            <div class="dates">
-            {% for cv in collections.cv %}
-                <p>{{cv.data.dates_formation}}</p>
-            </div>
-            <div class="description">
-                <p>{{cv.data.formation_fr}}</p>
-            {% endfor %}
-            </div> 
+    <h1>Collective Shows</h1>
+    <div class="details">
+    {% for show in collections.cv %}
+        {% if show.data.tags and "show" in show.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{show.data.dates_show}}</p>
+          <p class="description">{{show.data.show_en}}</p>
         </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
-    <div class="collective_shows">
-        <h1>Expositions collectives</h1>
-        <div class="details">
-            <div class="dates">
-            {% for cv in collections.cv %}
-                <p>{{cv.data.dates_show}}</p>
-            </div>
-            <div class="description">
-                <p>{{cv.data.show_fr}}</p>
-            {% endfor %}
-            </div> 
+    <h1>Performance</h1>
+    <div class="details">
+    {% for performance in collections.cv %}
+        {% if performance.data.tags and "performance" in performance.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{performance.data.dates_performance}}</p>
+          <p class="description">{{performance.data.performance_en}}</p>
         </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
-    <div class="performance">
-        <h1>Performances</h1>  
-        <div class="details">
-            <div class="dates">
-            {% for cv in collections.cv %}
-                <p>{{cv.data.dates_performance}}</p>
-            </div>
-            <div class="description">
-                <p>{{cv.data.performance_fr}}</p>
-            {% endfor %}
-            </div> 
+    <h1>Curating</h1>
+    <div class="details">
+    {% for curation in collections.cv %}
+        {% if curation.data.tags and "curation" in curation.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{curation.data.dates_curation}}</p>
+          <p class="description">{{curation.data.curation_en}}</p>
         </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
-    <div class="curating">
-        <h1>Curation</h1>  
-        <div class="details">
-            <div class="dates">
-            {% for cv in collections.cv %}
-                <p>{{cv.data.dates_curation}}</p>
-            </div>
-            <div class="description">
-                <p>{{cv.data.curation_fr}}</p>
-            {% endfor %}
-            </div> 
+    <h1>Association</h1>
+    <div class="details">
+    {% for association in collections.cv %}
+        {% if association.data.tags and "association" in association.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{association.data.dates_association}}</p>
+          <p class="description">{{association.data.association_en}}</p>
         </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
-    <div class="association">
-        <h1>Association</h1>  
-        <div class="details">
-            <div class="dates">
-            {% for cv in collections.cv %}
-                <p>{{cv.data.dates_association}}</p>
-            </div>
-            <div class="description">
-                <p>{{cv.data.association_fr}}</p>
-            {% endfor %}
-            </div> 
+    <h1>Press</h1>
+    <div class="details">
+    {% for press in collections.cv %}
+        {% if press.data.tags and "press" in press.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{press.data.dates_press}}</p>
+          <p class="description">{{press.data.press_en}}</p>
         </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+</div>
+
+<div class="français" style="display: none;">
+    <h1>Formation</h1>
+    <div class="details">
+    {% for education in collections.cv %}
+        {% if education.data.tags and "education" in education.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{education.data.dates_formation}}</p>
+          <p class="description">{{education.data.formation_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
     </div>
 
-    <div class="press">
-        <h1>Presse</h1>  
-        <div class="details">
-            <div class="dates">
-            {% for cv in collections.cv %}
-                <p>{{cv.data.dates_press}}</p>
-            </div>
-            <div class="description">
-                <p>{{cv.data.press_fr}}</p>
-            {% endfor %}
-            </div> 
+    <h1>Expositions Collectives</h1>
+    <div class="details">
+    {% for show in collections.cv %}
+        {% if show.data.tags and "show" in show.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{show.data.dates_show}}</p>
+          <p class="description">{{show.data.show_fr}}</p>
         </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Performance</h1>
+    <div class="details">
+    {% for performance in collections.cv %}
+        {% if performance.data.tags and "performance" in performance.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{performance.data.dates_performance}}</p>
+          <p class="description">{{performance.data.performance_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Curation</h1>
+    <div class="details">
+    {% for curation in collections.cv %}
+        {% if curation.data.tags and "curation" in curation.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{curation.data.dates_curation}}</p>
+          <p class="description">{{curation.data.curation_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Association</h1>
+    <div class="details">
+    {% for association in collections.cv %}
+        {% if association.data.tags and "association" in association.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{association.data.dates_association}}</p>
+          <p class="description">{{association.data.association_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Presse</h1>
+    <div class="details">
+    {% for press in collections.cv %}
+        {% if press.data.tags and "press" in press.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{press.data.dates_press}}</p>
+          <p class="description">{{press.data.press_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
     </div>
 </div>
 </div>
 
-    <div class="container_droite">
-        <img class="photo_victor" src="./assets/images/cv_identite.png">
-    </div>
-
+<div class="container_droite">
+    <img class="photo_victor" src="./assets/images/cv_identite.png">
+</div>
 </main>
-
 
 </body>
 </html>

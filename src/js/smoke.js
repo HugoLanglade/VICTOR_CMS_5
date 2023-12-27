@@ -1,38 +1,33 @@
-var smokeyness = 100; // how much smoke is on the screen (more will slow the script down)
-        var density = 80; // how 'big' is the smoke
-        var smokeSize = 20; // adjust the size of the smoke elements
-        
-        /****************************
-         * JavaScript Smokey Cursor  *
-         * (c)2013 mf2fm web-design  *
-         *  http://www.mf2fm.com/rv  *
-         * DON'T EDIT BELOW THIS BOX *
-         ****************************/
-        
-        var swide = 800;
-        var shigh = 600;
-        var toke = new Array();
-        var tokex = new Array();
-        var tokedx = new Array();
-        var tokey = new Array();
-        var nicotine = new Array();
-        var mousedown = false;
-        var x = 400;
-        var y = 300;
-        var sleft = sdown = 0;
-        var ie_version = (navigator.appVersion.indexOf("MSIE") != -1) ? parseFloat(navigator.appVersion.split("MSIE")[1]) : false;
-        
-        function addLoadEvent(funky) {
-          var oldonload = window.onload;
-          if (typeof (oldonload) != 'function') window.onload = funky;
-          else window.onload = function () {
-            if (oldonload) oldonload();
-            funky();
-          }
-        }
-        
-        addLoadEvent(puff);
-        
+var smokeyness = 100;
+var density = 80;
+var smokeSize = 20;
+
+var swide = 800;
+var shigh = 600;
+var toke = new Array();
+var tokex = new Array();
+var tokedx = new Array();
+var tokey = new Array();
+var nicotine = new Array();
+var mousedown = false;
+var x = 400;
+var y = 300;
+var sleft = sdown = 0;
+var ie_version = (navigator.appVersion.indexOf("MSIE") != -1) ? parseFloat(navigator.appVersion.split("MSIE")[1]) : false;
+
+function addLoadEvent(funky) {
+  var oldonload = window.onload;
+  if (typeof (oldonload) != 'function') window.onload = funky;
+  else window.onload = function () {
+    if (oldonload) oldonload();
+    funky();
+  }
+}
+
+// Check the window width before initializing the script
+if (window.innerWidth > 992) {
+  addLoadEvent(puff);
+}
         function puff() {
           if (document.getElementById) {
             var i, fag;

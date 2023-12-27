@@ -1,5 +1,5 @@
 ---
-numero_article: a-trap
+numero_article: article1
 
 permalink: /works/a-trap.html
 nom_lieu : A trap that doesn't kill - HEAD, Genève
@@ -61,53 +61,53 @@ description_en: |
             
 
 details_pieces_fr: |
-  <i>Comme d'habitude en été</i>, 2023 
+  Comme d'habitude en été, 2023 
   chaise brûlée, acrylique, ruban adhésif, scintillant
                                   
-  <i>ULTRA 1 & 2</i>, 2023
+  ULTRA 1 & 2, 2023
   acrylique sur bois, bombes fumigènes, 5 centimes de francs suisses
                                   
-  <i>Futur framework / spy</i>, 2021-2023
+  Futur framework / spy, 2021-2023
   bois, métal, autocollant
                                   
-  <i>Coool</i>, 2023
+  Coool, 2023
   carton, pompe, eau, sac plastique
                                   
-  <i>Good decisions by good politics</i>, 2023
+  Good decisions by good politics, 2023
   huile, acrylique & laque sur plaque de métal
               
-  <i>Thundering investigation</i>, 2023
+  Thundering investigation, 2023
   huile, acrylique et laque sur métal
               
-  <i>lose your mind</i>, 2023 
+  lose your mind, 2023 
   cheval en plastique
               
-  <i>Egohypnoticinteriorattackscompactemotionalshits</i>, 2023
+  Egohypnoticinteriorattackscompactemotionalshits, 2023
   matériaux divers (détails)
 
 details_pieces_en: |
-  <i>Comme d'habitude en été</i>, 2023 
+  Comme d'habitude en été, 2023 
   burnt chair, acrylic, tape, sparkler
                                   
-  <i>ULTRA 1 & 2</i>, 2023
+  ULTRA 1 & 2, 2023
   acrylic on wood, smoke bombs, 5 swiss francs cents
                                   
-  <i>Futur framework / spy</i>, 2021-2023
+  Futur framework / spy, 2021-2023
   wood, metal, sticker
                                   
-  <i>Coool</i>, 2023
+  Coool, 2023
   cardboard, pomp, water, plastic bag
                                   
-  <i>Good decisions by good politics</i>, 2023
+  Good decisions by good politics, 2023
   oil, acrylic & laquer on metal plate
               
-  <i>Thundering investigation</i>, 2023
+  Thundering investigation, 2023
   oil, acrylic & laquer on metal plate
               
-  <i>lose your mind</i>, 2023 
+  lose your mind, 2023 
   plastic horse
               
-  <i>Egohypnoticinteriorattackscompactemotionalshits</i>, 2023
+  Egohypnoticinteriorattackscompactemotionalshits, 2023
   various materials (details)
 
 credits: |

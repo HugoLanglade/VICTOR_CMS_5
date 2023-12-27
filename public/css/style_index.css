@@ -39,7 +39,7 @@ img {
 }
 
 .enveloppe:hover {
-    content: url('./assets/images/enveloppe2.png');
+    content: url('../assets/images/enveloppe2.png');
     height: 60%;
 }
 
@@ -93,7 +93,7 @@ img {
 
 .image_puzzle:hover {
     cursor: pointer;
-    content: url('./assets/images/puzzle_hover.png');
+    content: url('../assets/images/puzzle_hover.png');
 }
 
 
@@ -170,6 +170,10 @@ margin-bottom: 37%;
     margin-left: 55vw;
 }
 
+.enveloppe:hover {
+    content: none;
+}
+
 /* HEADER */
 
 .nav_bar {
@@ -177,7 +181,7 @@ margin-bottom: 37%;
 }
 
 .logo_victor {
-    width: 50vw;
+    width: 70vw;
 }
 
 .enveloppe {
@@ -197,7 +201,7 @@ margin-bottom: 37%;
     .lien_works {
     /* left: 0; */
     text-align: center;
-    margin-bottom: 50%;
+    margin-bottom: 70%;
     }
     
     
@@ -209,11 +213,11 @@ margin-bottom: 37%;
     .lien_cv {
         position: absolute;
         text-align: center;
-        margin-top: 50%;
+        margin-top: 70%;
     }
 
     .logo_works, .logo_bio, .logo_cv {
-        width: 45vw;
+        width: 65vw;
         max-height: 80vh;
     }
 
@@ -228,7 +232,10 @@ margin-bottom: 37%;
         position: absolute;
         right: 0;
         bottom: 0;
+    }
 
+    .image_puzzle:hover {
+        content: none;
     }
 
 }

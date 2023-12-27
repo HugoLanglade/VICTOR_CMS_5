@@ -2,7 +2,7 @@
 permalink: /contact.njk
 layout: 'base_contact.njk'
 nom_adresse: |
-    Hugo Laglande
+    Hugo Langlade
     Boulevard Helvétique 9
     1204, Genève
 mail: victor.deletraz@gmail.com

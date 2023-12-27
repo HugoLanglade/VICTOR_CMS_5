@@ -1,6 +1,5 @@
 ---
-numero_article: encore-heureux
-tags: works
+numero_article: article2
 
 permalink: /works/encore-heureux.html
 nom_lieu : Encore Heureux
@@ -11,15 +10,15 @@ lien: https://soul2soulru.com/expo/encore-heureux/
 texte_lien_fr: Site web
 texte_lien_en: Website
 fr_nom_maj: ENCORE HEUREUX
-fr_details_lieu: Soul2Soul / RU - Genève (CH), 2023
+fr_details_lieu: Soul2Soul / RU - Genève (CH)
 fr_type_duree: |
   Duo Show avec Annabelle Galland
   Invitation de Sylvain Gelewski
 
 en_nom_maj: ENCORE HEUREUX
-en_details_lieu: Soul2Soul / RU - Geneva (CH), 2023
+en_details_lieu: Soul2Soul / RU - Geneva (CH)
 en_type_duree: |
-  A duo show with Annabelle Galland
+  Duo show with Annabelle Galland
   An invitation by Sylvain Gelewski
 
 image_couv: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_01.jpg
@@ -79,6 +78,6 @@ details_pieces_en:
 credits: |
   Text: Sylvain Gelewski
 
-vimeo_src: 
+vimeo_src: "#"
 
 ---

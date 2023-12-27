@@ -8,12 +8,14 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/cv/");
     eleventyConfig.addPassthroughCopy("./src/cv/*.md");
     eleventyConfig.addPassthroughCopy("./src/bio/");
+    eleventyConfig.addPassthroughCopy("./src/admin/");
 
     eleventyConfig.addCollection('works', function (collection) {
       return collection.getFilteredByTag('works');
     });
 
     eleventyConfig.addCollection('cv', function (collection) {
+      // Use either tag-based filtering or glob-based filtering, not both
       return collection.getFilteredByTag('cv');
     });
 

@@ -235,6 +235,7 @@ a:hover {
 
 /* VIMEO */ 
 .vimeo-container {
+    display: flex;
     width: 100%;
     max-width: 50vw; /* Adjust the width as needed */
     margin-top: 20px; /* Adjust the margin as needed */
@@ -395,14 +396,16 @@ a:hover {
 
 .left-arrow {
     left: 0; /* Add space of 2vw from the left of the image */
-  background-image: url("/images/fleche_left.png");
+  background-image: url('./assets/images/fleche_left.png');
   z-index: 3;
+  opacity: 1;
 }  
 
 .right-arrow {
   right: 0; /* Add space of 2vw from the right of the image */
-  background-image: url("/images/fleche_right.png");
+  background-image: url('./assets/images/fleche_right.png');
   z-index: 2;
+  opacity: 1;
 }  
 
 
@@ -439,7 +442,6 @@ a:hover {
 }
 
 
-
 /* FORMAT TELEPHONE */
 
 @media all and (max-width: 992px) {
@@ -463,7 +465,7 @@ a:hover {
     }
 
     .works_image_phone {
-        width: 35vw;
+        width: 50vw;
         height: auto;
     }
 
@@ -478,9 +480,9 @@ a:hover {
     }
 
     .icon_gauche {
-        width: 17vw;
+        width: 30vw;
         height: auto;
-        padding-right: 2vw;   
+        padding-right: 5vw;   
     }
 
     .icon {
@@ -494,7 +496,7 @@ a:hover {
     }
 
     .container_gauche h1 {
-        font-size: 4vw;
+        font-size: 1.7rem;
         text-decoration: none;
         margin-block-start: 0.5em;
         margin-block-end: 0.3em;
@@ -502,7 +504,7 @@ a:hover {
     }
     
     .container_gauche li {
-        font-size: 2.7vw;
+        font-size: 1.2rem;
         list-style-type: none;
         padding-bottom: 1vh;
     }
@@ -535,21 +537,21 @@ a:hover {
 
 
 .container_titre_fr h2 {
-    font-size: 4vw;
+    font-size: 5vw;
     margin-block-start: 0em;
     margin-block-end: 0.2em;
-    padding-bottom: 1.5vh;
+    padding-bottom: 0.8vh;
 }
 
 .container_titre_en h2 {
-    font-size: 4vw;
+    font-size: 5vw;
     margin-block-start: 0em;
     margin-block-end: 0.2em;
-    padding-bottom: 1.5vh;
+    padding-bottom: 0.8vh;
 }
 
 .container_titre_fr p {
-    font-size: 2.7vw;
+    font-size: 4vw;
     margin-block-start: 0vh;
     margin-block-end: 0vh; 
     white-space: pre-line;
@@ -558,7 +560,7 @@ a:hover {
 }
 
 .container_titre_en p {
-    font-size: 2.7vw;
+    font-size: 4vw;
     margin-block-start: 0vh;
     margin-block-end: 0vh; 
     white-space: pre-line;
@@ -590,7 +592,7 @@ body {
 
 .photos {
     width: 98vw;
-    max-height: 45vh;
+    max-height: 32vh;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -603,39 +605,43 @@ body {
 
 
 .image {
-    max-height: 45vh; /* Set a fixed height for portrait images */
+    max-height: 32vh;; /* Set a fixed height for portrait images */
     padding-right: 1vw;
     cursor: pointer;
 }
 
 .container_bouton img {
-    max-height: 45vh;
+    max-height: 32vh;
 }
 
 .container_bouton {
-height: 45vh;
+    max-height: 32vh;
 top:40%;
+}
+
+.img_pleinecran {
+    width: 13vw;
 }
 
 /* TEXTES SOUS LES PHOTOS */
 
 .texte_projets_fr {
     display: none;
-    width:95%; /* proposition Victor 80%*/
+    width:85%; /* proposition Victor 80%*/
     height: auto;
 }
 
 .texte_projets_en {
-    width:95%; /* proposition Victor 80%*/
+    width:85%; /* proposition Victor 80%*/
     height: auto;
 }
 
 .texte_projets_fr p {
-    font-size: 2.7vw;
+    font-size: 1.2rem;
 }
 
 .texte_projets_en p {
-    font-size: 2.7vw;
+    font-size: 1.2rem;
 }
 
 .description_pieces_fr {
@@ -654,7 +660,7 @@ top:40%;
 }
 
 .credits_texte p {
-    font-size: 2vw;
+    font-size: 1rem;
 }
 
 /* Arrows */

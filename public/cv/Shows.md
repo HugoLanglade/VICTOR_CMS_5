@@ -1,5 +1,7 @@
 ---
-dates_formation: |
+tags:
+ - show
+dates_show: |
     2021-2024
 
     2019-2021
