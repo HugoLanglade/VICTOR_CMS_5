@@ -10,6 +10,15 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/bio/");
     eleventyConfig.addPassthroughCopy("./src/admin/");
 
+    eleventyConfig.setBrowserSyncConfig({
+      // Set the base directory for Eleventy to serve files from
+      server: 'dist',
+    });
+  
+    // Set the base URL for your project
+    eleventyConfig.setTemplateFormats(['njk', 'md', 'html']);
+    eleventyConfig.setDataDeepMerge(true);
+
     eleventyConfig.addCollection('works', function (collection) {
       return collection.getFilteredByTag('works');
     });

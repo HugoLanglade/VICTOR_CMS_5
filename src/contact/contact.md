@@ -1,5 +1,5 @@
 ---
-permalink: /contact.njk
+permalink: /contact.html
 layout: 'base_contact.njk'
 nom_adresse: |
     Hugo Langlade

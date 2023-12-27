@@ -1,4 +1,5 @@
 ---
+title: BIO
 permalink: /bio.html
 layout: 'base_bio.njk'
 bio_francais: |
