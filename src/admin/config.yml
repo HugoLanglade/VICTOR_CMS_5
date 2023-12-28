@@ -10,10 +10,9 @@ collections:
   - name: "contact"
     label: "Contact"
     folder: "src/contact"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}  # Add this line for the entry title
       - {label: "Contact", name: "contact", widget: "hidden", default: "_includes/base_contact.njk"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_contact.njk"}
       - {label: "Adresse", name: "nom_adresse", widget: "markdown"}
