@@ -9,9 +9,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/cv/*.md");
   eleventyConfig.addPassthroughCopy("./src/bio/");
   eleventyConfig.addPassthroughCopy("./src/images/");
+  eleventyConfig.addPassthroughCopy("./src/images/uploads");
 
   // Corrected line: use eleventyConfig instead of config
-  eleventyConfig.addPassthroughCopy('./app/content/admin');
+  eleventyConfig.addPassthroughCopy("src/admin/")
+  eleventyConfig.addPassthroughCopy("src/admin/config.yml", "admin/config.yml")
 
   eleventyConfig.setBrowserSyncConfig({
     // Set the base directory for Eleventy to serve files from
