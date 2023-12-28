@@ -1,24 +1,20 @@
 backend:
   name: git-gateway
-  branch: main
-  media_folder: "public/assets/uploads" # Media files will be stored in the repo under static/images/uploads
-  public_folder: "/assets/uploads" # The src attribute for uploaded media will begin with /images/uploads
-  collections:
-    - name: "contact"
-      label: "contact"
-      folder: "src/contact" 
-      create: false
-      slug: "{{slug}}" 
-      fields:
-        - {label: "Layout", name: "layout", widget: "hidden", default: "base_contact.njk"}
-        # ... other fields for the 'contact' collection ...
-    - name: "bio"
-      label: "bio"
-      folder: "src/bio"
-      create: false
-      slug: "{{slug}}" 
-      fields:
-        - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
-        - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
-        - {label: "Biographie (Français)", name: "bio_français", widget: "markdown"}
-        - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown"}
+  branch: main # Branch to update (optional; defaults to master)
+  media_folder: "_site/images/uploads"
+  media_library: 
+  - name: uploads
+  public_folder: "/images/uploads"
+collections:
+  - name: "contact"
+    label: "contact"
+    folder: "src/contact" 
+    create: false  # Voir si faux comme ça pas de nouveau !
+    slug: "{{slug}}" 
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_contact.njk"}
+      - {label: "Adresse", name: "nom_adresse", widget: "markdown"}
+      - {label: "Mail", name: "mail", widget: "url"} #A verifier si pas string
+      - {label: "Instagram", name: "instagram_link", widget: "url"} # Voir pour les liens !
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/contact.njk"} # A checker !
+
