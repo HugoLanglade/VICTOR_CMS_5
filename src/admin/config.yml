@@ -10,14 +10,15 @@ collections:
   - name: "contact"
     label: "Contact"
     folder: "src/contact"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
+      - {label: “Title”, name: “Title”, widget: “string”}
       - {label: "Contact", name: "contact", widget: "hidden", default: "_includes/base_contact.njk"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_contact.njk"}
       - {label: "Adresse", name: "nom_adresse", widget: "markdown"}
-      - {label: "Mail", name: "mail", widget: "string"}
-      - {label: "Instagram", name: "instagram_link", widget: "string"}
+      - {label: "Mail", name: "mail", widget: "url"}
+      - {label: "Instagram", name: "instagram_link", widget: "url"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/contact.njk"}
   - name: "bio"
     label: "bio"
