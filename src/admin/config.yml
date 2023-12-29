@@ -20,7 +20,7 @@ collections:
       - {label: "Mail", name: "mail", widget: "string"}
       - {label: "Instagram", name: "instagram_link", widget: "string"}
   - name: "bio"
-    label: "bio"
+    label: "Bio"
     folder: "src/bio" 
     create: false  # Voir si faux comme ça pas de nouveau !
     slug: "{{slug}}" 
