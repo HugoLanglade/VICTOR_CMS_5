@@ -1,5 +1,5 @@
 ---
-dates_residency: 2020
-residency_fr: TIMES MAGAZINE
-residency_en: TIMES MAGAZINE
+dates_residency: "2021"
+residency_fr: La Fonte, Carouge, CH (2 semaines)
+residency_en: La Fonte, Carouge, CH (2 weeks )
 ---
