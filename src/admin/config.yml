@@ -124,3 +124,14 @@ collections:
       - {label: "Dates", name: "dates_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "show_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "show_en", widget: "markdown"}
+  - name: "cv_residency"
+    label: "CV: Residency"
+    folder: "src/cv/residency"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_residency.html"} # Adjust the permalink as needed
+      - {label: "Dates", name: "dates_residency", widget: "string"}
+      - {label: "Nom Exposition, Lieu (Français)", name: "residency_fr", widget: "markdown"}
+      - {label: "Nom Exposition, Performance (Anglais)", name: "residency_en", widget: "markdown"}

@@ -74,6 +74,18 @@
       {% endfor %}
     </div>
 
+    <h1>Residency</h1>
+    <div class="details">
+    {% for residency in collections.cv %}
+        {% if residency.data.tags and "residency" in residency.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{residency.data.dates_residency}}</p>
+          <p class="description">{{residency.data.residency_en}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
     <h1>Association</h1>
     <div class="details">
     {% for association in collections.cv %}
@@ -143,6 +155,18 @@
         <div class="sous_details">
           <p class="dates">{{curation.data.dates_curation}}</p>
           <p class="description">{{curation.data.curation_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Residency</h1>
+    <div class="details">
+    {% for residency in collections.cv %}
+        {% if residency.data.tags and "residency" in residency.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{residency.data.dates_residency}}</p>
+          <p class="description">{{residency.data.residency_fr}}</p>
         </div>
         {% endif %}
       {% endfor %}
