@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-permalink: /cv_show.html
+permalink: /cv_show3.html
 dates_show: "2022"
 show_fr: |-
   Encore Heureux, en duo avec Annabelle Galland, Soul2Soul / RU, Genève, CH
