@@ -1,6 +1,6 @@
 ---
 permalink: /works/a-trap.html
-numero_article: article3
+numero_article: Espace 3353
 nom_lieu: Making Kin, Making Place- Espace 3353
 année: 2023
 mois: 12
