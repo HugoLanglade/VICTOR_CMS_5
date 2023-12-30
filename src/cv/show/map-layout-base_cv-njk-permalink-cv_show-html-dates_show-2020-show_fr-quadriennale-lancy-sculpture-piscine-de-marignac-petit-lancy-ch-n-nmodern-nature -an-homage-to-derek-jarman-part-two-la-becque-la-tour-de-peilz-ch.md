@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-permalink: /cv_show.html
+permalink: /cv_show1.html
 dates_show: "2020"
 show_fr: >-
   Quadriennale Lancy Sculpture, Piscine de Marignac, Petit-Lancy, CH
