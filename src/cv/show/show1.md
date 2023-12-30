@@ -1,5 +1,11 @@
 ---
 dates_show: 2023
-show_fr: A trap that doesn't kill
-show_en: A trap that doesn't kill
+show_fr: |
+  Making Kin, Making Place, Espace 3353, Carouge, CH
+
+  Tomorrows attitude is a bit far from here, Space Aknown, Athènes, GR
+show_en: |-
+  Making Kin, Making Place, Espace 3353, Carouge, CH
+
+  Tomorrows attitude is a bit far from here, Space Aknown, Athens, GR
 ---
