@@ -15,8 +15,27 @@ en_details_lieu: Exposition collective avec Mathias C. Pfund, Zahrasadat Hakim &
   Maud Abbé-Decarroux, Espace 3353, Carouge, 2023
 fr_type_duree: ""
 en_type_duree: ""
-image_couv: ""
-images: []
+image_couv: /images/uploads/perfo8.jpg
+images:
+  - path: /images/uploads/docu1.jpg
+  - path: /images/uploads/docu2.jpg
+  - path: /images/uploads/docu3.jpg
+  - path: /images/uploads/docu4.jpg
+  - path: /images/uploads/docu5.jpg
+  - path: /images/uploads/docu6.jpg
+  - path: /images/uploads/docu7.jpg
+  - path: /images/uploads/docu9.jpg
+  - path: /images/uploads/docu10.jpg
+  - path: /images/uploads/perfo1.jpg
+  - path: /images/uploads/perfo2.jpg
+  - path: /images/uploads/perfo5.jpg
+  - path: /images/uploads/perfo6.jpg
+  - path: /images/uploads/perfo10.jpg
+  - path: /images/uploads/perfo11.jpg
+  - path: /images/uploads/perfo9.jpg
+  - path: /images/uploads/perfo15.jpg
+  - path: /images/uploads/perfo13.jpg
+  - path: /images/uploads/perfo16.jpg
 description_fr: >-
   For the inaugural and eponymous exhibition of their curatorial residency, as
   slow
