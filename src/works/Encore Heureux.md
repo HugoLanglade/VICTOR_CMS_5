@@ -1,6 +1,6 @@
 ---
 permalink: /works/encore-heureux.html
-numero_article: Encore Heureux
+numero_article: article2
 nom_lieu: Encore Heureux
 année: 2023
 mois: 4
