@@ -14,8 +14,8 @@ bio_francais: >
 
   Victor Delétraz a exposé et performé à Sofia, Bulgarie, à Athènes, Grèce, à la 4e et 5e Biennale des espaces d'art indépendant de Genève et prépare sa première exposition personnelle à l'espace Zabriskie à Genève curaté par Limbo Space pour début novembre 2023.
 bio_français: >-
-  Victor Delétraz (*1997) est un artiste vivant et travaillant à Genève. Il est
-  récemment diplômé d'un master en arts visuels ( Work.Master - Pratiques
+  **Victor Delétraz** (*1997) est un artiste vivant et travaillant à Genève. Il
+  est récemment diplômé d'un master en arts visuels ( Work.Master - Pratiques
   artistiques contemporaines ) à la HEAD–Genève. 
 
   Sa pratique s'articule autour de l'installation, l'écriture, la musique, la vidéo, la peinture et la performance.
