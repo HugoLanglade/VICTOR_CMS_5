@@ -1,6 +1,6 @@
 ---
 permalink: /works/a-trap.html
-numero_article: A trap that doesn't kill
+numero_article: article1
 nom_lieu: A trap that doesn't kill - HEAD, Genève
 année: 2023
 mois: 9
