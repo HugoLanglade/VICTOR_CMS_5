@@ -1,6 +1,6 @@
 ---
 permalink: /works/making.html
-numero_article: Espace 3353
+numero_article: article3
 nom_lieu: Making Kin, Making Place- Espace 3353
 année: 2023
 mois: 12
