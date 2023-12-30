@@ -5,16 +5,16 @@ nom_lieu: Making Kin, Making Place- Espace 3353
 année: 2023
 mois: 12
 lien: "#vimeo_video"
-texte_lien_fr: ""
-texte_lien_en: ""
+texte_lien_fr: .
+texte_lien_en: .
 fr_nom_maj: MAKING KIN, MAKING PLACE
 en_nom_maj: MAKING KIN, MAKING PLACE
-fr_details_lieu: Group show with Mathias C. Pfund, Zahrasadat Hakim & Maud
-  Abbé-Decarroux, Espace 3353, Carouge, 2023
-en_details_lieu: Exposition collective avec Mathias C. Pfund, Zahrasadat Hakim &
+fr_details_lieu: Exposition collective avec Mathias C. Pfund, Zahrasadat Hakim &
   Maud Abbé-Decarroux, Espace 3353, Carouge, 2023
-fr_type_duree: ""
-en_type_duree: ""
+en_details_lieu: Group show with Mathias C. Pfund, Zahrasadat Hakim & Maud
+  Abbé-Decarroux, Espace 3353, Carouge, 2023
+fr_type_duree: Installation & performance
+en_type_duree: Installation & performance
 image_couv: /images/uploads/perfo8.jpg
 images:
   - path: /images/uploads/docu1.jpg
@@ -176,10 +176,10 @@ description_en: >-
   il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
 details_pieces_fr: |-
   Lurking through the cracks, 2023, 140 x 110 x 300 cm
-  wood, jute fabric, plaster, bulb, screen, video 15' in loop
+  bois, toile de jute, plâtre, ampoule, écran, vidéo 15' en boucle
 details_pieces_en: |-
   Lurking through the cracks, 2023, 140 x 110 x 300 cm
-  bois, toile de jute, plâtre, ampoule, écran, vidéo 15' en boucle
+  wood, jute fabric, plaster, bulb, screen, video 15' in loop
 credits: |
   Curation : as slow as possible
   Photos: Yul Tomatala
