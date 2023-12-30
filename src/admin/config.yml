@@ -100,8 +100,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
-      - {label: "Détails de la Performance (Français)", name: "formation_fr", widget: "markdown"}
-      - {label: "Détails de la Performance (Anglais)", name: "formation_en", widget: "markdown"}
+      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
+      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "markdown"}
   - name: "cv_press"
     label: "CV: Presse"
     folder: "src/cv/press"
