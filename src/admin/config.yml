@@ -41,7 +41,7 @@ collections:
       - {label: "Nom Expo - Lieu", name: "nom_lieu", widget: "string"}
       - {label: "Année", name: "année", widget: "number"}
       - {label: "Mois", name: "mois", widget: "number"}
-      - {label: "Lien", name: "lien", widget: "url"}
+      - {label: "Lien", name: "lien", widget: "string"}
       - {label: "Texte du lien (Français)", name: "texte_lien_fr", widget: "string"}
       - {label: "Texte du Lien (Anglais)", name: "texte_lien_en", widget: "string"}
       - {label: "Nom Projet en Majuscule (Français)", name: "fr_nom_maj", widget: "string"}
@@ -57,7 +57,7 @@ collections:
       - {label: "Details des Pieces (Français)", name: "details_pieces_fr", widget: "markdown"}
       - {label: "Details des Pieces (Anglais)", name: "details_pieces_en", widget: "markdown"}
       - {label: "Credits", name: "credits", widget: "markdown"}
-      - {label: "Code vimeo", name: "vimeo_src", widget: "url"}
+      - {label: "Code vimeo", name: "vimeo_src", widget: "string"}
   - name: "cv_association"
     label: "CV: Association"
     folder: "src/cv/association"
