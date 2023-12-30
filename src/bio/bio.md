@@ -18,7 +18,7 @@ bio_français: >-
   récemment diplômé d'un master en arts visuels ( Work.Master - Pratiques
   artistiques contemporaines ) à la HEAD–Genève. 
 
-  Sa pratique s'articule autour de l'installation, l'écriture, la musique, la vidéo, la peinture et la performance. 
+  Sa pratique s'articule autour de l'installation, l'écriture, la musique, la vidéo, la peinture et la performance.
 
   Imaginant chaque projet comme une situation unique à traiter sur le moment, son travail interroge le monde qui l'entoure, transformant des objets du quotidien et leur sens pour amener à d'autres narrations et écritures, absurdes et engagées.
 
