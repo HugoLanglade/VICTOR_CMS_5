@@ -1,7 +1,7 @@
 ---
 permalink: /works/encore-heureux.html
 numero_article: article2
-nom_lieu: Encore Heureux
+nom_lieu: Encore Heureux, Soul2Soul / RU
 année: 2022
 mois: 4
 lien: https://soul2soulru.com/expo/encore-heureux/
@@ -72,8 +72,8 @@ description_en: >
   From the beginning, this exhibition has been a sham. An extreme collaboration, on the verge of losing balance but in total control. One would even have heard them say «we must not miss». 
             
   Still happy ( Encore Heureux ).
-details_pieces_fr: null
-details_pieces_en: null
+details_pieces_fr: <3
+details_pieces_en: <3
 credits: |
   Text: Sylvain Gelewski
 vimeo_src: "#"
