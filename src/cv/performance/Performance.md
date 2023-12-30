@@ -38,5 +38,5 @@ formation_en: >-
 
 
   Sun beam on sad clown, Space Aknown, Athens, GR
-permalink: /cv_performance
+permalink: /cv_performance_2023
 ---
