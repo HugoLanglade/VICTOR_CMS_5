@@ -5,6 +5,7 @@ dates_show: "2020"
 show_fr: >-
   Quadriennale Lancy Sculpture, Piscine de Marignac, Petit-Lancy, CH
 
+  -
 
   Modern Nature : An Homage to Derek Jarman, Part Two, La Becque, La Tour-de-Peilz, CH
 show_en: >-
