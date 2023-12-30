@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-permalink: /cv_show.html
+permalink: /cv_show2.html
 dates_show: "2021"
 show_fr: >
   Glowing Pantins & Co., Espace Mora Mora, Carouge, CH
