@@ -1,5 +1,5 @@
 ---
-permalink: /works/a-trap.html
+permalink: /works/making.html
 numero_article: Espace 3353
 nom_lieu: Making Kin, Making Place- Espace 3353
 année: 2023
