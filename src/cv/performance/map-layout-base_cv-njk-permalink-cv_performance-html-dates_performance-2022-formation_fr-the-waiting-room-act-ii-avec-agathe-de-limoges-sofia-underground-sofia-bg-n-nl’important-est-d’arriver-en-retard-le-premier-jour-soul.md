@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-permalink: /cv_performance.html
+permalink: /cv_performance2.html
 dates_performance: "2022"
 formation_fr: >-
   The Waiting Room Act II avec Agathe de Limoges, Sofia Underground, Sofia, BG
