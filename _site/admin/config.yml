@@ -14,14 +14,13 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Contact", name: "contact", widget: "hidden", default: "_includes/base_contact.njk"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/contact.html"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_contact.njk"}
       - {label: "Adresse", name: "nom_adresse", widget: "markdown"}
       - {label: "Mail", name: "mail", widget: "string"}
       - {label: "Instagram", name: "instagram_link", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/contact.njk"}
   - name: "bio"
-    label: "bio"
+    label: "Bio"
     folder: "src/bio" 
     create: false  # Voir si faux comme ça pas de nouveau !
     slug: "{{slug}}" 
@@ -37,12 +36,12 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
+      - {label: "Permalink", name: "permalink", widget: "string"} # A checker !
       - {label: "Numero Article", name: "numero_article", widget: "string"}
       - {label: "Nom Expo - Lieu", name: "nom_lieu", widget: "string"}
       - {label: "Année", name: "année", widget: "number"}
       - {label: "Mois", name: "mois", widget: "number"}
-      - {label: "Lien", name: "lien", widget: "url"}
+      - {label: "Lien", name: "lien", widget: "string"}
       - {label: "Texte du lien (Français)", name: "texte_lien_fr", widget: "string"}
       - {label: "Texte du Lien (Anglais)", name: "texte_lien_en", widget: "string"}
       - {label: "Nom Projet en Majuscule (Français)", name: "fr_nom_maj", widget: "string"}
@@ -58,7 +57,7 @@ collections:
       - {label: "Details des Pieces (Français)", name: "details_pieces_fr", widget: "markdown"}
       - {label: "Details des Pieces (Anglais)", name: "details_pieces_en", widget: "markdown"}
       - {label: "Credits", name: "credits", widget: "markdown"}
-      - {label: "Code vimeo", name: "vimeo_src", widget: "url"}
+      - {label: "Code vimeo", name: "vimeo_src", widget: "string"}
   - name: "cv_association"
     label: "CV: Association"
     folder: "src/cv/association"
@@ -66,7 +65,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_association.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_association", widget: "string"}
       - {label: "Nom Association (Français)", name: "association_fr", widget: "string"}
       - {label: "Nom Association (Anglais)", name: "association_en", widget: "string"}
@@ -77,7 +76,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_curation.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_curation", widget: "string"}
       - {label: "Nom Projet de Curation (Français)", name: "curation_fr", widget: "markdown"}
       - {label: "Nom Projet de Curation (Anglais)", name: "curation_en", widget: "markdown"}  
@@ -88,7 +87,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_education.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_formation", widget: "string"}
       - {label: "Nom de la Formation (Français)", name: "formation_fr", widget: "markdown"}
       - {label: "Nom de la Formation (Anglais)", name: "formation_en", widget: "markdown"}
@@ -99,7 +98,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_performance.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
       - {label: "Détails de la Performance (Français)", name: "formation_fr", widget: "markdown"}
       - {label: "Détails de la Performance (Anglais)", name: "formation_en", widget: "markdown"}
@@ -110,7 +109,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_press.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_press", widget: "string"}
       - {label: "Nom Performance, Lieu (Français)", name: "press_fr", widget: "markdown"}
       - {label: "Nom Performance, Lieu (Anglais)", name: "press_en", widget: "markdown"}
@@ -121,7 +120,18 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_show.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "show_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "show_en", widget: "markdown"}
+  - name: "cv_residency"
+    label: "CV: Residency"
+    folder: "src/cv/residency"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
+      - {label: "Dates", name: "dates_residency", widget: "string"}
+      - {label: "Nom Exposition, Lieu (Français)", name: "residency_fr", widget: "markdown"}
+      - {label: "Nom Exposition, Performance (Anglais)", name: "residency_en", widget: "markdown"}
