@@ -19,7 +19,7 @@ bio_français: >-
   Les sculptures ne sont pas fixées, évoluent dans le temps, sont re-transformées pour des expositions futures créant ainsi un corpus propre à l'artiste, un vocabulaire commun jouant sur la répétition.
 
 
-  Ses installations sont des scènes pour ses performances. Avec des actions simples, qui peuvent paraître non-maîtrisées, je compose avec l’improvisation et des gestes définis et répétés. Je créer des cadres qui laissent les surprises arriver et donc des moment instantanés et honnêtes qui me dépassent comme un tropisme.
+  Ses installations sont des scènes pour ses performances. Avec des actions simples, qui peuvent paraître non-maîtrisées, il compose avec l’improvisation et des gestes définis et répétés. Il crée des cadres qui laissent les surprises arriver et donc des moment instantanés et honnêtes qui le dépasse comme un tropisme.
 
 
   Il utilise souvent un vocabulaire commun dans chaque performances: fumée, feu, effets spectaculaires (ou anti-spectaculaire), textes, musique et des interactions avec les spectateur.ice.s.x.
