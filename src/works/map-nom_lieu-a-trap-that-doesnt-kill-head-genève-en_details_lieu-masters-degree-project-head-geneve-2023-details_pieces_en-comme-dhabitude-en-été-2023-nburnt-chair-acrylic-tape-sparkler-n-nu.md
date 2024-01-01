@@ -38,71 +38,75 @@ images:
   - path: /images/uploads/perfo16.jpg
 description_fr: >-
   For the inaugural and eponymous exhibition of their curatorial residency, as
-  slow
-
-  as possible has invited four artists
-
-  with different approaches and practices to take
-
-  Making Kin, Making Place as starting points for spatial and social interventions
-
-  in
-
-  Espace 3353 and its surrounding area. Sorne reflect on what is: the artist-run space
-
-  in relation to institutional
-
-  space, while others approach the space through what is
-
-  not- inciting exchange through meals and interaction.
-
-  Victor Delétraz explores the immediate surroundings of 3353 using a small motorised
-
-  appendage. ln the exhibition space, filmic exploration is confronted with a
-
-  shaky architecture.
-
-  The installation later acts as a performance space for the artist.
+  slow as possible has invited four artists with different approaches and
+  practices to take Making Kin, Making Place as starting points for spatial and
+  social interventions in Espace 3353 and its surrounding area. Sorne reflect on
+  what is: the artist-run space in relation to institutional space, while others
+  approach the space through what is not- inciting exchange through meals and
+  interaction. Victor Delétraz explores the immediate surroundings of 3353 using
+  a small motorised appendage. ln the exhibition space, filmic exploration is
+  confronted with a shaky architecture. The installation later acts as a
+  performance space for the artist.
 
 
-  -
+  –––––––
 
 
   Texte lu durant la performance :
 
+
+
   Il y a le soleil et rien. Il y a la vie absurde et rien.
 
-  Des envies de se cacher dans des structures qui invisibilisent. Pour un temps. Pour toujours.
+  Des envies de se cacher dans des structures qui invisibilisent. 
+
+
+  Pour un temps. Pour toujours.
+
 
   Hier soir et demain matin on a le souffle court car rien ne promet que les feuilles pousseront.
 
   Que la banale violence siècle après siècle puisse se taire et donner un truc qu'on appellerait
 
-  poème. Toute la technologie sert à contrôler, à télécommander, à surveiller et à anéantir comme
+  poème. Toute la technologie sert à contrôler, à télécommander, à surveiller et à anéantir comme dans un mauvais film de SF. 
 
-  dans un mauvais film de SF. Mais c'est maintenant et ici. Vraiment si il reste un truc à faire, c'est
 
-  jamais oublier que le fascisme fait toc toc à toutes les portes.
+  Mais c'est maintenant et ici. Vraiment si il reste un truc à faire, c'est jamais oublier que le fascisme fait toc toc à toutes les portes.
 
   Avec des larmes de crocodile et des mensonges pleins les poches.
 
+
   C'est brandir une main à l'encontre d'un discours. C'est être à plusieurs et faire barrage. Un
 
-  barrage contre la bêtise et en faire de l'énergie avec, dans les grosses turbines. De l'électricité
+  barrage contre la bêtise et en faire de l'énergie avec, dans les grosses turbines. De l'électricité avec la bêtise pour en faire un courant de la rage. 
 
-  avec la bêtise pour en faire un courant de la rage. Les corneilles lancent leur noix sur la route
 
-  pour casser la coque. Le type me dit tu as un cassé mon rétroviseur. J'ai 26 ans et je parle dans
+  Les corneilles lancent leur noix sur la route pour casser la coque.
 
-  le vide. Les coïncidences coïncident. Les causes causent. J'ai du fric et je le dépense comme si
 
-  c'était quelque chose à se débarrasser. Les renards de la forêt vont jusque sur ma terrasse pour
+  Le type me dit tu as un cassé mon rétroviseur. 
 
-  chercher une saucisse égarée. Le bruit de plastique, le bruit du bois.
 
-  Je vois des araignées dans toutes le formes aux bordures de mes yeux, Ça fait peur et je sursaute
+  J'ai 26 ans et je parle dans le vide. 
 
-  à chaque fois. L'heure est à laisser, les minutes à prendre, les secondes à avaler.
+
+  Les coïncidences coïncident. 
+
+
+  Les causes causent. 
+
+
+  J'ai du fric et je le dépense comme si c'était quelque chose à se débarrasser. 
+
+
+  Les renards de la forêt vont jusque sur ma terrasse pour chercher une saucisse égarée. 
+
+
+  Le bruit de plastique, le bruit du bois.
+
+
+  Je vois des araignées dans toutes le formes aux bordures de mes yeux, Ça fait peur et je sursaute à chaque fois. L'heure est à laisser, les minutes à prendre, les secondes à avaler.
+
 
   il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
 description_en: >-
