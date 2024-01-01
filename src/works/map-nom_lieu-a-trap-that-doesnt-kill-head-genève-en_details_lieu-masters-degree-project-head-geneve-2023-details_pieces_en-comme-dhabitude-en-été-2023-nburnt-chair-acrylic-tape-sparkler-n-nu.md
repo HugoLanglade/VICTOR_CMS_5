@@ -4,9 +4,9 @@ numero_article: article3
 nom_lieu: Making Kin, Making Place- Espace 3353
 année: 2023
 mois: 12
-lien: "#vimeo_video"
-texte_lien_fr: .
-texte_lien_en: .
+lien: https://www.espace3353.ch/
+texte_lien_fr: Website
+texte_lien_en: Website
 fr_nom_maj: MAKING KIN, MAKING PLACE
 en_nom_maj: MAKING KIN, MAKING PLACE
 fr_details_lieu: Exposition collective avec Mathias C. Pfund, Zahrasadat Hakim &
@@ -114,37 +114,25 @@ description_fr: >-
   il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
 description_en: >-
   For the inaugural and eponymous exhibition of their curatorial residency, as
-  slow
+  slow as possible has invited four artists with different approaches and
+  practices to take Making Kin, Making Place as starting points for spatial and
+  social interventions in Espace 3353 and its surrounding area. Sorne reflect on
+  what is: the artist-run space in relation to institutional space, while others
+  approach the space through what is not- inciting exchange through meals and
+  interaction. 
 
-  as possible has invited four artists
 
-  with different approaches and practices to take
-
-  Making Kin, Making Place as starting points for spatial and social interventions
-
-  in
-
-  Espace 3353 and its surrounding area. Sorne reflect on what is: the artist-run space
-
-  in relation to institutional
-
-  space, while others approach the space through what is
-
-  not- inciting exchange through meals and interaction.
-
-  Victor Delétraz explores the immediate surroundings of 3353 using a small motorised
-
-  appendage. ln the exhibition space, filmic exploration is confronted with a
-
-  shaky architecture.
+  Victor Delétraz explores the immediate surroundings of 3353 using a small motorised appendage. ln the exhibition space, filmic exploration is confronted with a shaky architecture.
 
   The installation later acts as a performance space for the artist.
 
 
-  -
+  ––––––
 
 
-  Text read in french during the performance :
+  Text read during the performance translated in English :
+
+
 
   Il y a le soleil et rien. Il y a la vie absurde et rien.
 
