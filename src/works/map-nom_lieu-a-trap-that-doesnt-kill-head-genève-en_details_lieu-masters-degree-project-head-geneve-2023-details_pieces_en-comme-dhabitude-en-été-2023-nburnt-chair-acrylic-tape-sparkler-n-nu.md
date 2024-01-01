@@ -59,7 +59,6 @@ description_fr: >-
   Texte lu durant la performance :
 
 
-
   Il y a le soleil et rien. Il y a la vie absurde et rien.
 
   Des envies de se cacher dans des structures qui invisibilisent. 
@@ -113,6 +112,11 @@ description_fr: >-
 
 
   il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
+
+
+
+
+  –––––
 description_en: >-
   For the inaugural and eponymous exhibition of their curatorial residency, as
   slow as possible has invited four artists with different approaches and
@@ -132,7 +136,6 @@ description_en: >-
 
 
   Text read during the performance translated in English :
-
 
 
   Il y a le soleil et rien. Il y a la vie absurde et rien.
@@ -170,6 +173,11 @@ description_en: >-
   à chaque fois. L'heure est à laisser, les minutes à prendre, les secondes à avaler.
 
   il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
+
+
+
+
+  –––––
 details_pieces_fr: |-
   Lurking through the cracks, 2023, 140 x 110 x 300 cm
   bois, toile de jute, plâtre, ampoule, écran, vidéo 15' en boucle
