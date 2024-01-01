@@ -15,7 +15,7 @@ en_details_lieu: "Collective show, Modern Nature : An Homage to Derek Jarman,
   Part Two La Becque, La Tour-de-Peilz (CH)"
 fr_type_duree: Performance 7'
 en_type_duree: Performance 7'
-image_couv: /images/uploads/perfo8.jpg
+image_couv: /images/uploads/32.img_6800©luc-meier-copy.jpg
 images:
   - path: /images/uploads/32.img_6800©luc-meier-copy.jpg
   - path: /images/uploads/09.200927_labecque_©dianamartin-2727-copy.jpg
