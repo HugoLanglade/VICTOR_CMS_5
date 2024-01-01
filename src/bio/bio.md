@@ -28,11 +28,9 @@ bio_français: >-
 
 
   Victor Delétraz a exposé et performé à Sofia en Bulgarie, à Athènes en Grèce, à Genève dans plusieurs espaces d’arts comme Soul2Soul RU, Topic, l’Espace 3353, à la BIG 21 & 23 et a montré sa première exposition personnelle à Zabriskie Point curaté par Limbo Space en novembre 2023.
-bio_anglais: >
+bio_anglais: >-
   Victor Delétraz ( *1997 ) is an artist living and working in Geneva. He
-  recently 
-
-  graduated from the HEAD-Geneva with a Master’s degree in visual arts.
+  recently graduated from the HEAD-Geneva with a Master’s degree in visual arts.
 
 
   His practice revolves around sculpture, writing, music, video, painting and performance. Imagining each project as a unique situation to be dealt with in the moment, his work questions the world around him, transforming everyday objects and their meanings to create other narratives and writing, both absurd and engaged. 
