@@ -74,7 +74,9 @@ description_en: >
   Still happy ( Encore Heureux ).
 details_pieces_fr: <3
 details_pieces_en: <3
-credits: |
+credits: |-
   Text: Sylvain Gelewski
+
+  Photos: YAL
 vimeo_src: "#"
 ---
