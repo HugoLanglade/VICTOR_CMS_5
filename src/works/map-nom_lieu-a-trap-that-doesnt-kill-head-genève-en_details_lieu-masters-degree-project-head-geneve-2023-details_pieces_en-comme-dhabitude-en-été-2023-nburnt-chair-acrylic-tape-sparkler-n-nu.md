@@ -37,10 +37,11 @@ images:
   - path: /images/uploads/perfo13.jpg
   - path: /images/uploads/perfo16.jpg
 description_fr: >-
-  Pour l'exposition inaugurale de leur résidence curatoriale, as slow as
-  possible invite quatre artistes aux approches et aux pratiques variées. Making
-  Kin, Making Place propose un élément de départ à des interventions spatiales
-  et sociales dans l'Espace 3353 et ses environs. 
+  Pour l'exposition inaugurale de leur résidence curatoriale, *as slow as
+  possible* invite quatre artistes aux approches et aux pratiques variées. 
+
+
+  *Making Kin, Making Place* propose un élément de départ à des interventions spatiales et sociales dans l'Espace 3353 et ses environs. 
 
 
   Les artistes interrogent ainsi cet espace d'art indépendant, situé dans un quartier en mutation.
