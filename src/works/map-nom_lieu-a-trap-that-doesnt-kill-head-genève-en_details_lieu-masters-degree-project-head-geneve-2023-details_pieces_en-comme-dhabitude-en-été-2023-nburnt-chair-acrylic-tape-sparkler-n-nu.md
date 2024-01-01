@@ -138,41 +138,65 @@ description_en: >-
   Text read during the performance translated in English :
 
 
-  Il y a le soleil et rien. Il y a la vie absurde et rien.
 
-  Des envies de se cacher dans des structures qui invisibilisent. Pour un temps. Pour toujours.
 
-  Hier soir et demain matin on a le souffle court car rien ne promet que les feuilles pousseront.
+  There is the sun and nothing. There is absurd life and nothing.
 
-  Que la banale violence siècle après siècle puisse se taire et donner un truc qu'on appellerait
 
-  poème. Toute la technologie sert à contrôler, à télécommander, à surveiller et à anéantir comme
+  Desires to hide in structures that make us invisible. 
 
-  dans un mauvais film de SF. Mais c'est maintenant et ici. Vraiment si il reste un truc à faire, c'est
 
-  jamais oublier que le fascisme fait toc toc à toutes les portes.
+  For a while. Forever.
 
-  Avec des larmes de crocodile et des mensonges pleins les poches.
 
-  C'est brandir une main à l'encontre d'un discours. C'est être à plusieurs et faire barrage. Un
+  Last night and tomorrow morning we're short of breath because nothing promises that the leaves will grow.
 
-  barrage contre la bêtise et en faire de l'énergie avec, dans les grosses turbines. De l'électricité
 
-  avec la bêtise pour en faire un courant de la rage. Les corneilles lancent leur noix sur la route
+  That the banal violence of century after century will be silenced and produce something we would call a poem. All technology is used to control, remote-control, monitor and annihilate, like in a bad sci-fi movie. 
 
-  pour casser la coque. Le type me dit tu as un cassé mon rétroviseur. J'ai 26 ans et je parle dans
 
-  le vide. Les coïncidences coïncident. Les causes causent. J'ai du fric et je le dépense comme si
+  But it's here and now. Really, if there's anything left to do, it's never forget that fascism is knocking on every door.
 
-  c'était quelque chose à se débarrasser. Les renards de la forêt vont jusque sur ma terrasse pour
 
-  chercher une saucisse égarée. Le bruit de plastique, le bruit du bois.
+  With crocodile tears and lies in their pockets.
 
-  Je vois des araignées dans toutes le formes aux bordures de mes yeux, Ça fait peur et je sursaute
 
-  à chaque fois. L'heure est à laisser, les minutes à prendre, les secondes à avaler.
+  It's waving a hand against a speech. It's about standing together and blocking the way. 
 
-  il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
+
+  A dam against stupidity and turning it into energy in the big turbines. To create electricity with stupidity and turn it into a current of rage.
+
+
+  The crows throw their nuts on the road to break the hull.
+
+
+  The guy tells me you broke my rear-view mirror. 
+
+
+  I'm 26 and talking to myself. 
+
+
+  Coincidences coincide. 
+
+
+  Causes cause. 
+
+
+  I have money and I spend it as if it were something to get rid of. 
+
+
+  Foxes in the forest come right up to my terrace looking for a stray sausage. 
+
+
+  The sound of plastic, the sound of wood.
+
+
+  I see spiders in all shapes at the edges of my eyes, it's scary and I jump every time. The hour is up, the minutes are up.
+
+
+  we have to believe we have to believe we have to believe we have to believe we have to believe we have to believe  we have to
+
+
 
 
 
