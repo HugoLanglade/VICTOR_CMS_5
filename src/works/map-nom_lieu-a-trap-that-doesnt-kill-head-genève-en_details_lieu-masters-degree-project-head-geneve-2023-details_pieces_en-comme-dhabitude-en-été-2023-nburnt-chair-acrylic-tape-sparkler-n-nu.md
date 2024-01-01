@@ -37,16 +37,19 @@ images:
   - path: /images/uploads/perfo13.jpg
   - path: /images/uploads/perfo16.jpg
 description_fr: >-
-  For the inaugural and eponymous exhibition of their curatorial residency, as
-  slow as possible has invited four artists with different approaches and
-  practices to take Making Kin, Making Place as starting points for spatial and
-  social interventions in Espace 3353 and its surrounding area. Sorne reflect on
-  what is: the artist-run space in relation to institutional space, while others
-  approach the space through what is not- inciting exchange through meals and
-  interaction. Victor Delétraz explores the immediate surroundings of 3353 using
-  a small motorised appendage. ln the exhibition space, filmic exploration is
-  confronted with a shaky architecture. The installation later acts as a
-  performance space for the artist.
+  Pour l'exposition inaugurale de leur résidence curatoriale, as slow as
+  possible invite quatre artistes aux approches et aux pratiques variées. Making
+  Kin, Making Place propose un élément de départ à des interventions spatiales
+  et sociales dans l'Espace 3353 et ses environs. 
+
+
+  Les artistes interrogent ainsi cet espace d'art indépendant, situé dans un quartier en mutation.
+
+
+  Victor Delétraz explore les environs le plus immédiats de 3353 à l'aide d'un appendice motorisé de petite taille.
+
+
+  Dans le lieu d'exposition, se confronte alors une exploration filmique, à une architecture chancelante. Dans un deuxième temps, cette installation se transforme en terrain performatif pour l'artiste. 
 
 
   –––––––
