@@ -4,8 +4,8 @@ numero_article: article1
 nom_lieu: A trap that doesn't kill - HEAD, Genève
 année: 2023
 mois: 9
-lien: "#vimeo_video"
-texte_lien_fr: Captation Video
+lien: https://vimeo.com/872564315
+texte_lien_fr: Captation Vidéo
 texte_lien_en: Video Capture
 fr_nom_maj: A TRAP THAT DOESN'T KILL
 en_nom_maj: A TRAP THAT DOESN'T KILL
@@ -105,9 +105,12 @@ details_pieces_en: |
               
   Egohypnoticinteriorattackscompactemotionalshits, 2023
   various materials (details)
-credits: |
+credits: |-
+  Photos: Laura Spozio, Victor Delétraz
+
+  Video :
+
   Camera : Linn Nora Henz
   Editing: Victor Delétraz
-  Photos: Laura Spozio, Victor Delétraz
 vimeo_src: https://player.vimeo.com/video/872564315?h=daf5f8ac6d&byline=0&portrait=0
 ---
