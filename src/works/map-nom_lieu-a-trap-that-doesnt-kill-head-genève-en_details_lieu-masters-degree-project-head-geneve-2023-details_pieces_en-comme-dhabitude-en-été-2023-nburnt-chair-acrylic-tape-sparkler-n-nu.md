@@ -136,8 +136,6 @@ description_en: >-
   Text read during the performance translated in English :
 
 
-
-
   There is the sun and nothing. There is absurd life and nothing.
 
 
