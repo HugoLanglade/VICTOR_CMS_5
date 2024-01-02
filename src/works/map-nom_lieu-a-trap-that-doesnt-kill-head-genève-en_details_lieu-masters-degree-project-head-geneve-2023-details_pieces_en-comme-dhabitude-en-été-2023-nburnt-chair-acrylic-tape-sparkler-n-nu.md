@@ -103,7 +103,7 @@ description_fr: >-
   Les renards de la forêt vont jusque sur ma terrasse pour chercher une saucisse égarée. 
 
 
-  Le bruit de plastique, le bruit du bois.
+  Le bruit du plastique, le bruit du bois.
 
 
   Je vois des araignées dans toutes le formes aux bordures de mes yeux, Ça fait peur et je sursaute à chaque fois. L'heure est à laisser, les minutes à prendre, les secondes à avaler.
