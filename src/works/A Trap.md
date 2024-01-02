@@ -1,7 +1,7 @@
 ---
 permalink: /works/a-trap.html
 numero_article: article1
-nom_lieu: A trap that doesn't kill - HEAD, Genève
+nom_lieu: A trap that doesn't kill
 année: 2023
 mois: 9
 lien: https://vimeo.com/872564315
@@ -9,8 +9,8 @@ texte_lien_fr: Captation Vidéo
 texte_lien_en: Video Capture
 fr_nom_maj: A TRAP THAT DOESN'T KILL
 en_nom_maj: A TRAP THAT DOESN'T KILL
-fr_details_lieu: Projet de master, HEAD - GENEVE, 2023
-en_details_lieu: Master's degree project, HEAD - GENEVE, 2023
+fr_details_lieu: Projet de master, HEAD – Genève, 2023
+en_details_lieu: Master's degree project, HEAD – Geneva, 2023
 fr_type_duree: Installation, Performance 10'
 en_type_duree: Installation, Performance 10'
 image_couv: ./assets/projets/a_trap/1.ensemble1.jpg
