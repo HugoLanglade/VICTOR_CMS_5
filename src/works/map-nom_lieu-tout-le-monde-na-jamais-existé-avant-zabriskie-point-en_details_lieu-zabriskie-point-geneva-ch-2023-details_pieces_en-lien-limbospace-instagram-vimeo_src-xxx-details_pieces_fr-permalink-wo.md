@@ -6,7 +6,7 @@ année: 2023
 mois: 11
 lien: limbospace instagram
 texte_lien_fr: Limbo Space
-texte_lien_en: Limbo Space
+texte_lien_en: Limbo Collective
 fr_nom_maj: TOUT LE MONDE N'A JAMAIS EXISTÉ AVANT
 en_nom_maj: TOUT LE MONDE N'A JAMAIS EXISTÉ AVANT
 fr_details_lieu: Zabriskie Point, Genève (CH)
@@ -118,7 +118,7 @@ description_en: >-
 details_pieces_fr: .
 details_pieces_en: .
 credits: |
-  Curation : Limbo Space
+  Curation : Limbo Collective
   Photos: Jeanne Tullen
 vimeo_src: xxx
 ---
