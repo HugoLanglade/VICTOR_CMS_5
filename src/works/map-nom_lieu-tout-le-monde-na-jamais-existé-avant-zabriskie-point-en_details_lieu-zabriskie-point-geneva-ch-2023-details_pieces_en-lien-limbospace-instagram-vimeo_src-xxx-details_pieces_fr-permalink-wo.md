@@ -4,7 +4,7 @@ numero_article: article7
 nom_lieu: Tout le monde n'a jamais existé avant
 année: 2023
 mois: 11
-lien: limbospace instagram
+lien: https://www.instagram.com/limbo.collective.ch/?igsh=MXUyNnM1Z3VmZmtmOA%3D%3D
 texte_lien_fr: Limbo Space
 texte_lien_en: Limbo Collective
 fr_nom_maj: TOUT LE MONDE N'A JAMAIS EXISTÉ AVANT
