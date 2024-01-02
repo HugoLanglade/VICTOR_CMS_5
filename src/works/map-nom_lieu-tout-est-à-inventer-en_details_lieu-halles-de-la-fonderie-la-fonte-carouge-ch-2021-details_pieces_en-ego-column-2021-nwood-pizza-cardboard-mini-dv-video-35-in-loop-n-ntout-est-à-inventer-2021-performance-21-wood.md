@@ -43,7 +43,7 @@ images:
 description_fr: |+
   Performance de fin de résidence de deux semaines à La Fonte, Carouge (CH)
 
-  Extrait d'un poème lu durant la performance:
+  Un des poèmes lu durant la performance:
 
   Gros il y a des étoiles et c’est des gens infernaux
   Gros il y a des étoiles et des gens infernaux
@@ -87,7 +87,7 @@ description_fr: |+
 description_en: |-
   Performance for the two-week residency at La Fonte, Carouge (CH)
 
-  Extract of a poem read during the performance:
+  One of the poems read during the performance:
 
   Dude
   There are stars and there are hellish people
