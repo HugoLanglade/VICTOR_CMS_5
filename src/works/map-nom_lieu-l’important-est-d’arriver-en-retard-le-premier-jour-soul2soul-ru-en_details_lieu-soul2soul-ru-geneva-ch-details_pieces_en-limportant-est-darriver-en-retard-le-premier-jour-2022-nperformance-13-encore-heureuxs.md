@@ -36,7 +36,7 @@ description_fr: >-
   accessoires.
 
 
-  L'installation nous rappelle un intérieur domestique, un décor de thétre
+  L'installation nous rappelle un intérieur domestique, un décor de théâtre
 
   ou une construction d'un white cube pour une foire d'art.
 
