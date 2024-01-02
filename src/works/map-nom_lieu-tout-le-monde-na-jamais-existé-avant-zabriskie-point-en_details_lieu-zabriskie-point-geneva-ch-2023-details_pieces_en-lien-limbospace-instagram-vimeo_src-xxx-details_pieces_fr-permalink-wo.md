@@ -1,7 +1,7 @@
 ---
 permalink: /works/zabriskie.html
 numero_article: article7
-nom_lieu: Tout le monde n'a jamais existé avant - Zabriskie Point
+nom_lieu: Tout le monde n'a jamais existé avant
 année: 2023
 mois: 11
 lien: limbospace instagram
