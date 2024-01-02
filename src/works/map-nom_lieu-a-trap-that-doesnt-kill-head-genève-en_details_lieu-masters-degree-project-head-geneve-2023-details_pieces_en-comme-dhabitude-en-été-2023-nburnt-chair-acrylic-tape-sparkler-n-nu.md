@@ -79,9 +79,7 @@ description_fr: >-
   Avec des larmes de crocodile et des mensonges pleins les poches.
 
 
-  C'est brandir une main à l'encontre d'un discours. C'est être à plusieurs et faire barrage. Un
-
-  barrage contre la bêtise et en faire de l'énergie avec, dans les grosses turbines. De l'électricité avec la bêtise pour en faire un courant de la rage. 
+  C'est brandir une main à l'encontre d'un discours. C'est être à plusieurs et faire barrage. Un barrage contre la bêtise et en faire de l'énergie avec, dans les grosses turbines. De l'électricité avec la bêtise pour en faire un courant de la rage. 
 
 
   Les corneilles lancent leur noix sur la route pour casser la coque.
