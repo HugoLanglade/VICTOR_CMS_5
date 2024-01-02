@@ -14,9 +14,8 @@ en_details_lieu: Aknown Space, Athens (GR), 2023
 fr_type_duree: Exposition collective avec Hanna Besenhard, Roxane Rajic, Andonis
   Vasilakis, Samuel Diestel, Maria Lymboura, Helena Heras, Mariama Conteh, Felix
   Ketchup
-en_type_duree: ExGroup show with Hanna Besenhard, Roxane Rajic, Andonis
-  Vasilakis, Samuel Diestel, Maria Lymboura, Helena Heras, Mariama Conteh, Felix
-  Ketchup
+en_type_duree: Group show with Hanna Besenhard, Roxane Rajic, Andonis Vasilakis,
+  Samuel Diestel, Maria Lymboura, Helena Heras, Mariama Conteh, Felix Ketchup
 image_couv: /images/uploads/veilleuse-horizontal.jpg
 images:
   - path: /images/uploads/victordelétraz_.jpg
