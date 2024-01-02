@@ -46,7 +46,7 @@ description_fr: >-
 
   and relaxation and our existential doubts, all in a strange and blue smoky
 
-  after-work atmosphere.
+  after-work atmosphere. ㋡ 
 description_en: >-
   Between the opening of the show Encore Heureux and the closing, in two weeks,
 
