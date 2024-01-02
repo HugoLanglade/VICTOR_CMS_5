@@ -83,9 +83,7 @@ description_en: >-
 
   editing a few details and adding props.
 
-  Indeed, the installation is reminiscent of a
-
-  domestic interior, a stage set or a white cube construction intended for an art fair.
+  Indeed, the installation is reminiscent of a domestic interior, a stage set or a white cube construction intended for an art fair.
 
   With all these elements, the two artists have written a performance questioning
 
