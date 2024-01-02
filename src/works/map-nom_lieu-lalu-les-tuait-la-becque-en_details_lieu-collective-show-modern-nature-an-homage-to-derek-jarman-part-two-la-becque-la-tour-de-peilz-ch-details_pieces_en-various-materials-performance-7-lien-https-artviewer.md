@@ -1,7 +1,7 @@
 ---
 permalink: /works/alu.html
 numero_article: article4
-nom_lieu: L'alu les tuait- La Becque
+nom_lieu: L'alu les tuait
 année: 2020
 mois: 9
 lien: https://artviewer.org/modern-nature-an-hommage-to-derek-jarman-part-ii-at-la-becque/
