@@ -30,27 +30,20 @@ images:
   - path: /images/uploads/2022_eh_perfo_33_1d4a0252-copy.jpg
   - path: /images/uploads/2022_eh_perfo_34_1d4a0259-copy.jpg
 description_fr: >-
-  Between the opening of the show Encore Heureux and the closing, in two weeks,
-
-  the two artists imagined a performative proposition in the space they had created
-
-  editing a few details and adding props.
-
-  Indeed, the installation is reminiscent of a
-
-  domestic interior, a stage set or a white cube construction intended for an art fair.
-
-  With all these elements, the two artists have written a performance questioning
-
-  our place at work, in a capitalist and liberal world, our moments of leisure
-
-  and relaxation and our existential doubts, all in a strange and blue smoky
-
-  after-work atmosphere.
+  Entre le vernissage et le finissage de l'exposition Encore Heureux, pendant
+  deux semaines, les deux artistes ont imaginé une proposition performative dans
+  l'espace qu'iels ont créé, modifiant quelques détails et ajoutant des
+  accessoires.
 
 
-  _______
+  L'installation nous rappelle un intérieur domestique, un décor de thétre
 
+  ou une construction d'un white cube pour une foire d'art.
+
+  Avec tous ces éléments, Victor Delétraz et Annabelle Galland ont écrit une performance questionnant notre rapport au travail, dans un monde capitaliste et libéral, nos moment de loisirs et de relaxation et nos doutes existentiels, le tout dans une étrange atmosphère bleue d'un after-work.
+
+
+  --------
 
 
   Texte de Annabelle Galland:
@@ -81,7 +74,8 @@ description_fr: >-
 
   Alors au milieu de tout ce fouillis impossible, le duo ou plutôt la paire s’impose comme une solution bancale mais éligible, si je fais comme toi et que toi tu fais comme moi, il y a un moment ou dans un subtil esprit d’adaptation, on va commencer à se ressembler et c’est là, oui juste là, que ça va s’enclencher, l’air va s'électrifier de coïncidences et juste comme ça, face au vide, un filament, une trace de quelque chose qu’on a saisi, nous pousse à croire qu’on utilise nos mots de la bonne manière et que si tu me comprend et que moi je t’écoute alors déjà quelque chose d’autre existe, s’étend et remue, là-bas, au milieu des autres. ㋡ AG
 
-  ______ 
+
+  ------
 description_en: >-
   Between the opening of the show Encore Heureux and the closing, in two weeks,
 
@@ -102,8 +96,7 @@ description_en: >-
   after-work atmosphere.
 
 
-  _______
-
+  ------
 
 
   Texte de Annabelle Galland:
@@ -134,7 +127,8 @@ description_en: >-
 
   Alors au milieu de tout ce fouillis impossible, le duo ou plutôt la paire s’impose comme une solution bancale mais éligible, si je fais comme toi et que toi tu fais comme moi, il y a un moment ou dans un subtil esprit d’adaptation, on va commencer à se ressembler et c’est là, oui juste là, que ça va s’enclencher, l’air va s'électrifier de coïncidences et juste comme ça, face au vide, un filament, une trace de quelque chose qu’on a saisi, nous pousse à croire qu’on utilise nos mots de la bonne manière et que si tu me comprend et que moi je t’écoute alors déjà quelque chose d’autre existe, s’étend et remue, là-bas, au milieu des autres. ㋡ AG
 
-  ______ 
+
+  ------
 details_pieces_fr: >-
   L'important est d'arriver en retard le premier jour, 2022 
 
