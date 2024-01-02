@@ -1,7 +1,7 @@
 ---
 permalink: /works/encore-heureux-performance.html
 numero_article: article6
-nom_lieu: L’important est d’arriver en retard le premier jour, Soul2Soul / RU
+nom_lieu: L’important est d’arriver en retard le premier jour
 année: 2022
 mois: 5
 lien: https://soul2soulru.com/expo/encore-heureux/
