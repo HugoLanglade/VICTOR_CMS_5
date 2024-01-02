@@ -44,7 +44,7 @@ description_fr: >
                               
   Une fontaine crache un peu d'eau colorée, un cheval en plastique galope sur place, un cimaise expire de la fumée. Les pièces dans l'espace ont toutes un potentiel performatif, une idée de transformation et de mouvement.
                               
-  La performance explore des notions d'échec, d'actions bancales, d'état intérieur paralysé et d'une révolte qui crie en chuchotant. Les gestes mélangent improvisation et actions précises. Un poème est dicté, des plumes volent dans l'espace, un fumigène pourrait être allumé.</p>
+  La performance explore des notions d'échec, d'actions bancales, d'état intérieur paralysé et d'une révolte qui crie en chuchotant. Les gestes mélangent improvisation et actions précises. Un poème est dicté, des plumes volent dans l'espace, un fumigène pourrait être allumé.
 description_en: >
   A trap that doesn't kill is an installation and performance. Spectators are
   invited to enter a strange space, lit by a variety of light bulbs, where
