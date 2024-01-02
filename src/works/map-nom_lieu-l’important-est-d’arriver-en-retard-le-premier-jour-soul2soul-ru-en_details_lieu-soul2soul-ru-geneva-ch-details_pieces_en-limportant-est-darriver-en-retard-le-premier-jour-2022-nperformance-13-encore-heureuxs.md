@@ -46,7 +46,36 @@ description_fr: >-
 
   and relaxation and our existential doubts, all in a strange and blue smoky
 
-  after-work atmosphere. ㋡ 
+  after-work atmosphere.
+
+
+  Texte de Annabelle Galland:
+
+
+  Parce que le problème, le réel problème, c’est que même quand j’ai quelque chose d’intéressant à dire, alors il y a quelqu’un juste devant moi qui crie plus fort pour dire exactement la même chose, et qu’on l’entend à ma place, alors comment faire, oui comment faire, pour la prendre ma place.
+
+
+  Il faut se démarquer, se démarquer mais de la bonne manière, il faut avoir la bonne sape, la bonne chaussure, le bon sourcil, la bonne lunette. On est cool, ivre de bonheur et cool cool cool sur toute la ligne.
+
+
+  Mais quand même, il serait bon de se fondre dans la masse, être normal c’est quand même bien, mais c’est fatiguant, mais on s’adapte, c’est bien ça qu’on nous demande.
+
+
+  Alors ensuite on se lève le matin, pleins d’entrain et on lève la main pour prendre la parole, mais même quand on la lève, haut et fort, la main ne suffit pas, c’est toujours à celle-lui de devant qu’on la donne; alors on essaye de briller autrement, trouver d’autres stratagèmes.
+
+
+  Je suis un être individuel et j’opère en solo, je me démarque car je suis solitaire, je n’ai pas besoin d’aide et je n’aime pas aider les autres.
+
+
+  Je suis un être individuel, j’opère en groupe, je me nourrit de la comparaison et je brille lorsque je prend l’ascendant au sain du groupe. 
+
+  Je suis un être individuel mais j’opère à plusieurs, j’aide tout le monde et tout le temps, je met en avant mes paires et je rumine mon manque d’initiative personnelle pendant que d’autres se régalent de mes incertitudes. 
+
+
+  On pourrait continuer comme ça pendant des heures, tout en ayant l’air plutôt lisse vous voyez, sans histoire, pas trop plaire ni trop déplaire, être juste nous, exister dans ce scintillement à demi-camouflé qu’est notre existence au milieu de toutes les autres lumières qui vacillent, s’allument et s’éteignent autour de nous. 
+
+
+  Alors au milieu de tout ce fouillis impossible, le duo ou plutôt la paire s’impose comme une solution bancale mais éligible, si je fais comme toi et que toi tu fais comme moi, il y a un moment ou dans un subtil esprit d’adaptation, on va commencer à se ressembler et c’est là, oui juste là, que ça va s’enclencher, l’air va s'électrifier de coïncidences et juste comme ça, face au vide, un filament, une trace de quelque chose qu’on a saisi, nous pousse à croire qu’on utilise nos mots de la bonne manière et que si tu me comprend et que moi je t’écoute alors déjà quelque chose d’autre existe, s’étend et remue, là-bas, au milieu des autres. ㋡ AG 
 description_en: >-
   Between the opening of the show Encore Heureux and the closing, in two weeks,
 
