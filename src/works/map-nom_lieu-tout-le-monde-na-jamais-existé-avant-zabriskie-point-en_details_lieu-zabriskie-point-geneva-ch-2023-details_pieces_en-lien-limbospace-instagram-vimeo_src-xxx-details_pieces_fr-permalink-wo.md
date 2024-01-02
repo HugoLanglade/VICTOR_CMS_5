@@ -21,7 +21,95 @@ images:
   - path: /images/uploads/zab_8097_02.jpg
   - path: /images/uploads/zab_8123_02.jpg
   - path: /images/uploads/20231126_150237.jpg
-description_fr: :-)
+description_fr: >-
+  PARTIE 1
+
+  Ce confort, ici ;
+
+  Ce jacuzzi
+
+  Cette conscience que vos éthiques pourries dirigent le monde
+
+  Cet ensemble veston-cravate
+
+  Ce débordement de vos actifs
+
+  Cette voiture télécommandée
+
+  Ce jeu
+
+  Ce crépitement
+
+  Ce bourdonnement
+
+  Ce fait de n’être rien du tout et absolument tout à la fois
+
+  Cette certitude non grammaticale
+
+  Cet effet de ruissellement, ondulant dans votre pantalon
+
+  Cette expérience titulaire
+
+  Ce jacuzzi, encore
+
+  Ce flux
+
+  Ce non-deuil
+
+  Cette non-colère
+
+  Cette affaire
+
+  Ce contournement névrotique de tout ce qui dérange
+
+  Ce pouvoir d'achat
+
+  Ce tourbillon,
+
+  Est-ce que ça vous réconforte?
+
+
+  PARTIE 2
+
+  Le travail de Victor part de l'absurdité de l'absolutisme et sur ce chemin, ses oeuvres prennent la
+
+  forme de divers systèmes et configurations d'absurdité absolue. L'espace fait écho aux vestiges d'un
+
+  éclat et d'un luxe qui apparaissent maintenant comme injustifiés et frivoles. Le portrait d'une époque
+
+  immortalisée dans cet état ne provoque que de l'embarras. Les structures construites dans l'espace
+
+  tiennent à peine, l'électronique est défectueuse, de petits incendies commencent, des morceaux de
+
+  petits hommes et de grands hommes jonchent l'espace. Les intentions de Victor ici expriment un
+
+  besoin de surmonter l'impasse de la crise et de la dépression causée par la névrose capitaliste, en
+
+  transformant cette existence en quelque chose de temporaire. Tout cela n'existait pas avant d'exister,
+
+  il est donc logique que ces systèmes n'aient pas leur place dans le futur.
+
+
+  PARTIE 3
+
+  Quelqu'un que je connais est une sorte de philosophe, le genre qui se situe au plus haut niveau de
+
+  l'étude académique. Quand je lui ai demandé si le titre de l'exposition faisait quelque chose de
+
+  similaire à la philosophie dans son aspiration à être une vérité incontestable, il a dit oui, mais
+
+  spécifiquement celles qui ne sont pas triviales ou tautologiques. Il a donc sous-entendu assez
+
+  grossièrement que l'énoncé du titre n'était pas l'un des plus nobles, simplement parce qu'il devait
+
+  défendre frénétiquement l'honneur de sa discipline. Sans vouloir chier sur la philosophie, n'est-il pas
+
+  évident que le trivial et le tautologique sont exactement ce à quoi ce genre d'absolutisme nous mène?
+
+
+  PARTIE 4
+
+  Qui est tout le monde pour vous parce que c’est pas la même chose pour tout le monde (oups).
 description_en: >-
   PART 1
 
