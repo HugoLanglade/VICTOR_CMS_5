@@ -11,7 +11,7 @@ fr_nom_maj: TOUT LE MONDE N'A JAMAIS EXISTÉ AVANT
 en_nom_maj: TOUT LE MONDE N'A JAMAIS EXISTÉ AVANT
 fr_details_lieu: Zabriskie Point, Genève (CH)
 en_details_lieu: Zabriskie Point, Geneva (CH), 2023
-fr_type_duree: Exposition personelle - Installation
+fr_type_duree: Exposition personnelle - Installation
 en_type_duree: "Solo show - Installation "
 image_couv: /images/uploads/zab_8134_02.jpg
 images:
