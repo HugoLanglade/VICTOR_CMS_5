@@ -36,10 +36,8 @@ images:
   - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_21.jpg
   - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_22.jpg
 description_fr: >
-  FR/
-
-
-  « Une peinture par personne » aurait pu être le titre de cette exposition. Métaphorique et recherché, non. Factuel et pragmatique, oui.
+  « Une peinture par personne » aurait pu être le titre de cette exposition.
+  Métaphorique et recherché, non. Factuel et pragmatique, oui.
 
 
   Dans la salle rectangulaire est placée une structure presque carrée, dans laquelle deux boxes de présentation sont en partie attribués par les artistes à elleux-mêmes. Côté cour et côté jardin, côté Galland et côté Delétraz, côté chambre à coucher et côté salle de bain. Libre au public de choisir lequel est à qui et où se trouve quoi. 
@@ -58,9 +56,14 @@ description_fr: >
             
   Encore heureux.
 description_en: >
-  EN/
-            
-  « One painting per person » could have been the title of this exhibition. Metaphorical and elaborate, no. Factual and pragmatic, yes. In the rectangular room is placed an almost square structure, in which two presentation boxes are partly attributed by the artists to themselves. Courtyard and garden side, Galland and Delétraz side, bedroom and bathroom side. The public is free to choose which one belongs to whom and where is what. Because if in the proposal, certain plastic decisions seem clear, the proposal seems even more enigmatic. Satire and cynicism, perhaps. Humor and point of view, certainly.
+  « One painting per person » could have been the title of this exhibition.
+  Metaphorical and elaborate, no. Factual and pragmatic, yes. In the rectangular
+  room is placed an almost square structure, in which two presentation boxes are
+  partly attributed by the artists to themselves. Courtyard and garden side,
+  Galland and Delétraz side, bedroom and bathroom side. The public is free to
+  choose which one belongs to whom and where is what. Because if in the
+  proposal, certain plastic decisions seem clear, the proposal seems even more
+  enigmatic. Satire and cynicism, perhaps. Humor and point of view, certainly.
             
   With a generosity in terms of number of works, as well as commitment before the exhibition, the two artists apply in this case, and to the letter, the first sentence of the motto of the space that welcomes them: give free rein to experimentation, the attempt, the idea. They explore various surfaces that are not only used for painting, transpose the practice of sculpture to that of assemblage, break the usual hierarchy between the works, proceed as much by adding delicate details as by subtracting disruptive elements, play with the function and status of the frame in all senses, as with the framework of the display of their pieces in itself. In other words, to be serious without taking themselves seriously.
             
