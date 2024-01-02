@@ -1,7 +1,7 @@
 ---
 permalink: /works/tomorrow.html
 numero_article: article5
-nom_lieu: Tomorrows attitude is a bit far from here - Space Aknown
+nom_lieu: Tomorrows attitude is a bit far from here
 année: 2023
 mois: 1
 lien: https://kubaparis.com/submission/287680
