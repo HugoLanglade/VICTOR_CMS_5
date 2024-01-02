@@ -24,24 +24,22 @@ images:
   - path: /images/uploads/victor-hall.jpg
 description_fr: >-
   Presence is the best we can offer. In a familiar space, yet not quite like it.
-  We feel at home when the exhibition takes place in a former flat. We connect
-  with you
+  We feel at home when the exhibition takes place in a former flat. 
 
-  and our work.
+  We connect with you and our work.
 
   A friend once shared with me that an artist they knew spent a majority of their time applying for residencies and sending portfolios, leaving little room for creating art. We hope to maintain a balance between our passion and our relationships, and view making art as a way of caring for our colleagues.
 
   We are creating a temporary group for ephemeral exhibitions.
 
-  In today’s fast-paced world, we are constantly searching for new ways to stand
+  In today’s fast-paced world, we are constantly searching for new ways to stand out and grab attention. We pay attention to detail and strive for minimalism.
 
-  out and grab attention. We pay attention to detail and strive for minimalism.
 
   The ability to consume information quickly has become a norm, but we should approach creating art with the same mindset. Instead of filming long videos, we
 
-  should aim to create thousands of one-minute videos. We all become content
+  should aim to create thousands of one-minute videos. 
 
-  creators.
+  We all become content creators.
 
   We want something to happen. The desire to create collectively may stem from
 
@@ -52,24 +50,22 @@ description_fr: >-
   museums.
 description_en: >-
   Presence is the best we can offer. In a familiar space, yet not quite like it.
-  We feel at home when the exhibition takes place in a former flat. We connect
-  with you
+  We feel at home when the exhibition takes place in a former flat. 
 
-  and our work.
+  We connect with you and our work.
 
   A friend once shared with me that an artist they knew spent a majority of their time applying for residencies and sending portfolios, leaving little room for creating art. We hope to maintain a balance between our passion and our relationships, and view making art as a way of caring for our colleagues.
 
   We are creating a temporary group for ephemeral exhibitions.
 
-  In today’s fast-paced world, we are constantly searching for new ways to stand
+  In today’s fast-paced world, we are constantly searching for new ways to stand out and grab attention. We pay attention to detail and strive for minimalism.
 
-  out and grab attention. We pay attention to detail and strive for minimalism.
 
   The ability to consume information quickly has become a norm, but we should approach creating art with the same mindset. Instead of filming long videos, we
 
-  should aim to create thousands of one-minute videos. We all become content
+  should aim to create thousands of one-minute videos. 
 
-  creators.
+  We all become content creators.
 
   We want something to happen. The desire to create collectively may stem from
 
