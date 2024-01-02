@@ -36,9 +36,7 @@ description_fr: >-
   accessoires.
 
 
-  L'installation nous rappelle un intérieur domestique, un décor de théâtre
-
-  ou une construction d'un white cube pour une foire d'art.
+  L'installation nous rappelle un intérieur domestique, un décor de théâtre ou une construction d'un white cube pour une foire d'art.
 
   Avec tous ces éléments, Victor Delétraz et Annabelle Galland ont écrit une performance questionnant notre rapport au travail, dans un monde capitaliste et libéral, nos moment de loisirs et de relaxation et nos doutes existentiels, le tout dans une étrange atmosphère bleue d'un after-work.
 
