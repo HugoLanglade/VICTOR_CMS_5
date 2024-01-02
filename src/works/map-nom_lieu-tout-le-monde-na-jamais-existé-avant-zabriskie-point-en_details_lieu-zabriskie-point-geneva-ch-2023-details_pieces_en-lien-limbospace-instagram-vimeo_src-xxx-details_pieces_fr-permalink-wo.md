@@ -119,6 +119,7 @@ details_pieces_fr: .
 details_pieces_en: .
 credits: |
   Curation : Limbo Collective
+  Text: Yasemine Imre
   Photos: Jeanne Tullen
 vimeo_src: xxx
 ---
