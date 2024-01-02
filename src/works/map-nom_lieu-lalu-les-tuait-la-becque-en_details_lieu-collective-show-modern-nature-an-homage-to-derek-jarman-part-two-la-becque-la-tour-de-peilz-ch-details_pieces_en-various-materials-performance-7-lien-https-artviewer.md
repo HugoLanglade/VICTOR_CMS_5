@@ -10,9 +10,9 @@ texte_lien_en: Art Viewer
 fr_nom_maj: L'ALU LES TUAIT
 en_nom_maj: L'ALU LES TUAIT
 fr_details_lieu: "Exposition collective, Modern Nature : An Homage to Derek
-  Jarman, Part Two La Becque, La Tour-de-Peilz (CH)"
+  Jarman, Part Two La Becque, La Tour-de-Peilz (CH), 2020"
 en_details_lieu: "Collective show, Modern Nature : An Homage to Derek Jarman,
-  Part Two La Becque, La Tour-de-Peilz (CH)"
+  Part Two La Becque, La Tour-de-Peilz (CH), 2020"
 fr_type_duree: Performance 7'
 en_type_duree: Performance 7'
 image_couv: /images/uploads/32.img_6800©luc-meier-copy.jpg
@@ -36,6 +36,9 @@ description_fr: >-
 
 
   Et derrière des magnifiques montagnes, une belle photo.
+
+
+  -----
 description_en: |-
   A war against slugs. 
 
@@ -46,6 +49,8 @@ description_en: |-
   A fake garden. 
 
   And behind beautiful mountains, cute picture.
+
+  -----
 details_pieces_fr: Matériaux divers, performance 7'
 details_pieces_en: Various materials, performance 7'
 credits: "Photos: Elise Lammer, Manon Briod, Diana Martin & Luc Meier"
