@@ -114,8 +114,6 @@ description_fr: >-
   il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut y croire il faut
 
 
-
-
   –––––
 description_en: >-
   For the inaugural and eponymous exhibition of their curatorial residency, as
@@ -195,10 +193,6 @@ description_en: >-
 
 
   we have to believe we have to believe we have to believe we have to believe we have to believe we have to believe  we have to
-
-
-
-
 
 
   –––––
