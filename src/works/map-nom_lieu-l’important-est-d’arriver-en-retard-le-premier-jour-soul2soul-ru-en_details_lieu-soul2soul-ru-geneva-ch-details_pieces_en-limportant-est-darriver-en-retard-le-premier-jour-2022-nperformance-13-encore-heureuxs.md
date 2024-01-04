@@ -9,8 +9,8 @@ texte_lien_fr: Site web
 texte_lien_en: Website
 fr_nom_maj: L'IMPORTANT EST D'ARRIVER EN RETARD LE PREMIER JOUR
 en_nom_maj: L'IMPORTANT EST D'ARRIVER EN RETARD LE PREMIER JOUR
-fr_details_lieu: Soul2Soul / RU - Genève (CH)
-en_details_lieu: Soul2Soul / RU - Geneva (CH)
+fr_details_lieu: Soul2Soul / RU - Genève (CH), 2021
+en_details_lieu: Soul2Soul / RU - Geneva (CH), 2021
 fr_type_duree: Performance 13'
 en_type_duree: Performance 13'
 image_couv: /images/uploads/2022_eh_perfo_17_1d4a0221-horizontale.jpg
