@@ -3,6 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
   local_backend: true
 
+publish_mode: editorial_workflow
 media_folder: "_site/images/uploads"
 public_folder: "/images/uploads"
 
