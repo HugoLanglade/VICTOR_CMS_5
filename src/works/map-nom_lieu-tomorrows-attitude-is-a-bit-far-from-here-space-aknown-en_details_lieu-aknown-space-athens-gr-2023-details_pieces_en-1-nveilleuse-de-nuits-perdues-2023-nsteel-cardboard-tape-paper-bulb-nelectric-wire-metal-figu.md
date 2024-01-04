@@ -1,4 +1,5 @@
 ---
+slug: Tomorrows_attitude_is_a_bit_far_from_here
 permalink: /works/tomorrow.html
 numero_article: article5
 nom_lieu: Tomorrows attitude is a bit far from here
