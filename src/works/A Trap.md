@@ -1,4 +1,5 @@
 ---
+slug: Atrap
 permalink: /works/a-trap.html
 numero_article: article1
 nom_lieu: A trap that doesn't kill
