@@ -85,6 +85,21 @@ img {
     position: relative;
 }
 
+/* Image Website By */ 
+.link_website_by {
+    display: flex;
+}
+
+.website_by {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 30vw;
+    margin-bottom: 2vh;
+    margin-right: 1vw;
+}
+
 
 /* CHEMISE */
 

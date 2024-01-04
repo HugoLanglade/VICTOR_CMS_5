@@ -239,7 +239,7 @@ a:hover {
 
 /* VIMEO */ 
 .vimeo-container {
-    display: flex;
+    display: none;
     width: 100%;
     max-width: 50vw; /* Adjust the width as needed */
     margin-top: 20px; /* Adjust the margin as needed */
@@ -325,6 +325,7 @@ a:hover {
 
 .credits_texte {
     padding-top: 1.5vh;
+    padding-bottom: 3vh;
 }
 
 .credits_texte p {
