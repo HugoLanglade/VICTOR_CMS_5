@@ -6,6 +6,10 @@ body, html {
     overflow: hidden;
 }
 
+body, html, * {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* Remove the blue color on hover for all images */
 img {
     user-select: none;

@@ -4,6 +4,10 @@ body, html {
     height: 100%;
 }
 
+body, html, * {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* PAGE BIO */
 
 .top_bio {

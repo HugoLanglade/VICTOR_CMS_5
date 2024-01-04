@@ -5,6 +5,10 @@ html, body {
     overflow: hidden;
 }
 
+body, html, * {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* Haut de la page  */
 
 .header_logo {
