@@ -1,4 +1,5 @@
 ---
+slug: L'alu_les_tuait
 permalink: /works/alu.html
 numero_article: article4
 nom_lieu: L'alu les tuait
