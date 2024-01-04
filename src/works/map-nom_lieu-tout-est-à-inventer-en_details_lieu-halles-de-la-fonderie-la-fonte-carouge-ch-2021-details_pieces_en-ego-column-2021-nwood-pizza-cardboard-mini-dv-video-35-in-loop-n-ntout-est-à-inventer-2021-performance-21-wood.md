@@ -1,4 +1,5 @@
 ---
+slug: ToutEstAInventer
 permalink: /works/la_fonte.html
 numero_article: article8
 nom_lieu: Tout est à inventer
