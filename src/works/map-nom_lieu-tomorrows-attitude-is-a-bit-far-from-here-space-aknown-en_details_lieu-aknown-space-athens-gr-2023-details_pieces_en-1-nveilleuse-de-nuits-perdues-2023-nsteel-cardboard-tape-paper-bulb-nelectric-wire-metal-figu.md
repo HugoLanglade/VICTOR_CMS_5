@@ -16,12 +16,12 @@ fr_type_duree: Exposition collective avec Hanna Besenhard, Roxane Rajic, Andonis
   Ketchup
 en_type_duree: Group show with Hanna Besenhard, Roxane Rajic, Andonis Vasilakis,
   Samuel Diestel, Maria Lymboura, Helena Heras, Mariama Conteh, Felix Ketchup
-image_couv: /images/uploads/veilleuse-horizontal.jpg
+image_couv: /images/uploads/veilleuse-horizontal-compresswed.jpg
 images:
-  - path: /images/uploads/victordelétraz_.jpg
-  - path: /images/uploads/victordelétraz_mirror.jpg
+  - path: /images/uploads/victordelétraz_compressed.jpg
+  - path: /images/uploads/victordelétraz_mirror-compressed.jpg
   - path: /images/uploads/victordelétraz.jpg
-  - path: /images/uploads/victor-hall.jpg
+  - path: /images/uploads/victor-hall-compressed.jpg
 description_fr: >-
   Presence is the best we can offer. In a familiar space, yet not quite like it.
   We feel at home when the exhibition takes place in a former flat. 
