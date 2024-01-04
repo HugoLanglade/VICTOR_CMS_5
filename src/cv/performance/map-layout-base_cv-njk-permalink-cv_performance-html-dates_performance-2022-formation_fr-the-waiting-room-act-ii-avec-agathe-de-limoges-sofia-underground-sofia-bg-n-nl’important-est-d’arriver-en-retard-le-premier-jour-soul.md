@@ -12,6 +12,7 @@ formation_en: >-
 
 
   L’important est d’arriver en retard le premier jour, Soul2Soul / RU, Geneva, CH
+slug: Performance2022
 performance_fr: >-
   * The Waiting Room Act II avec Agathe de Limoges, Sofia Underground, Sofia, BG
 
