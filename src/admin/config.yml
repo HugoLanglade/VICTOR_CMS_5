@@ -66,6 +66,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_association", widget: "string"}
       - {label: "Nom Association (Français)", name: "association_fr", widget: "string"}
@@ -77,6 +78,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_curation", widget: "string"}
       - {label: "Nom Projet de Curation (Français)", name: "curation_fr", widget: "markdown"}
@@ -88,6 +90,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_formation", widget: "string"}
       - {label: "Nom de la Formation (Français)", name: "formation_fr", widget: "markdown"}
@@ -99,6 +102,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
       - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
@@ -110,6 +114,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_press", widget: "string"}
       - {label: "Nom Performance, Lieu (Français)", name: "press_fr", widget: "markdown"}
@@ -121,6 +126,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "show_fr", widget: "markdown"}
@@ -132,6 +138,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_residency", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "residency_fr", widget: "markdown"}
