@@ -3,8 +3,8 @@ title: BIO
 layout: base_bio.njk
 permalink: /bio.html
 bio_français: >-
-  Victor Delétraz (*1997) est un artiste vivant et travaillant à Genève. Il est
-  récemment diplômé d'un master en arts visuels ( Work.Master - Pratiques
+  *Victor Delétraz* (*1997) est un artiste vivant et travaillant à Genève. Il
+  est récemment diplômé d'un master en arts visuels ( Work.Master - Pratiques
   artistiques contemporaines ) à la HEAD–Genève. 
 
   Sa pratique s'articule autour de l'installation, l'écriture, la musique, la vidéo, la peinture et la performance. 
