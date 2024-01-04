@@ -1,4 +1,5 @@
 ---
+slug: EncoreHeureux
 permalink: /works/encore-heureux.html
 numero_article: article2
 nom_lieu: Encore Heureux
