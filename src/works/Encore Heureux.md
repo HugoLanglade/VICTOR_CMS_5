@@ -9,8 +9,8 @@ texte_lien_fr: Site web
 texte_lien_en: Website
 fr_nom_maj: ENCORE HEUREUX
 en_nom_maj: ENCORE HEUREUX
-fr_details_lieu: Soul2Soul / RU - Genève (CH)
-en_details_lieu: Soul2Soul / RU - Geneva (CH)
+fr_details_lieu: Soul2Soul / RU - Genève (CH), 2022
+en_details_lieu: Soul2Soul / RU - Geneva (CH), 2022
 fr_type_duree: |
   Duo Show avec Annabelle Galland
   Invitation de Sylvain Gelewski
