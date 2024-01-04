@@ -1,4 +1,5 @@
 ---
+slug: Tout_le_monde_n'a_jamais_existé_avant
 permalink: /works/zabriskie.html
 numero_article: article7
 nom_lieu: Tout le monde n'a jamais existé avant
