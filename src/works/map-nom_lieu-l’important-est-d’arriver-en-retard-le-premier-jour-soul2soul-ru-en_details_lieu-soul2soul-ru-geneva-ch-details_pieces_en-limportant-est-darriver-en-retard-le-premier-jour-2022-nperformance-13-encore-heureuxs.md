@@ -1,5 +1,5 @@
 ---
-slug: Encore_Heureux_performance
+slug: L'important_est_d'arriver_en_retard_le_premier_jour
 permalink: /works/encore-heureux-performance.html
 numero_article: article6
 nom_lieu: L’important est d’arriver en retard le premier jour
