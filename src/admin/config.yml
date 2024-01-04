@@ -33,7 +33,7 @@ collections:
     label: "Works"
     folder: "src/works"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -63,7 +63,7 @@ collections:
     label: "CV: Association"
     folder: "src/cv/association"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -75,7 +75,7 @@ collections:
     label: "CV: Curation"
     folder: "src/cv/curation"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -87,7 +87,7 @@ collections:
     label: "CV: Education"
     folder: "src/cv/education"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -99,7 +99,7 @@ collections:
     label: "CV: Performance"
     folder: "src/cv/performance"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -111,7 +111,7 @@ collections:
     label: "CV: Presse"
     folder: "src/cv/press"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -123,7 +123,7 @@ collections:
     label: "CV: Shows"
     folder: "src/cv/show"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
@@ -135,7 +135,7 @@ collections:
     label: "CV: Residency"
     folder: "src/cv/residency"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "slug", name: "slug", widget: "string"}
