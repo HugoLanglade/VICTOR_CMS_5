@@ -1,5 +1,6 @@
 ---
 layout: base_cv.njk
+slug: KubaParis
 permalink: /cv_press2.html
 dates_press: "2022"
 press_fr: "* Encore Heureux, KubaParis ( site internet et instagram )"
