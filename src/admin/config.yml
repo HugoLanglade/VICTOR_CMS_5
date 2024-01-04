@@ -36,6 +36,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # A checker !
       - {label: "Numero Article", name: "numero_article", widget: "string"}
       - {label: "Nom Expo - Lieu", name: "nom_lieu", widget: "string"}
