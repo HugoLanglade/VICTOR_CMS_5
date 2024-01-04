@@ -13,26 +13,27 @@ fr_details_lieu: Projet de master, HEAD – Genève, 2023
 en_details_lieu: Master's degree project, HEAD – Geneva, 2023
 fr_type_duree: Installation, Performance 10'
 en_type_duree: Installation, Performance 10'
-image_couv: ./assets/projets/a_trap/1.ensemble1.jpg
+image_couv: /images/uploads/ensemble.jpg
 images:
-  - path: ./assets/projets/a_trap/2.chaise.jpg
-  - path: ./assets/projets/a_trap/3.chaise2.jpg
-  - path: ./assets/projets/a_trap/4.Victor-Deletraz-┬®Laura-Spozio_1.jpg
-  - path: ./assets/projets/a_trap/5.Victor-Deletraz-┬®Laura-Spozio_3.jpg
-  - path: ./assets/projets/a_trap/6carton-insectes.jpg
-  - path: ./assets/projets/a_trap/7.Victor-Deletraz-┬®Laura-Spozio_2.jpg
-  - path: ./assets/projets/a_trap/8.Victor-Deletraz-┬®Laura-Spozio_4.jpg
-  - path: ./assets/projets/a_trap/9.Victor-Deletraz-┬®Laura-Spozio_6.jpg
-  - path: ./assets/projets/a_trap/10.attrape-mouche-detail.jpg
-  - path: ./assets/projets/a_trap/11.detail-ensemble3.jpg
-  - path: ./assets/projets/a_trap/12.mur-boite copie.jpg
-  - path: ./assets/projets/a_trap/13.miroir.jpg
-  - path: ./assets/projets/a_trap/14.peinture-detail.jpg
-  - path: ./assets/projets/a_trap/15.peinture-detail2.jpg
-  - path: ./assets/projets/a_trap/16.peinture-orange-detail.jpg
-  - path: ./assets/projets/a_trap/17.Victor-Deletraz-┬®Laura-Spozio_8.jpg
-  - path: ./assets/projets/a_trap/18.Victor-Deletraz-┬®Laura-Spozio_9.jpg
-  - path: ./assets/projets/a_trap/19.Victor-Deletraz-┬®Laura-Spozio_10.jpg
+  - path: /images/uploads/chaise.jpg
+  - path: /images/uploads/chaise2.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_1-comp.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_3-comp.jpg
+  - path: /images/uploads/carton-insectes.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_2_comp.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_4-comp.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_6-comp.jpg
+  - path: /images/uploads/attrape-mouche-detail.jpg
+  - path: /images/uploads/detail-ensemble3.jpg
+  - path: /images/uploads/mur-boite-copie.jpg
+  - path: /images/uploads/miroir.jpg
+  - path: /images/uploads/peinture-detail.jpg
+  - path: /images/uploads/peinture-detail2.jpg
+  - path: /images/uploads/peinture-orange-detail.jpg
+  - path: /images/uploads/smiley-detail.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_8-compressed.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_9.jpg
+  - path: /images/uploads/victor-deletraz-©laura-spozio_10.jpg
 description_fr: >
   A trap that doesn't kill est une installation et une performance. Les
   spectateur.rice.s.x sont invité.e.s.x à entrer dans un espace étrange, éclairé
