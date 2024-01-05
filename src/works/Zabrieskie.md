@@ -2,7 +2,7 @@
 slug: Tout_le_monde_n'a_jamais_existé_avant
 permalink: /works/zabriskie.html
 numero_article: article7
-nom_lieu: Tout le monde n'a jamais existé avant
+nom_lieu: Tout le monde n'a jamais existé avant - Zabriskie Point
 année: 2023
 mois: 11
 lien: https://www.instagram.com/limbo.collective.ch/?igsh=MXUyNnM1Z3VmZmtmOA%3D%3D
