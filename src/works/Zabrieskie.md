@@ -31,6 +31,7 @@ images:
   - path: /images/uploads/zab_8051_2nds.jpg
   - path: /images/uploads/zab_8080_2nds.jpg
   - path: /images/uploads/zab_8110_2nds.jpg
+  - path: /images/uploads/carton-crowed.jpg
 description_fr: >-
   PARTIE 1
 
