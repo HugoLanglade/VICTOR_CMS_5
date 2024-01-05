@@ -22,6 +22,15 @@ images:
   - path: /images/uploads/zab_8097_02.jpg
   - path: /images/uploads/zab_8123_02.jpg
   - path: /images/uploads/20231126_150237.jpg
+  - path: /images/uploads/zab_7957_2nds.jpg
+  - path: /images/uploads/zab_7983_2nds.jpg
+  - path: /images/uploads/zab_8006_2nds.jpg
+  - path: /images/uploads/zab_8008_2nds.jpg
+  - path: /images/uploads/zab_8028_2nds.jpg
+  - path: /images/uploads/zab_8045_2nds.jpg
+  - path: /images/uploads/zab_8051_2nds.jpg
+  - path: /images/uploads/zab_8080_2nds.jpg
+  - path: /images/uploads/zab_8110_2nds.jpg
 description_fr: >-
   PARTIE 1
 
