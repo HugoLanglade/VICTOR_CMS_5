@@ -2,7 +2,7 @@
 slug: ToutEstAInventer
 permalink: /works/la_fonte.html
 numero_article: article8
-nom_lieu: Tout est à inventer
+nom_lieu: Tout est à inventer - La Fonte
 année: 2021
 mois: 8
 lien: https://vimeo.com/870276416
