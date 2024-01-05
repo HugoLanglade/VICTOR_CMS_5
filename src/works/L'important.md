@@ -2,7 +2,7 @@
 slug: L'important_est_d'arriver_en_retard_le_premier_jour
 permalink: /works/encore-heureux-performance.html
 numero_article: article6
-nom_lieu: L’important est d’arriver en retard le premier jour
+nom_lieu: L’important est d’arriver en retard le premier jour - Soul2Soul / RU
 année: 2022
 mois: 5
 lien: https://soul2soulru.com/expo/encore-heureux/
