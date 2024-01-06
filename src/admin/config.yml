@@ -42,9 +42,9 @@ collections:
       - {label: "Nom Expo - Lieu", name: "nom_lieu", widget: "string"}
       - {label: "Année", name: "année", widget: "number"}
       - {label: "Mois", name: "mois", widget: "number"}
-      - {label: "Lien", name: "lien", widget: "string"}
-      - {label: "Texte du lien (Français)", name: "texte_lien_fr", widget: "string"}
-      - {label: "Texte du Lien (Anglais)", name: "texte_lien_en", widget: "string"}
+      - {label: "Lien", name: "lien", widget: "string", required: "false"}
+      - {label: "Texte du lien (Français)", name: "texte_lien_fr", widget: "string", required: "false"}
+      - {label: "Texte du Lien (Anglais)", name: "texte_lien_en", widget: "string", required: "false"}
       - {label: "Nom Projet en Majuscule (Français)", name: "fr_nom_maj", widget: "string"}
       - {label: "Nom Projet en Majuscule (Anglais)", name: "en_nom_maj", widget: "string"}
       - {label: "Lieu, Année (Français)", name: "fr_details_lieu", widget: "string"}
@@ -55,10 +55,10 @@ collections:
       - {label: "Autres Images", name: "images", widget: "list", fields: [{label: "Path", name: "path", widget: "image"}]}
       - {label: "Description du projet (Français)", name: "description_fr", widget: "markdown"}
       - {label: "Description du projet (Anglais)", name: "description_en", widget: "markdown"}
-      - {label: "Details des Pieces (Français)", name: "details_pieces_fr", widget: "markdown"}
-      - {label: "Details des Pieces (Anglais)", name: "details_pieces_en", widget: "markdown"}
-      - {label: "Credits", name: "credits", widget: "markdown"}
-      - {label: "Code vimeo", name: "vimeo_src", widget: "string"}
+      - {label: "Details des Pieces (Français)", name: "details_pieces_fr", widget: "markdown", required: "false"}
+      - {label: "Details des Pieces (Anglais)", name: "details_pieces_en", widget: "markdown", required: "false"}
+      - {label: "Credits", name: "credits", widget: "markdown", required: "false"}
+      - {label: "Code vimeo", name: "vimeo_src", widget: "string", required: "false"}
   - name: "cv_association"
     label: "CV: Association"
     folder: "src/cv/association"
