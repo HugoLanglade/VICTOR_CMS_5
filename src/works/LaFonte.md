@@ -146,5 +146,7 @@ credits: |
   Photo: Lorie Bettiol
 
   Special thanks to Doppelganger Collective
-vimeo_src: x
+vimeo_src: <iframe src="https://player.vimeo.com/video/870276416?h=61bb4e46eb"
+  width="640" height="564" frameborder="0" allow="autoplay; fullscreen"
+  allowfullscreen></iframe>
 ---
