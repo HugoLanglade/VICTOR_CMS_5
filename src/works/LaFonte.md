@@ -141,7 +141,10 @@ credits: |
   Photo: Lorie Bettiol
 
   Special thanks to Doppelganger Collective
-vimeo_src: <iframe src="https://player.vimeo.com/video/870276416?h=61bb4e46eb"
-  width="640" height="564" frameborder="0" allow="autoplay; fullscreen"
-  allowfullscreen></iframe>
+vimeo_src: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+  src="https://player.vimeo.com/video/870276416?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+  frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+  style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tout est
+  à inventer (excerpt)"></iframe></div><script
+  src="https://player.vimeo.com/api/player.js"></script>
 ---
