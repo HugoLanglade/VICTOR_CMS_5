@@ -35,7 +35,6 @@ images:
   - path: /images/uploads/claudetonnerre_048.jpg
   - path: /images/uploads/claudetonnerre_051.jpg
   - path: /images/uploads/claudetonnerre_055.jpg
-  - path: /images/uploads/claudetonnerre_056.jpg
   - path: /images/uploads/claudetonnerre_058.jpg
 description_fr: |+
   Performance de fin de résidence de deux semaines à La Fonte, Carouge (CH)
