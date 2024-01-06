@@ -31,7 +31,6 @@ images:
   - path: /images/uploads/claudetonnerre_037.jpg
   - path: /images/uploads/claudetonnerre_038.jpg
   - path: /images/uploads/claudetonnerre_042.jpg
-  - path: /images/uploads/claudetonnerre_044.jpg
   - path: /images/uploads/claudetonnerre_045.jpg
   - path: /images/uploads/claudetonnerre_048.jpg
   - path: /images/uploads/claudetonnerre_051.jpg
