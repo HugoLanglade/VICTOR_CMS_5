@@ -2,7 +2,7 @@
 slug: Tout_le_monde_n'a_jamais_existé_avant
 permalink: /works/zabriskie.html
 numero_article: article7
-nom_lieu: Tout le monde n'a jamais existé avant
+nom_lieu: Tout le monde n'a jamais existé avant - Zabriskie Point
 année: 2023
 mois: 11
 lien: https://www.instagram.com/limbo.collective.ch/?igsh=MXUyNnM1Z3VmZmtmOA%3D%3D
@@ -14,14 +14,23 @@ fr_details_lieu: Zabriskie Point, Genève (CH)
 en_details_lieu: Zabriskie Point, Geneva (CH), 2023
 fr_type_duree: Exposition personnelle - Installation
 en_type_duree: "Solo show - Installation "
-image_couv: /images/uploads/zab_8134_02.jpg
+image_couv: /images/uploads/zab_8134_02.webp
 images:
-  - path: /images/uploads/zab_7976_02.jpg
-  - path: /images/uploads/zab_7979_02.jpg
-  - path: /images/uploads/zab_8020_03.jpg
-  - path: /images/uploads/zab_8097_02.jpg
-  - path: /images/uploads/zab_8123_02.jpg
-  - path: /images/uploads/20231126_150237.jpg
+  - path: /images/uploads/zab_7976_02.webp
+  - path: /images/uploads/zab_7979_02.webp
+  - path: /images/uploads/zab_8020_03.webp
+  - path: /images/uploads/20231126_150237.webp
+  - path: /images/uploads/zab_8097_02.webp
+  - path: /images/uploads/zab_7957_2nds.webp
+  - path: /images/uploads/zab_7983_2nds.webp
+  - path: /images/uploads/zab_8006_2nds.webp
+  - path: /images/uploads/zab_8008_2nds.webp
+  - path: /images/uploads/zab_8028_2nds.webp
+  - path: /images/uploads/zab_8045_2nds.webp
+  - path: /images/uploads/zab_8051_2nds.webp
+  - path: /images/uploads/zab_8080_2nds.webp
+  - path: /images/uploads/zab_8110_2nds.webp
+  - path: /images/uploads/carton-crowed.webp
 description_fr: >-
   PARTIE 1
 
@@ -210,5 +219,5 @@ credits: |
   Curation : Limbo Collective
   Text: Yasemine Imre
   Photos: Jeanne Tullen
-vimeo_src: xxx
+vimeo_src: x
 ---
