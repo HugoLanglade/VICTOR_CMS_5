@@ -27,8 +27,8 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
-      - {label: "Biographie (Français)", name: "bio_français", widget: "markdown", buttons: "italic"}
-      - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown", buttons: "italic"}
+      - {label: "Biographie (Français)", name: "bio_français", widget: "markdown"}
+      - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown"}
   - name: "works"
     label: "Works"
     folder: "src/works"
