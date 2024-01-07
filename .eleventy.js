@@ -1,4 +1,10 @@
+const markdownIt = require('markdown-it');
+const markdownItAttrs = require('markdown-it-attrs');
+
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.setLibrary("md", markdownIt().use(markdownItAttrs));
+
   eleventyConfig.addPassthroughCopy("./src/css/");
   eleventyConfig.addPassthroughCopy("./src/js/");
   eleventyConfig.addPassthroughCopy("./src/assets/");
