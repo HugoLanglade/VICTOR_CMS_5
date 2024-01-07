@@ -62,53 +62,53 @@
       {% endfor %}
     </div>
 
-    <h1>Curating</h1>
-    <div class="details">
-    {% for curation in collections.cv %}
-        {% if curation.data.tags and "curation" in curation.data.tags %}
+      <h1>Curating</h1>
+  <div class="details">
+    {% for curating in collections.sortedCurating %}
+      {% if curating.data.tags and "curation" in curating.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{curation.data.dates_curation}}</p>
-          <p class="description">{{curation.data.curation_en}}</p>
+          <p class="dates">{{ curating.data.dates_curation }}</p>
+          <p class="description">{{ curating.data.curation_en }}</p>
         </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 
-    <h1>Residency</h1>
-    <div class="details">
-    {% for residency in collections.cv %}
-        {% if residency.data.tags and "residency" in residency.data.tags %}
+  <h1>Residency</h1>
+  <div class="details">
+    {% for residency in collections.sortedResidency %}
+      {% if residency.data.tags and "residency" in residency.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{residency.data.dates_residency}}</p>
-          <p class="description">{{residency.data.residency_en}}</p>
+          <p class="dates">{{ residency.data.dates_residency }}</p>
+          <p class="description">{{ residency.data.residency_en }}</p>
         </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 
-    <h1>Association</h1>
-    <div class="details">
-    {% for association in collections.cv %}
-        {% if association.data.tags and "association" in association.data.tags %}
+  <h1>Association</h1>
+  <div class="details">
+    {% for association in collections.sortedAssociation %}
+      {% if association.data.tags and "association" in association.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{association.data.dates_association}}</p>
-          <p class="description">{{association.data.association_en}}</p>
+          <p class="dates">{{ association.data.dates_association }}</p>
+          <p class="description">{{ association.data.association_en }}</p>
         </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 
-    <h1>Press</h1>
-    <div class="details">
-    {% for press in collections.cv %}
-        {% if press.data.tags and "press" in press.data.tags %}
+  <h1>Press</h1>
+  <div class="details">
+    {% for press in collections.sortedPress %}
+      {% if press.data.tags and "press" in press.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{press.data.dates_press}}</p>
-          <p class="description">{{press.data.press_en}}</p>
+          <p class="dates">{{ press.data.dates_press }}</p>
+          <p class="description">{{ press.data.press_en }}</p>
         </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
 <div class="français" style="display: none;">

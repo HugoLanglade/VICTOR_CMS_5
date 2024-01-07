@@ -1,7 +1,7 @@
 ---
 slug: Shows_2023
 permalink: /cv_show4.html
-dates_show: 2023
+dates_show: "2023"
 show_fr: |-
   * Making Kin, Making Place, Espace 3353, Carouge, CH
   * Tout le monde n'a jamais existé avant, Zabriskie Point, Genève, CH
