@@ -1,6 +1,6 @@
+const markdownIt = require("markdown-it");
+
 module.exports = function(eleventyConfig) {
-
-
   eleventyConfig.addPassthroughCopy("./src/css/");
   eleventyConfig.addPassthroughCopy("./src/js/");
   eleventyConfig.addPassthroughCopy("./src/assets/");
@@ -41,6 +41,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('contact', function (collection) {
     return collection.getFilteredByTag('contact');
   });
+
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true
+  };
+
+  eleventyConfig.setLibrary("md", markdownIt(options));
 
   // Return your Object options:
   return {
