@@ -107,7 +107,7 @@ p {
     padding-left: 2vw;
     padding-bottom: 2.5vh;
     overflow-y: auto; 
-   height: 70vh;
+    height: 70vh;
     scrollbar-width: thin;
     scrollbar-color: transparent transparent;
 }
@@ -129,18 +129,20 @@ p {
 .sous_details {
     display: flex;
     flex-direction: row;
+    width: 44vw;
 }
 
 .dates {
     display: flex;
     flex-direction: column;
-    width: 13vh;
+    width: 10vw;
 }
 
 .description {
     display: flex;
     flex-direction: column;
-    padding-left: 3vw;
+    padding-left: 1vw;
+    width: 44vw;
 }
 
 
@@ -178,6 +180,23 @@ main.contenu_main {
         height: auto;
         padding-top: 1vh;
         padding-left: 2vw;
+    }
+
+    .sous_details {
+        width: 100vw;
+    }
+    
+    .dates {
+        display: flex;
+        flex-direction: column;
+        width: 15vw;
+    }
+    
+    .description {
+        display: flex;
+        flex-direction: column;
+        padding-left: 1vw;
+        width: 84vw;
     }
 
     .icon {

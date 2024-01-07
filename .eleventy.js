@@ -1,6 +1,3 @@
-const markdownIt = require('markdown-it');
-const markdownItAttrs = require('markdown-it-attrs');
-
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/css/");
@@ -18,12 +15,28 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/admin/")
   eleventyConfig.addPassthroughCopy("src/admin/config.yml", "admin/config.yml")
 
-  // Set up Markdown rendering with markdown-it and markdown-it-attrs
-  const md = markdownIt().use(markdownItAttrs);
-  eleventyConfig.setLibrary("md", md);
+
+  //TRI PAR DATES DANS LE CV
+  eleventyConfig.addCollection("sortedEducation", function(collectionApi) {
+    const educationItems = collectionApi.getFilteredByTag("education", "cv");
+    return educationItems.sort((a, b) => new Date(b.data.dates_formation) - new Date(a.data.dates_formation));
+  });
+
+  eleventyConfig.addCollection("sortedShows", function(collectionApi) {
+    const showItems = collectionApi.getFilteredByTag("show", "cv");
+    return showItems.sort((a, b) => {
+      const yearA = new Date(a.data.dates_show).getFullYear();
+      const yearB = new Date(b.data.dates_show).getFullYear();
+      return yearB - yearA;
+    });
+  });
+
+  eleventyConfig.addCollection("sortedPerformance", function(collectionApi) {
+    const performanceItems = collectionApi.getFilteredByTag("performance", "cv");
+    return performanceItems.sort((a, b) => new Date(b.data.dates_performance) - new Date(a.data.dates_performance));
+  });
 
   eleventyConfig.setBrowserSyncConfig({
-  
     // Set the base directory for Eleventy to serve files from
     server: 'dist',
   });

@@ -28,7 +28,7 @@
 <div class="english">
     <h1>Education</h1>
     <div class="details">
-    {% for education in collections.cv %}
+    {% for education in collections.sortedEducation %}
         {% if education.data.tags and "education" in education.data.tags %}
         <div class="sous_details">
           <p class="dates">{{education.data.dates_formation}}</p>
@@ -40,7 +40,7 @@
 
     <h1>Collective Shows</h1>
     <div class="details">
-    {% for show in collections.cv %}
+    {% for show in collections.sortedShows %}
         {% if show.data.tags and "show" in show.data.tags %}
         <div class="sous_details">
           <p class="dates">{{show.data.dates_show}}</p>
@@ -52,7 +52,7 @@
 
     <h1>Performance</h1>
     <div class="details">
-    {% for performance in collections.cv %}
+    {% for performance in collections.sortedPerformance %}
         {% if performance.data.tags and "performance" in performance.data.tags %}
         <div class="sous_details">
           <p class="dates">{{performance.data.dates_performance}}</p>
