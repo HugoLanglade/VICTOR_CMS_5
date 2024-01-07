@@ -2,7 +2,7 @@
 slug: ToutEstAInventer
 permalink: /works/la_fonte.html
 numero_article: article8
-nom_lieu: Tout est à inventer
+nom_lieu: Tout est à inventer - La Fonte
 année: 2021
 mois: 8
 lien: https://vimeo.com/870276416
@@ -21,11 +21,9 @@ images:
   - path: /images/uploads/claudetonnerre_009.jpg
   - path: /images/uploads/claudetonnerre_011.jpg
   - path: /images/uploads/claudetonnerre_018.jpg
-  - path: /images/uploads/claudetonnerre_019.jpg
   - path: /images/uploads/claudetonnerre_024.jpg
   - path: /images/uploads/claudetonnerre_025.jpg
   - path: /images/uploads/claudetonnerre_026.jpg
-  - path: /images/uploads/claudetonnerre_027.jpg
   - path: /images/uploads/claudetonnerre_031.jpg
   - path: /images/uploads/claudetonnerre_032.jpg
   - path: /images/uploads/claudetonnerre_034.jpg
@@ -33,13 +31,10 @@ images:
   - path: /images/uploads/claudetonnerre_037.jpg
   - path: /images/uploads/claudetonnerre_038.jpg
   - path: /images/uploads/claudetonnerre_042.jpg
-  - path: /images/uploads/claudetonnerre_044.jpg
   - path: /images/uploads/claudetonnerre_045.jpg
   - path: /images/uploads/claudetonnerre_048.jpg
   - path: /images/uploads/claudetonnerre_051.jpg
-  - path: /images/uploads/claudetonnerre_053.jpg
   - path: /images/uploads/claudetonnerre_055.jpg
-  - path: /images/uploads/claudetonnerre_056.jpg
   - path: /images/uploads/claudetonnerre_058.jpg
 description_fr: |+
   Performance de fin de résidence de deux semaines à La Fonte, Carouge (CH)
@@ -146,5 +141,10 @@ credits: |
   Photo: Lorie Bettiol
 
   Special thanks to Doppelganger Collective
-vimeo_src: x
+vimeo_src: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+  src="https://player.vimeo.com/video/870276416?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+  frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+  style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tout est
+  à inventer (excerpt)"></iframe></div><script
+  src="https://player.vimeo.com/api/player.js"></script>
 ---

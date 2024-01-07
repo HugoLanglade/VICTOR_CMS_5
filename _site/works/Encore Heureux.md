@@ -2,7 +2,7 @@
 slug: EncoreHeureux
 permalink: /works/encore-heureux.html
 numero_article: article2
-nom_lieu: Encore Heureux
+nom_lieu: Encore Heureux - Soul2Soul / RU
 année: 2022
 mois: 4
 lien: https://soul2soulru.com/expo/encore-heureux/

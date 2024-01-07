@@ -27,8 +27,8 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
-      - {label: "Biographie (Français)", name: "bio_français", widget: "markdown", editor_components: ['bold', 'italic', 'link', 'strikethrough']}
-      - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown", editor_components: ['bold', 'italic', 'link', 'strikethrough']}
+      - {label: "Biographie (Français)", name: "bio_français", widget: "markdown", buttons: ["bold","italic","link","code-block","quote","bulleted-list","numbered-list","heading-two","heading-three","heading-four"]}
+      - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown", buttons: ["bold","italic","link","code-block","quote","bulleted-list","numbered-list","heading-two","heading-three","heading-four"]}
   - name: "works"
     label: "Works"
     folder: "src/works"

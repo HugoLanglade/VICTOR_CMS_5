@@ -2,7 +2,7 @@
 slug: L'alu_les_tuait
 permalink: /works/alu.html
 numero_article: article4
-nom_lieu: L'alu les tuait
+nom_lieu: L'alu les tuait - La Becque
 année: 2020
 mois: 9
 lien: https://artviewer.org/modern-nature-an-hommage-to-derek-jarman-part-ii-at-la-becque/
@@ -18,7 +18,6 @@ fr_type_duree: Performance 7'
 en_type_duree: Performance 7'
 image_couv: /images/uploads/32.img_6800©luc-meier-copy.jpg
 images:
-  - path: /images/uploads/32.img_6800©luc-meier-copy.jpg
   - path: /images/uploads/09.200927_labecque_©dianamartin-2727-copy.jpg
   - path: /images/uploads/10.200927_labecque_©dianamartin-2793-copy.jpg
   - path: /images/uploads/33.img_9255©manon-briod-copy.jpeg

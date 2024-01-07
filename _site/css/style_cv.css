@@ -71,6 +71,14 @@ button {
     background-color: white;
 }
 
+.fr_btn:hover {
+    opacity: 0.5;
+}
+
+.en_btn:hover {
+    opacity: 0.5;
+}
+
 .img_langue {
     display: flex;
     width: 3vw;
