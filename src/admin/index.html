@@ -8,13 +8,16 @@
   <!-- Include the styles for the Netlify CMS UI, after your own styles -->
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^2.0.0/dist/cms.css" />
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.0.4/dist/markdown-it.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/markdown-it-attrs@4.0.0/markdown-it-attrs.browser.js"></script>
+  <script src="https://unpkg.com/netlify-cms-widget-richtext@^0.1.0"></script>
+
 </head>
 <body>
 
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    CMS.registerWidget('richtext', RichTextControl, RichTextPreview)
+  </script>
 
 </body>
 </html>
