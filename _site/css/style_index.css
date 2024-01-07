@@ -257,4 +257,12 @@ margin-bottom: 37%;
         content: none;
     }
 
+    .website_by_phone {
+        display: flex;
+        width: 70vw;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }
+
 }
