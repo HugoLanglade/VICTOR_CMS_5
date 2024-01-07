@@ -522,6 +522,11 @@ a:hover {
         padding-bottom: 1vh;
     }
 
+    .container_gauche a {
+        color: rgb(58, 58, 224);
+        text-decoration: rgb(58, 58, 224) wavy underline;
+    }
+
 
     /* /* CONTENU DROITE : PARTIE TITRE */
 
