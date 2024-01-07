@@ -23,7 +23,7 @@ bio_français: >-
   Il utilise souvent un vocabulaire commun dans chaque performances: fumée, feu, effets spectaculaires (ou anti-spectaculaire), textes, musique et des interactions avec les spectateur.ice.s.x. Ses performances abordent des notions d'échec, de vulnérabilité, le tout teinté d'humour, d'absurdité, de gestes bancals et d'improvisation. 
 
 
-  Victor Delétraz a exposé et performé à Sofia en Bulgarie, à Athènes en Grèce, à Genève dans plusieurs espaces d’arts comme Soul2Soul RU, Topic, l’Espace 3353, à la BIG 21 &amp; 23 et a montré sa première exposition personnelle à Zabriskie Point curaté par Limbo Space en novembre 2023.
+  Victor Delétraz a exposé et performé à Sofia en Bulgarie, à Athènes en Grèce, à Genève dans plusieurs espaces d’arts comme Soul2Soul RU, Topic, l’Espace 3353, à la BIG 21 & 23 et a montré sa première exposition personnelle à Zabriskie Point curaté par Limbo Space en novembre 2023.
 bio_anglais: >-
   Victor Delétraz ( *1997 ) is an artist living and working in Geneva. He
   recently graduated from the HEAD-Geneva with a Master’s degree in visual arts.
