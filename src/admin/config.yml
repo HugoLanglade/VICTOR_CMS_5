@@ -105,8 +105,8 @@ collections:
       - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_performance.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
-      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
-      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "markdown"}
+      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "richtext"}
+      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "richtext"}
   - name: "cv_press"
     label: "CV: Presse"
     folder: "src/cv/press"
