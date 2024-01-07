@@ -2,7 +2,7 @@
 title: BIO
 layout: base_bio.njk
 permalink: /bio.html
-bio_français: "<p><em>Victor Delétraz</em>(*1997) est un artiste vivant et
+bio_français: "<em>Victor Delétraz</em>(*1997) est un artiste vivant et
   travaillant à Genève. Il est récemment diplômé d'un master en arts visuels
   ( Work.Master - Pratiques artistiques contemporaines ) à la HEAD–Genève. Sa
   pratique s'articule autour de l'installation, l'écriture, la musique, la
@@ -30,7 +30,7 @@ bio_français: "<p><em>Victor Delétraz</em>(*1997) est un artiste vivant et
   d'improvisation. Victor Delétraz a exposé et performé à Sofia en Bulgarie, à
   Athènes en Grèce, à Genève dans plusieurs espaces d’arts comme Soul2Soul RU,
   Topic, l’Espace 3353, à la BIG 21 &amp; 23 et a montré sa première exposition
-  personnelle à Zabriskie Point curaté par Limbo Space en novembre 2023.</p>"
+  personnelle à Zabriskie Point curaté par Limbo Space en novembre 2023."
 bio_anglais: >-
   Victor Delétraz ( *1997 ) is an artist living and working in Geneva. He
   recently graduated from the HEAD-Geneva with a Master’s degree in visual arts.
