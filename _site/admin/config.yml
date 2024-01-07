@@ -27,8 +27,8 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
-      - {label: "Biographie (Français)", name: "bio_français", widget: "markdown", buttons: ["bold","italic","link","code-block","quote","bulleted-list","numbered-list","heading-two","heading-three","heading-four"]}
-      - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "markdown", buttons: ["bold","italic","link","code-block","quote","bulleted-list","numbered-list","heading-two","heading-three","heading-four"]}
+      - {label: "Biographie (Français)", name: "bio_français", widget: "text"}
+      - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "text"}
   - name: "works"
     label: "Works"
     folder: "src/works"
@@ -105,8 +105,8 @@ collections:
       - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_performance.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
-      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
-      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "markdown"}
+      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "text"}
+      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "text"}
   - name: "cv_press"
     label: "CV: Presse"
     folder: "src/cv/press"

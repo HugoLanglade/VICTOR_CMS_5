@@ -141,8 +141,8 @@
     {% for performance in collections.cv %}
         {% if performance.data.tags and "performance" in performance.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{.performance.data.dates_performance | markdownify}}</p>
-          <p class="description">{{.performance.data.performance_fr | markdownify}}</p>
+          <p class="dates">{{performance.data.dates_performance}}</p>
+          <p class="description">{{performance.data.performance_fr}}</p>
         </div>
         {% endif %}
       {% endfor %}
