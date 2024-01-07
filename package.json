@@ -13,6 +13,7 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "markdown-it": "^14.0.0",
-    "netlify-cms-backend-git-gateway": "^2.13.1"
+    "netlify-cms-backend-git-gateway": "^2.13.1",
+    "netlify-cms-widget-richtext": "^0.1.5"
   }
 }
