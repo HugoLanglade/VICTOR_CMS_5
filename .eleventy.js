@@ -3,7 +3,6 @@ const markdownItAttrs = require('markdown-it-attrs');
 
 module.exports = function(eleventyConfig) {
 
-  eleventyConfig.setLibrary("md", markdownIt().use(markdownItAttrs));
 
   eleventyConfig.addPassthroughCopy("./src/css/");
   eleventyConfig.addPassthroughCopy("./src/js/");
@@ -20,7 +19,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/admin/")
   eleventyConfig.addPassthroughCopy("src/admin/config.yml", "admin/config.yml")
 
+  // Set up Markdown rendering with markdown-it and markdown-it-attrs
+  const md = markdownIt().use(markdownItAttrs);
+  eleventyConfig.setLibrary("md", md);
+
   eleventyConfig.setBrowserSyncConfig({
+  
     // Set the base directory for Eleventy to serve files from
     server: 'dist',
   });
