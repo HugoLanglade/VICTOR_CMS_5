@@ -30,17 +30,24 @@
         </div>
         
         <ul class="liste_expos">
-            <h1>2024</h1>
+                {% set uniqueYears = [] %}
+        {% for work in collections.works %}
+          {% set year = work.data.année %}
+          {% if uniqueYears.indexOf(year) == -1 %}
+            {% set _ = uniqueYears.push(year) %}
+          {% endif %}
+        {% endfor %}
 
-            <h1>2023</h1>
-            {% for works in collections.works %}
-            <li data-year="{{works.data.année}}" data-month="{{works.data.mois}}" data-article-id="{{works.data.numero_article}}"><a href="#">{{works.data.nom_lieu}}</a></li>
-                {% endfor %}
-            <h1>2022</h1>
-            
-            <h1>2021</h1>
-
-            <h1>2020</h1>
+        {% for year in uniqueYears %}
+          <h1>{{ year }}</h1>
+          {% for work in collections.works %}
+            {% if work.data.année == year %}
+              <li data-year="{{ work.data.année }}" data-month="{{ work.data.mois }}" data-article-id="{{ work.data.numero_article }}">
+                <a href="#">{{ work.data.nom_lieu }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
         </ul>
     </div>  
 </div>
