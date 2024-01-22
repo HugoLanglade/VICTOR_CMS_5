@@ -30,15 +30,15 @@
         </div>
         
         <ul class="liste_expos">
-                {% set uniqueYears = [] %}
+        {% set uniqueYears = [] %}
         {% for work in collections.works %}
           {% set year = work.data.année %}
           {% if uniqueYears.indexOf(year) == -1 %}
             {% set _ = uniqueYears.push(year) %}
           {% endif %}
         {% endfor %}
-
-        {% for year in uniqueYears %}
+        
+        {% for year in uniqueYears|reverse %}
           <h1>{{ year }}</h1>
           {% for work in collections.works %}
             {% if work.data.année == year %}
