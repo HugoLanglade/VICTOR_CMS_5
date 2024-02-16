@@ -3,24 +3,63 @@ title: BIO
 layout: base_bio.njk
 permalink: /bio.html
 bio_français: >-
-  Victor Delétraz (*1997) est un artiste basé à Genève, dont la pratique
-  artistique polyvalente explore les domaines de l'installation, de l'écriture,
-  de la musique, de la vidéo, de la peinture et de la performance. 
+  Victor Delétraz (*1997) est un artiste basé à Genève. Sa pratique artistique
+  polyvalente
+
+  explore les domaines de l'installation, de l'écriture, de la musique, de la vidéo, de la peinture
+
+  et de la performance.
 
 
-  Récemment diplômé d'un master en Arts visuels de la HEAD–Genève, programme Work.Master - Pratiques artistiques contemporaines, Victor Delétraz adopte une approche singulière pour chaque projet, utilisant l’installation et la performance pour transformer des objets ordinaires en éléments de reflexion, explorant des narrations à la fois caricaturales, étranges et engagées. À travers une esthétique mêlant le spectaculaire et l’absurde, ses interventions se déploient entre le geste défini et l’improvisation, cherchant à générer une tension dans la vulnérabilité d’actions fragiles et instables.
+  Récemment diplômé d'un master en Arts visuels de la HEAD–Genève, programme
+
+  Work.Master - Pratiques artistiques contemporaines, Victor Delétraz adopte une approche
+
+  singulière pour chaque projet, utilisant l’installation et la performance pour transformer des
+
+  objets ordinaires en éléments de reflexion, explorant des narrations à la fois caricaturales,
+
+  étranges et engagées. À travers une esthétique mêlant le spectaculaire et l’absurde, ses
+
+  interventions se déploient entre le geste défini et l’improvisation, cherchant à générer une
+
+  tension dans la vulnérabilité d’actions fragiles et instables.
 
 
-  Ses installations, qui lui servent de scènes pour ses performances, intègrent souvent des objets aux origines et typologies variées, mêlant peintures, accessoires, objets en mouvement et objets aux potentiels performatifs. Ces objets évolutifs ne sont pas fixés et sont régulièrement re-transformés pour des expositions futures, formant ainsi un corpus artistique distinct caractérisé par un vocabulaire visuel basé sur la répétition.
+  Ses installations, qui lui servent de scènes pour ses performances, intègrent souvent des
+
+  objets aux origines et typologies variées, dont il se sert pour faire ressortir leur potentiel
+
+  performatif. Ces mêmes objets évoluent dans le temps et peuvent intégrer des projets futurs,
+
+  formant ainsi un corpus artistique distinct caractérisé par un vocabulaire visuel basé sur la
+
+  répétition.
 
 
-  Ses performances, pensée comme des experiences à vivre ensemble avec les spectateur·rice·x créent des cadres qui permettent aux surprises de surgir, offrant des moments instantanés et des perspectives de réflexion universelle, se situant à la frontière entre une critique institutionnelle et un imaginaire militant.
+  Conçues comme des expériences à vivre avec les spectateur·rice·x, ses performances créent
+
+  des espaces où la spontanéité est mise en jeu. Elles abordent des questions politiques et
+
+  poétiques autour des concepts d’échec et d’instabilité, de sécurité, de consumérisme ou de
+
+  notre rapport aux communautés. Elles se situent à la lisière entre critique institutionnelle et
+
+  imaginaire militant.
 
 
-  Il utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels que de la fumée, du feu, de la mousse, des effets superflus ou anodins, des textes, de la musique et des interactions avec le public. Ses performances abordent des questions politiques et poétiques autour de la sécurité, du consumérisme, de notre rapport à la communauté et des concepts d'échec et de vulnérabilité dans nos sociétés.
+  Il y utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels
+
+  que la fumée, le feu, la mousse, des effets superflus ou anodins, des textes, de la musique et
+
+  des interactions avec le public.
 
 
-  Victor Delétraz a exposé et performé à Sofia en Bulgarie, à Athènes en Grèce, en Suisse dans plusieurs espaces d’arts indépendants comme Zabriskie, Soul2Soul RU, Topic, l’Espace 3353, la BIG 21 & 23 ou La Becque.
+  Victor Delétraz a exposé et performé à Sofia (Bulgarie), à Athènes (Grèce), en Suisse dans
+
+  plusieurs espaces d’arts indépendants comme Zabriskie, Soul2Soul RU, Topic, l’Espace
+
+  3353, la BIG 21 & 23 ou La Becque.
 bio_anglais: >-
   Victor Delétraz ( *1997 ) is an artist living and working in Geneva. He
   recently graduated from the HEAD-Geneva with a Master’s degree in visual arts.
