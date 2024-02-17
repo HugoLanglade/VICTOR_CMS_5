@@ -3,9 +3,9 @@ title: BIO
 layout: base_bio.njk
 permalink: /bio.html
 bio_français: >-
-  Victor Delétraz (*1997) est un artiste basé à Genève. Sa pratique artistique
-  polyvalente explore les domaines de l'installation, de l'écriture, de la
-  musique, de la vidéo, de la peinture et de la performance.
+  Victor Delétraz (*1997) est un artiste basé à Genève, CH. Sa pratique
+  artistique polyvalente explore les domaines de l'installation, de l'écriture,
+  de la musique, de la vidéo, de la peinture et de la performance.
 
 
   Récemment diplômé d'un master en Arts visuels de la HEAD–Genève, programme Work.Master - Pratiques artistiques contemporaines, Victor Delétraz adopte une approche singulière pour chaque projet, utilisant l’installation et la performance pour transformer des objets ordinaires en éléments de reflexion, explorant des narrations à la fois caricaturales, étranges et engagées. À travers une esthétique mêlant le spectaculaire et l’absurde, ses interventions se déploient entre le geste défini et l’improvisation, cherchant à générer une tension dans la vulnérabilité d’actions fragiles et instables.
