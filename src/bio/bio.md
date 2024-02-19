@@ -21,5 +21,26 @@ bio_français: >-
 
 
   Victor Delétraz a exposé et performé à Sofia (Bulgarie), à Athènes (Grèce), en Suisse dans plusieurs espaces d’arts indépendants comme Zabriskie, Soul2Soul RU, Topic, Espace 3353, la BIG 21 & 23 ou La Becque.
-bio_anglais: TRANSLATION IS COMING :-0
+bio_anglais: >
+  Biography
+
+
+
+
+  Victor Delétraz is an artist based in Geneva, CH. His versatile artistic practice explore the fields of installation, writing, music, video, painting and performance.
+
+
+  Recently graduated from the HEAD – Genève with a MFA, Work.Master program, Victor Delétraz adopt a singular approach for every projects, using installation and performance to transform ordinary objects in elements of reflection, exploring narratives that are at once cartoonish, odd and engaged. Through an aesthetic mixing the spectacular and the absurd, his interventions unfold between the defined gesture and improvisation, seeking to generate tension in the vulnerability of wobbly and fragile actions.
+
+
+  His installations, which serve as stages for his performances, often incorporate objects of varied origins and typologies, which he uses to bring out their performative potential. These same objects evolve over time and can incorporated into futur projects, forming a distinct artistic corpus characterized by a visual vocabulary based on repetition.
+
+
+  Designed as experiences to be shared with the spectators, his performances create spaces where spontaneity is important. They address political and poetic questions around concepts of failure and instability, security, consumerism or our relationship with communities. They straddle the line between institutional critique and militant imagination.
+
+
+  He frequently uses a common artistic vocabulary, incorporating elements such as smoke, fire, foam, superfluous or anodyne effects, text, music and interaction with the audience.
+
+
+  Victor Delétraz has exhibited and performed in Sofia (Bulgaria), Athens (Greece), Switzerland in off-space such as Zabriskie, Soul2Soul RU, Topic, Espace 3353, BIG 21 & 23 or La Becque.
 ---
