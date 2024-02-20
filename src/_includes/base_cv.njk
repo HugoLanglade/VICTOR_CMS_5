@@ -38,6 +38,18 @@
       {% endfor %}
     </div>
 
+    <h1>Solo Shows</h1>
+    <div class="details">
+    {% for solo_show in collections.sortedSoloShows %}
+        {% if solo_show.data.tags and "solo_show" in solo_show.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{solo_show.data.dates_show}}</p>
+          <p class="description">{{solo_show.data.show_en}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
     <h1>Collective Shows</h1>
     <div class="details">
     {% for show in collections.sortedShows %}
@@ -119,6 +131,18 @@
         <div class="sous_details">
           <p class="dates">{{education.data.dates_formation}}</p>
           <p class="description">{{education.data.formation_fr}}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Expositions personnelles</h1>
+    <div class="details">
+    {% for solo_show in collections.sortedSoloShows %}
+        {% if solo_show.data.tags and "solo_show" in solo_show.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{solo_show.data.dates_show}}</p>
+          <p class="description">{{solo_show.data.show_fr}}</p>
         </div>
         {% endif %}
       {% endfor %}

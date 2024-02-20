@@ -2,8 +2,11 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/css/");
   eleventyConfig.addPassthroughCopy("./src/js/");
+  eleventyConfig.addPassthroughCopy("./src/js/works_js/");
   eleventyConfig.addPassthroughCopy("./src/assets/");
   eleventyConfig.addPassthroughCopy("./src/works/");
+  eleventyConfig.addPassthroughCopy("./src/works.njk");
+  eleventyConfig.addPassthroughCopy("./src/_includes/article.njk");
   eleventyConfig.addPassthroughCopy("./src/works/*.md");
   eleventyConfig.addPassthroughCopy("./src/cv/");
   eleventyConfig.addPassthroughCopy("./src/cv/*.md");
@@ -25,6 +28,15 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("sortedEducation", function(collectionApi) {
     const educationItems = collectionApi.getFilteredByTag("education", "cv");
+    return educationItems.sort((a, b) => {
+      const yearA = getStartYear(a.data.dates_formation);
+      const yearB = getStartYear(b.data.dates_formation);
+      return yearB - yearA;
+    });
+  });
+
+  eleventyConfig.addCollection("sortedSoloShows", function(collectionApi) {
+    const educationItems = collectionApi.getFilteredByTag("solo_show", "cv");
     return educationItems.sort((a, b) => {
       const yearA = getStartYear(a.data.dates_formation);
       const yearB = getStartYear(b.data.dates_formation);
@@ -113,12 +125,13 @@ module.exports = function(eleventyConfig) {
   });
 
 
+
   // Return your Object options:
   return {
     dir: {
       input: "src",
       output: "_site",
-      includes: "_includes"
+      includes: "_includes", 
     }
   }
 };

@@ -35,9 +35,9 @@ collections:
     create: true
     slug: "{{fields.slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_works.njk"}
       - {label: "slug", name: "slug", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/works.html"} # A checker !
       - {label: "Numero Article", name: "numero_article", widget: "string"}
       - {label: "Nom Expo - Lieu", name: "nom_lieu", widget: "string"}
       - {label: "Année", name: "année", widget: "number"}

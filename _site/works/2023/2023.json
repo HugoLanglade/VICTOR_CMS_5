@@ -1,4 +1,4 @@
 {
-    "layout": "base_works.njk",
+    "layout": "article.njk",
     "tags": "2023"
 }

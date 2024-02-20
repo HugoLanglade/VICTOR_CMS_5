@@ -11,15 +11,15 @@ document.addEventListener('DOMContentLoaded', function () {
   const rightArrow = document.createElement('div');
 
 const closeImage = document.createElement('img');
-closeImage.src = './assets/images/close_button.png'; // Replace with the actual path to your close image
+closeImage.src = '/assets/images/close_button.png'; // Replace with the actual path to your close image
 closeImage.className = 'close-image';
 lightboxContainer.appendChild(closeImage);
 
   leftArrow.className = 'arrow left-arrow';
   rightArrow.className = 'arrow right-arrow';
 
-  leftArrow.style.backgroundImage = "url('./assets/images/fleche_left.png')";
-  rightArrow.style.backgroundImage = "url('./assets/images/fleche_right.png')";
+  leftArrow.style.backgroundImage = "url('/assets/images/fleche_left.png')";
+  rightArrow.style.backgroundImage = "url('/assets/images/fleche_right.png')";
 
   lightboxContainer.appendChild(leftArrow);
   lightboxContainer.appendChild(lightboxImage);
