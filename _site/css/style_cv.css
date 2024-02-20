@@ -7,7 +7,6 @@ html, body {
 
 body, html, * {
     font-family: 'Times New Roman', Times, serif;
-    white-space: pre-line;
 }
 
 /* Haut de la page  */
@@ -144,6 +143,7 @@ p {
     flex-direction: column;
     padding-left: 1vw;
     width: 44vw;
+    white-space: pre-line;
 }
 
 
