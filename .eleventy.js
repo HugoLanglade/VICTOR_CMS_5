@@ -1,3 +1,5 @@
+const markdownIt = require("markdown-it");
+
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/css/");
@@ -20,15 +22,15 @@ module.exports = function(eleventyConfig) {
 
 
   // Test configuration pour bold, italic et tout: 
-  const md = require("markdown-it")({
+  let options = {
     html: true,
-    typographer: true,
-  });
+    breaks: true,
+    linkify: true
+  };
 
-  eleventyConfig.setLibrary("md", md);
+  eleventyConfig.setLibrary("md", markdownIt(options));
 
-  eleventyConfig.addFilter("markdown", content => md.render(content));
-  eleventyConfig.addPairedShortcode("markdown", content => md.render(content));
+  eleventyConfig.amendLibrary("md", mdLib => mdLib.enable("code"));
 
   //TRI PAR DATES DANS LE CV
   function getStartYear(dateRange) {
