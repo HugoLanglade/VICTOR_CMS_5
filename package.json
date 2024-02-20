@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@toycode/markdown-it-class": "^1.2.4",
     "markdown-it": "^14.0.0",
     "markdown-it-attrs": "^4.1.6",
     "netlify-cms-backend-git-gateway": "^2.13.1",

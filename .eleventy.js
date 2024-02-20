@@ -1,5 +1,18 @@
 const markdownIt = require("markdown-it");
 
+const md = markdownIt('commonmark');
+
+const mdWithOptions = markdownIt({
+  html:         false,
+  xhtmlOut:     false,
+  breaks:       false,
+  langPrefix:   'language-',
+  linkify:      false,
+  typographer:  false,
+  quotes: '“”‘’',
+  highlight: function (/*str, lang*/) { return ''; }
+});
+
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/css/");
@@ -28,9 +41,7 @@ module.exports = function(eleventyConfig) {
     linkify: true
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options));
-
-  eleventyConfig.amendLibrary("md", mdLib => mdLib.enable("code"));
+  eleventyConfig.setLibrary("md", mdWithOptions);
 
   //TRI PAR DATES DANS LE CV
   function getStartYear(dateRange) {
