@@ -131,6 +131,18 @@ collections:
       - {label: "Dates", name: "dates_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "show_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "show_en", widget: "markdown"}
+  - name: "cv_solo_show"
+    label: "CV: Solo Shows"
+    folder: "src/cv/solo_show"
+    create: true
+    slug: "{{fields.slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_solo_show.html"} # Adjust the permalink as needed
+      - {label: "Dates", name: "dates_solo_show", widget: "string"}
+      - {label: "Nom Exposition, Lieu (Français)", name: "solo_show_fr", widget: "markdown"}
+      - {label: "Nom Exposition, Performance (Anglais)", name: "solo_show_en", widget: "markdown"}
   - name: "cv_residency"
     label: "CV: Residency"
     folder: "src/cv/residency"

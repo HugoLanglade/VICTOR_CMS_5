@@ -43,8 +43,8 @@
     {% for solo_show in collections.sortedSoloShows %}
         {% if solo_show.data.tags and "solo_show" in solo_show.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{solo_show.data.dates_show}}</p>
-          <p class="description">{{solo_show.data.show_en}}</p>
+          <p class="dates">{{solo_show.data.dates_solo_show}}</p>
+          <p class="description">{{solo_show.data.solo_show_en}}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -141,8 +141,8 @@
     {% for solo_show in collections.sortedSoloShows %}
         {% if solo_show.data.tags and "solo_show" in solo_show.data.tags %}
         <div class="sous_details">
-          <p class="dates">{{solo_show.data.dates_show}}</p>
-          <p class="description">{{solo_show.data.show_fr}}</p>
+          <p class="dates">{{solo_show.data.dates_solo_show}}</p>
+          <p class="description">{{solo_show.data.solo_show_fr}}</p>
         </div>
         {% endif %}
       {% endfor %}
