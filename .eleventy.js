@@ -1,18 +1,5 @@
 const markdownIt = require("markdown-it");
 
-const md = markdownIt('commonmark');
-
-const mdWithOptions = markdownIt({
-  html:         false,
-  xhtmlOut:     false,
-  breaks:       false,
-  langPrefix:   'language-',
-  linkify:      false,
-  typographer:  false,
-  quotes: '“”‘’',
-  highlight: function (/*str, lang*/) { return ''; }
-});
-
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/css/");
@@ -35,13 +22,14 @@ module.exports = function(eleventyConfig) {
 
 
   // Test configuration pour bold, italic et tout: 
-  let options = {
-    html: true,
-    breaks: true,
-    linkify: true
-  };
+// Markdown Plugins
+let options = {
+  html: true,
+  breaks: true,
+  linkify: true
+};
 
-  eleventyConfig.setLibrary("md", mdWithOptions);
+eleventyConfig.setLibrary("md", markdownIt(options));
 
   //TRI PAR DATES DANS LE CV
   function getStartYear(dateRange) {
