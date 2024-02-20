@@ -142,7 +142,19 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "src",
       output: "_site",
-      includes: "_includes", 
-    }
-  }
+      includes: "_includes",
+    },
+    // Add markdown library configuration
+    markdownTemplateEngine: "njk",
+    passthroughFileCopy: true,
+    templateFormats: ["html", "njk", "md"],
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+    markdownTemplateEngine: "njk",
+    markdownOptions: {
+      html: true,
+      breaks: true,
+      linkify: true,
+    },
+  };
 };
