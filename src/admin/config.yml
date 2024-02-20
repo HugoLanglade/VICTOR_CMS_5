@@ -69,8 +69,8 @@ collections:
       - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_association.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_association", widget: "string"}
-      - {label: "Nom Association (Français)", name: "association_fr", widget: "string"}
-      - {label: "Nom Association (Anglais)", name: "association_en", widget: "string"}
+      - {label: "Nom Association (Français)", name: "association_fr", widget: "markdown"}
+      - {label: "Nom Association (Anglais)", name: "association_en", widget: "markdown"}
   - name: "cv_curation"
     label: "CV: Curation"
     folder: "src/cv/curation"
@@ -105,8 +105,8 @@ collections:
       - {label: "slug", name: "slug", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_performance.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
-      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "richtext"}
-      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "richtext"}
+      - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
+      - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "markdown"}
   - name: "cv_press"
     label: "CV: Presse"
     folder: "src/cv/press"
