@@ -19,6 +19,17 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/admin/config.yml", "admin/config.yml")
 
 
+  // Test configuration pour bold, italic et tout: 
+  const md = require("markdown-it")({
+    html: true,
+    typographer: true,
+  });
+
+  eleventyConfig.setLibrary("md", md);
+
+  eleventyConfig.addFilter("markdown", content => md.render(content));
+  eleventyConfig.addPairedShortcode("markdown", content => md.render(content));
+
   //TRI PAR DATES DANS LE CV
   function getStartYear(dateRange) {
     // Extract the starting year from the date range
