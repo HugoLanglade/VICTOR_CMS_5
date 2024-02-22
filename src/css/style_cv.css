@@ -194,7 +194,7 @@ main.contenu_main {
     }
     
     .description {
-        display: flex;
+        display: inline;
         flex-direction: column;
         padding-left: 1vw;
         width: 84vw;
