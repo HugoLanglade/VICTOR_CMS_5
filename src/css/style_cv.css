@@ -139,11 +139,11 @@ p {
 }
 
 .description {
-    display: flex;
+    display: inline;
     flex-direction: column;
     padding-left: 1vw;
     width: 44vw;
-    white-space: pre-line;
+    /* white-space: pre-line; */
 }
 
 
