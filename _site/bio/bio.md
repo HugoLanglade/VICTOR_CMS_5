@@ -22,12 +22,9 @@ bio_français: >-
 
   Victor Delétraz a exposé et performé à Sofia (Bulgarie), à Athènes (Grèce), en Suisse dans plusieurs espaces d’arts indépendants comme Zabriskie, Soul2Soul RU, Topic, Espace 3353, la BIG 21 & 23 ou La Becque.
 bio_anglais: >
-  Biography
-
-
-
-
-  Victor Delétraz is an artist based in Geneva, CH. His versatile artistic practice explore the fields of installation, writing, music, video, painting and performance.
+  Victor Delétraz is an artist based in Geneva, CH. His versatile artistic
+  practice explore the fields of installation, writing, music, video, painting
+  and performance.
 
 
   Recently graduated from the HEAD – Genève with a MFA, Work.Master program, Victor Delétraz adopt a singular approach for every projects, using installation and performance to transform ordinary objects in elements of reflection, exploring narratives that are at once cartoonish, odd and engaged. Through an aesthetic mixing the spectacular and the absurd, his interventions unfold between the defined gesture and improvisation, seeking to generate tension in the vulnerability of wobbly and fragile actions.

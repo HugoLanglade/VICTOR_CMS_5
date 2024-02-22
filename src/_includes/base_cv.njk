@@ -126,7 +126,7 @@
 <div class="français" style="display: none;">
     <h1>Formation</h1>
     <div class="details">
-    {% for education in collections.cv %}
+    {% for education in collections.sortedEducation %}
         {% if education.data.tags and "education" in education.data.tags %}
         <div class="sous_details">
           <p class="dates">{{education.data.dates_formation}}</p>
@@ -150,7 +150,7 @@
 
     <h1>Expositions Collectives</h1>
     <div class="details">
-    {% for show in collections.cv %}
+    {% for show in collections.sortedShows %}
         {% if show.data.tags and "show" in show.data.tags %}
         <div class="sous_details">
           <p class="dates">{{show.data.dates_show}}</p>
@@ -162,7 +162,7 @@
 
     <h1>Performance</h1>
     <div class="details">
-    {% for performance in collections.cv %}
+    {% for performance in collections.sortedPerformance %}
         {% if performance.data.tags and "performance" in performance.data.tags %}
         <div class="sous_details">
           <p class="dates">{{performance.data.dates_performance}}</p>
@@ -174,7 +174,7 @@
 
     <h1>Curation</h1>
     <div class="details">
-    {% for curation in collections.cv %}
+    {% for curation in collections.sortedCurating %}
         {% if curation.data.tags and "curation" in curation.data.tags %}
         <div class="sous_details">
           <p class="dates">{{curation.data.dates_curation}}</p>
@@ -186,7 +186,7 @@
 
     <h1>Residency</h1>
     <div class="details">
-    {% for residency in collections.cv %}
+    {% for residency in collections.sortedResidency %}
         {% if residency.data.tags and "residency" in residency.data.tags %}
         <div class="sous_details">
           <p class="dates">{{residency.data.dates_residency}}</p>
@@ -198,7 +198,7 @@
 
     <h1>Association</h1>
     <div class="details">
-    {% for association in collections.cv %}
+    {% for association in collections.sortedAssociation %}
         {% if association.data.tags and "association" in association.data.tags %}
         <div class="sous_details">
           <p class="dates">{{association.data.dates_association}}</p>
@@ -210,7 +210,7 @@
 
     <h1>Presse</h1>
     <div class="details">
-    {% for press in collections.cv %}
+    {% for press in collections.sortedPress %}
         {% if press.data.tags and "press" in press.data.tags %}
         <div class="sous_details">
           <p class="dates">{{press.data.dates_press}}</p>
