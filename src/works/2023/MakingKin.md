@@ -202,5 +202,5 @@ details_pieces_en: |-
 credits: |
   Curation : as slow as possible
   Photos: Yul Tomatala
-vimeo_src: https://player.vimeo.com/video/872564315?h=daf5f8ac6d&byline=0&portrait=0
+vimeo_src: "x"
 ---

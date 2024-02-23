@@ -219,5 +219,5 @@ credits: |
   Curation : Limbo Collective
   Text: Yasemine Imre
   Photos: Jeanne Tullen
-vimeo_src: x
+vimeo_src: "x"
 ---

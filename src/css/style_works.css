@@ -246,8 +246,12 @@ a:hover {
 }
 
 /* VIMEO */ 
-.vimeo-container {
+.vimeo-container_hide {
     display: none;
+}
+
+.vimeo-container_show {
+    display: block;
     width: 100%;
     max-width: 50vw; /* Adjust the width as needed */
     margin-top: 20px; /* Adjust the margin as needed */

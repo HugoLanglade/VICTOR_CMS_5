@@ -115,5 +115,5 @@ details_pieces_en: |
 credits: |-
   Text by Valentin Vennesson
   Photos: H.B
-vimeo_src: https://kubaparis.com/submission/287680
+vimeo_src: "x"
 ---
