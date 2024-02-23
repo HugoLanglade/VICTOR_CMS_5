@@ -109,7 +109,7 @@ p {
     overflow-y: auto; 
     height: 70vh;
     scrollbar-width: thin;
-    scrollbar-color: transparent transparent;
+    scrollbar-color: #c9dcc6 transparent; /* transparent sinon */
 }
 
 .container_gauche::-webkit-scrollbar {
@@ -184,7 +184,7 @@ main.contenu_main {
     }
 
     .sous_details {
-        width: 100vw;
+        width: 90vw;
     }
     
     .dates {
@@ -194,7 +194,7 @@ main.contenu_main {
     }
     
     .description {
-        display: flex;
+        display: inline;
         flex-direction: column;
         padding-left: 1vw;
         width: 84vw;
@@ -206,6 +206,8 @@ main.contenu_main {
 
     .container_gauche {
         width: 100%;
+        scrollbar-width: thin;
+        scrollbar-color: transparent transparent; /* transparent sinon */
     }
 
     .langue_container {
