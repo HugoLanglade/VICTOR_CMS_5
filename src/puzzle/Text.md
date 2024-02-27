@@ -1,6 +1,6 @@
 ---
 layout: base_puzzle.njk
-permalink: /puzzle/1.html
+permalink: /puzzle/text.html
 title: Text
 texte: WELCOME TO MY SECRET GARDEN :::::::-S
 images: /images/uploads/000038.jpg
