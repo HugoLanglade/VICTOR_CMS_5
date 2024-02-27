@@ -1,7 +1,7 @@
 ---
 layout: base_works.njk
 title: CAPC Bordeaux
-permalink: /article/capc-bordeaux.html
+permalink: /article/capc.html
 numero_article: article10
 nom_lieu: Capc Bordeaux, Bordeaux
 année: 2024
