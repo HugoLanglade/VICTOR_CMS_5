@@ -2,7 +2,10 @@
 layout: base_puzzle.njk
 title: premier
 permalink: /puzzle/premier.html
-texte: salut cx mon bloggg
+texte: |-
+  YOUTUBE XTRM FREE AREA
+  &
+  some pics 
 lien: https://www.youtube.com/@vicoyellow/videos
 texte_lien: YOUTUBE XTRM FREE AREA
 images:
