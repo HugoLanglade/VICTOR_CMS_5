@@ -17,5 +17,8 @@ images:
   - path: /images/uploads/2022_eh_perfo_12_1d4a0213-copy.jpg
 description_fr: heheheheh
 description_en: heheheheheh
+details_pieces_fr: jo
+details_pieces_en: jh
+credits: jo
 vimeo_src: '"x"'
 ---
