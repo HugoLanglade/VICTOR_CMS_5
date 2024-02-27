@@ -13,9 +13,9 @@ formation_en: |-
   DOUCE DOUVE 24, 4e BIG, Île Rousseau, Geneva, CH
 slug: Performance2021
 performance_fr: |-
-  Tout est à inventer, La Fonte, Carouge, CH
-  DOUCE DOUVE 24 avec Château Deux, 4e BIG, Île Rousseau, Genève, CH
+  *Tout est à inventer*, La Fonte, Carouge, CH
+  *DOUCE DOUVE 24* avec Château Deux, 4e BIG, Île Rousseau, Genève, CH
 performance_en: |-
-  Tout est à inventer, La Fonte, Carouge, CH
-  DOUCE DOUVE 24 with Château Deux, 4e BIG, Île Rousseau, Geneva, CH
+  *Tout est à inventer*, La Fonte, Carouge, CH
+  *DOUCE DOUVE 24* with Château Deux, 4e BIG, Île Rousseau, Geneva, CH
 ---
