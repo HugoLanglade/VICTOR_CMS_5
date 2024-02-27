@@ -32,7 +32,7 @@ collections:
       - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "text"}
   - name: "works"
     label: "Works"
-    folder: "src/works"
+    folder: "src/works/2024"
     create: true
     slug: "{{slug}}"
     fields:
