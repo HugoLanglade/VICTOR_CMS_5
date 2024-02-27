@@ -16,4 +16,5 @@ lien: https://www.youtube.com/watch?v=SHSsdnrPSZ8
 texte_lien: YR y a R
 images:
   - path: /images/uploads/my-first-painting.jpg
+  - path: /images/uploads/008-bis.jpg
 ---
