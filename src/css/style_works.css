@@ -1,3 +1,37 @@
+/* FONT */
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanRegular.ttf') format('truetype'),
+    url('./font/TimesNewRomanRegular.woff') format('woff'),
+    url('./font/TimesNewRomanRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBold.ttf') format('truetype'),
+    url('./font/TimesNewRomanBold.woff') format('woff'),
+    url('./font/TimesNewRomanBold.woff2') format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanItalic.ttf') format('truetype'),
+    url('./font/TimesNewRomanItalic.woff') format('woff'),
+    url('./font/TimesNewRomanItalic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBoldIt.ttf') format('truetype'),
+    url('./font/TimesNewRomanBoldIt.woff') format('woff'),
+    url('./font/TimesNewRomanBoldIt.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
 /* GENERAL */
 
 body, html, * {
@@ -136,6 +170,10 @@ a:hover {
     /* flex-direction: column; */
     /* width: 75%; */
     /* padding-top: 2vh; */
+}
+
+.container_droite_phone {
+    display: none;
 }
 
 .container_droite a {
@@ -459,6 +497,7 @@ a:hover {
 }
 
 
+
 /* FORMAT TELEPHONE */
 
 @media all and (max-width: 992px) {
@@ -467,14 +506,14 @@ a:hover {
        width: 100vw;
     }
 
+    .container_gauche {
+        display: flex;
+    }
+
     .container_droite {
         display: none;
     }
-
-    .container_gauche {
-        width: 100vw;
-    }
-
+    
     .container_gauche_phone {
         display: flex;
         flex-direction: row;

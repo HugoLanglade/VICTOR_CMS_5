@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-slug: OrbeTurquoise
+title: OrbeTurquoise
 permalink: /cv_association4.html
 dates_association: "2017"
 association_fr: Membre fondateur, auteur-compositeur-interprète, Orbe Turquoise, Genève, CH

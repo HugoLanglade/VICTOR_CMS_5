@@ -1,6 +1,6 @@
 ---
-slug: EncoreHeureux
-permalink: /works/encore-heureux.html
+title: EncoreHeureux
+permalink: /article/encore-heureux.html
 numero_article: article2
 nom_lieu: Encore Heureux - Soul2Soul / RU
 année: 2022

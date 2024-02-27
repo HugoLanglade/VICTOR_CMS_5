@@ -1,5 +1,6 @@
 ---
 dates_performance: "2023"
+title: Performance2023
 performance_fr: >-
   *Lurking through the cracks*, Espace 3353, Carouge, CH
 

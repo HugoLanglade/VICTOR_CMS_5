@@ -65,13 +65,16 @@ img {
 }
 
 /* IMAGE PUZZLE */
-.image_puzzle {
+.lien_puzzle {
     display: flex;
-    width: 12vw;
     position: absolute;
     align-self: center;
     left: 20%;
     /* margin-top: 40%; */
+}
+
+.image_puzzle {
+    width: 12vw;
 }
 
 .puzzle_phone {
@@ -95,7 +98,7 @@ img {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 23vw;
+    width: 18vw;
     margin-bottom: 2vh;
     margin-right: 1vw;
 }
@@ -137,6 +140,7 @@ margin-bottom: 37%;
     text-align: center;
     margin-top: 37%;
 }
+
 
 .logo_works, .logo_bio, .logo_cv {
     width: 15vw; 
@@ -245,12 +249,16 @@ margin-bottom: 37%;
         display: flex;
     }
 
-    .image_puzzle_phone {
+    .lien_puzzle_phone {
         display: flex;
         width: 25vw;
         position: absolute;
         right: 0;
         bottom: 0;
+    }
+
+    .image_puzzle_phone {
+        width: 25vw;
     }
 
     .image_puzzle:hover {
@@ -259,7 +267,7 @@ margin-bottom: 37%;
 
     .website_by_phone {
         display: flex;
-        width: 70vw;
+        width: 60vw;
         position: absolute;
         left: 0;
         bottom: 0;

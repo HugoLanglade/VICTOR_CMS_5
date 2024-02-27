@@ -1,6 +1,6 @@
 ---
-slug: ToutEstAInventer
-permalink: /works/la_fonte.html
+title: ToutEstAInventer
+permalink: /article/la_fonte.html
 numero_article: article8
 nom_lieu: Tout est à inventer - La Fonte
 année: 2021

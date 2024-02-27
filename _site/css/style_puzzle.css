@@ -1,0 +1,145 @@
+/* FONT */
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanRegular.ttf') format('truetype'),
+    url('./font/TimesNewRomanRegular.woff') format('woff'),
+    url('./font/TimesNewRomanRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBold.ttf') format('truetype'),
+    url('./font/TimesNewRomanBold.woff') format('woff'),
+    url('./font/TimesNewRomanBold.woff2') format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanItalic.ttf') format('truetype'),
+    url('./font/TimesNewRomanItalic.woff') format('woff'),
+    url('./font/TimesNewRomanItalic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBoldIt.ttf') format('truetype'),
+    url('./font/TimesNewRomanBoldIt.woff') format('woff'),
+    url('./font/TimesNewRomanBoldIt.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* PARAMETRES GENERAUX */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body, html, * {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: -15vh;
+}
+
+.nav_icon {
+    display: flex;
+    overflow: hidden;
+    flex-shrink: 0;
+    width: 8vw;
+    margin-left: auto; /* Add this line */
+    padding-top: 1vh;
+    padding-right: 1vw;
+}
+
+.contenu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contenu_gauche {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    display: flex;
+    justify-self: center;
+}
+
+.contenu_droite {
+    display: flex;
+    width: 50vw;
+    height: auto;
+    margin-top: 1vh;
+    padding-right: 1vw;
+    display: flex;
+    justify-self: center;
+    position: relative;
+}
+
+.image {
+    display: flex;
+    object-fit: contain;
+    width: 50vw;
+}
+
+.container {
+    position: relative;
+}
+
+.image_droite {
+    display: flex;
+    object-fit: scale-down;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 100%;
+    transform: rotate(-10deg);
+}
+
+
+@media all and (max-width: 992px) {
+
+    .top {
+        margin-bottom: 0vh;
+    }
+    .nav_icon {
+        display: flex;
+        width: 20vw;
+        height: auto;
+        margin-left: auto;
+        padding-right: 2vw;
+        padding-top: 2vh;
+        z-index: 2;
+        
+    }
+    .contenu_gauche {
+        width: 100vw;
+        z-index: 1;
+    }
+
+    .contenu_droite {
+        display: none;
+    }
+
+    .image {
+        display: flex;
+        object-fit: contain;
+        width: 90vw;
+    }
+
+}

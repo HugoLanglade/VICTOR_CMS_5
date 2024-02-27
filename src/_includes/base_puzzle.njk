@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="./assets/images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="./css/style_puzzle.css" />
+    <title>{{title}}</title>
+</head>
+<body> 
+    <div class="top">
+            <a class="lien_nav_icon" href="index.html"><img src="./assets/images_rework/nav_icon2.webp" class="nav_icon"></img></a>
+    </div>
+
+<div class="contenu">
+    <div class="contenu_gauche">
+        {% for puzzle in collections.puzzle %}
+        <div class="sous-contenu">
+            <p class="texte">{{puzzle.data.texte | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+            <img class="image" src="{{puzzle.data.image}}"> 
+        </div> 
+        {% endfor %}  
+    </div>    
+
+    <div class="contenu_droite">
+        <img class="image_droite" src="{{puzzle.data.image_droite}}">
+    </div>
+</div>
+
+</body>
+</html>

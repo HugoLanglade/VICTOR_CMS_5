@@ -1,5 +1,5 @@
 ---
-slug: IleNavire
+title: IleNavire
 permalink: /cv_press4.html
 dates_press: "2020"
 press_fr: Île-navire, ISSUE, Journal of art & design HEAD – Genève

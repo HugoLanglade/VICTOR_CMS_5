@@ -26,6 +26,7 @@ collections:
     slug: "{{slug}}" 
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_bio.njk"}
+      - {label: "slug", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/bio.html"} # A checker !
       - {label: "Biographie (Français)", name: "bio_français", widget: "text"}
       - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "text"}
@@ -33,11 +34,11 @@ collections:
     label: "Works"
     folder: "src/works"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_works.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/works.html"} # A checker !
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"} # A checker !
       - {label: "Numero Article", name: "numero_article", widget: "string"}
       - {label: "Nom Expo - Lieu", name: "nom_lieu", widget: "string"}
       - {label: "Année", name: "année", widget: "number"}
@@ -58,15 +59,15 @@ collections:
       - {label: "Details des Pieces (Français)", name: "details_pieces_fr", widget: "markdown", required: false}
       - {label: "Details des Pieces (Anglais)", name: "details_pieces_en", widget: "markdown", required: false}
       - {label: "Credits", name: "credits", widget: "markdown", required: false}
-      - {label: "Code vimeo", name: "vimeo_src", widget: "string", required: false}
+      - {label: "Code vimeo", name: "vimeo_src", widget: "string"}
   - name: "cv_association"
     label: "CV: Association"
     folder: "src/cv/association"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_association.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_association", widget: "string"}
       - {label: "Nom Association (Français)", name: "association_fr", widget: "markdown"}
@@ -75,10 +76,10 @@ collections:
     label: "CV: Curation"
     folder: "src/cv/curation"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_curation.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_curation", widget: "string"}
       - {label: "Nom Projet de Curation (Français)", name: "curation_fr", widget: "markdown"}
@@ -87,10 +88,10 @@ collections:
     label: "CV: Education"
     folder: "src/cv/education"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_education.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_formation", widget: "string"}
       - {label: "Nom de la Formation (Français)", name: "formation_fr", widget: "markdown"}
@@ -99,10 +100,10 @@ collections:
     label: "CV: Performance"
     folder: "src/cv/performance"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_performance.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
       - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
@@ -111,10 +112,10 @@ collections:
     label: "CV: Presse"
     folder: "src/cv/press"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_press.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_press", widget: "string"}
       - {label: "Nom Performance, Lieu (Français)", name: "press_fr", widget: "markdown"}
@@ -123,10 +124,10 @@ collections:
     label: "CV: Shows"
     folder: "src/cv/show"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_show.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "show_fr", widget: "markdown"}
@@ -135,10 +136,10 @@ collections:
     label: "CV: Solo Shows"
     folder: "src/cv/solo_show"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_solo_show.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_solo_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "solo_show_fr", widget: "markdown"}
@@ -147,11 +148,23 @@ collections:
     label: "CV: Residency"
     folder: "src/cv/residency"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
-      - {label: "slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_residency.html"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_residency", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "residency_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "residency_en", widget: "markdown"}
+  - name: "puzzle"
+    label: "SECRET PAGE"
+    folder: "src/puzzle"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_puzzle.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/puzzle.html"} # Adjust the permalink as needed
+      - {label: "Texte", name: "texte", widget: "markdown", required: false}
+      - {label: "Image Gauche", name: "image", widget: "image", required: false}
+      - {label: "Image Droite", name: "image_droite", widget: "image", required: false}

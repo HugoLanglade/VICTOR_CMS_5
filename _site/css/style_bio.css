@@ -1,3 +1,39 @@
+/* FONT */
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanRegular.ttf') format('truetype'),
+    url('./font/TimesNewRomanRegular.woff') format('woff'),
+    url('./font/TimesNewRomanRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBold.ttf') format('truetype'),
+    url('./font/TimesNewRomanBold.woff') format('woff'),
+    url('./font/TimesNewRomanBold.woff2') format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanItalic.ttf') format('truetype'),
+    url('./font/TimesNewRomanItalic.woff') format('woff'),
+    url('./font/TimesNewRomanItalic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBoldIt.ttf') format('truetype'),
+    url('./font/TimesNewRomanBoldIt.woff') format('woff'),
+    url('./font/TimesNewRomanBoldIt.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* PARAMETRES GENERAUX */
+
 body, html {
     margin: 0;
     padding: 0;

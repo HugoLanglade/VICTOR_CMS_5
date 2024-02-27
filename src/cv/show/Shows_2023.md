@@ -1,5 +1,5 @@
 ---
-slug: Shows_2023
+title: Shows_2023
 permalink: /cv_show4.html
 dates_show: "2023"
 show_fr: |-

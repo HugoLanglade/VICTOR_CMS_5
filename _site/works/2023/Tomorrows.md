@@ -1,6 +1,6 @@
 ---
-slug: Tomorrows_attitude_is_a_bit_far_from_here
-permalink: /works/tomorrow.html
+title: Tomorrows_attitude_is_a_bit_far_from_here
+permalink: /article/tomorrow.html
 numero_article: article5
 nom_lieu: Tomorrows attitude is a bit far from here - Space Aknown
 année: 2023

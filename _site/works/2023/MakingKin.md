@@ -1,5 +1,5 @@
 ---
-slug: MakingKin
+title: MakingKin
 permalink: /works/making.html
 numero_article: article3
 nom_lieu: Making Kin, Making Place - Espace 3353

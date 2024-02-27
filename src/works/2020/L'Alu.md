@@ -1,6 +1,6 @@
 ---
-slug: L'alu_les_tuait
-permalink: /works/alu.html
+title: L'alu_les_tuait
+permalink: /article/alu.html
 numero_article: article4
 nom_lieu: L'alu les tuait - La Becque
 année: 2020
@@ -54,5 +54,5 @@ description_en: |-
 details_pieces_fr: Matériaux divers, performance 7'
 details_pieces_en: Various materials, performance 7'
 credits: "Photos: Elise Lammer, Manon Briod, Diana Martin & Luc Meier"
-vimeo_src: https://player.vimeo.com/video/872564315?h=daf5f8ac6d&byline=0&portrait=0
+vimeo_src: "x"
 ---

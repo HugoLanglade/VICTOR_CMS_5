@@ -13,6 +13,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/bio/");
   eleventyConfig.addPassthroughCopy("./src/images/");
   eleventyConfig.addPassthroughCopy("./src/images/uploads");
+  eleventyConfig.addPassthroughCopy("./src/puzzle.html");
+  eleventyConfig.addPassthroughCopy("./src/puzzle/");
+  eleventyConfig.addPassthroughCopy("./src/_includes/base_puzzle.njk");
+  eleventyConfig.addPassthroughCopy("./src/_includes/");
 
   // Corrected line: use eleventyConfig instead of config
   eleventyConfig.addPassthroughCopy("src/admin/")

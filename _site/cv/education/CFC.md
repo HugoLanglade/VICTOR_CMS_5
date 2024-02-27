@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-slug: CFC
+title: CFC
 permalink: /cv_education3.html
 dates_formation: 2012-2016
 formation_fr: CFC de Graphisme, CFPA – Genève, CH

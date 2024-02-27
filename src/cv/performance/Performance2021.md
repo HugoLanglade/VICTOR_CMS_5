@@ -1,5 +1,6 @@
 ---
 layout: base_cv.njk
+title: Performance2021
 permalink: /cv_performance.html
 dates_performance: "2021"
 formation_fr: |

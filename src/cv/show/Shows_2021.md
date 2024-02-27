@@ -1,6 +1,6 @@
 ---
 layout: base_cv.njk
-slug: Shows_2021
+title: Shows_2021
 permalink: /cv_show2.html
 dates_show: "2021"
 show_fr: >-

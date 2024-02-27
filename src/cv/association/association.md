@@ -1,5 +1,5 @@
 ---
-slug: ChâteauDeux
+title: ChâteauDeux
 permalink: /chateauxdeux.html
 dates_association: "2020"
 association_fr: Co-fondateur, Collectif Château Deux, Genève, CH
