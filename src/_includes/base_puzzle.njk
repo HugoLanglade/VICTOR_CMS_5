@@ -24,7 +24,9 @@
     </div>    
 
     <div class="contenu_droite">
+        {% for puzzle in collections.puzzle %}
         <img class="image_droite" src="{{puzzle.data.image_droite}}">
+        {% endfor %} 
     </div>
 </div>
 
