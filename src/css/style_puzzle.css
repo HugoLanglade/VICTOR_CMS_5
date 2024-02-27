@@ -61,6 +61,7 @@ body, html, * {
     margin-left: auto; /* Add this line */
     padding-top: 1vh;
     padding-right: 1vw;
+    z-index: 2;
 }
 
 .contenu {
