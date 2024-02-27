@@ -18,7 +18,7 @@
         {% for puzzle in collections.puzzle %}
         <div class="sous-contenu">
             <p class="texte">{{puzzle.data.texte | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
-            <img class="image" src="{{puzzle.data.image}}"> 
+            <img class="image" src="{{puzzle.data.images}}"> 
         </div> 
         {% endfor %}  
     </div>    

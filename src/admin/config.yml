@@ -166,5 +166,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/puzzle.html"} # Adjust the permalink as needed
       - {label: "Texte", name: "texte", widget: "markdown", required: false}
-      - {label: "Image Gauche", name: "image", widget: "image", required: false}
+      - {label: "Images", name: "images", widget: "list", fields: [{label: "Path", name: "path", widget: "image"}]}
       - {label: "Image Droite", name: "image_droite", widget: "image", required: false}
+
