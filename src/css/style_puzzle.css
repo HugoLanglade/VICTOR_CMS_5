@@ -61,6 +61,9 @@ body, html, * {
     margin-left: auto; /* Add this line */
     padding-top: 1vh;
     padding-right: 1vw;
+}
+
+.lien_nav_icon {
     z-index: 2;
 }
 
@@ -68,16 +71,18 @@ body, html, * {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    z-index: 1;
 }
 
 .contenu_gauche {
     display: flex;
-    flex-direction: column;
-    width: 50vw;
+    /* flex-direction: column; */
+    width: 100vw;
     padding-left: 1vw;
     padding-right: 1vw;
     display: flex;
     justify-self: center;
+    justify-content: center;
 }
 
 .contenu_droite {
@@ -86,7 +91,6 @@ body, html, * {
     height: auto;
     margin-top: 1vh;
     padding-right: 1vw;
-    display: flex;
     justify-self: center;
     position: relative;
 }
