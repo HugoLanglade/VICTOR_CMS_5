@@ -49,7 +49,7 @@ permalink: /works.html
             <button class="fr_btn" onclick="changeLanguage('fr')"><img class="img_langue" src="./assets/images/Bouton_FR.png"></button>
         </div>
         <div class="container_icon">
-            <a id="iconLink" href="./index.html"><img src="./assets/images/Contact Page/nav_icon2.png" class="icon"></a>
+            <a id="iconLink" href="{% if container_gauche_display === 'flex' %}index.html{% else %}works.html{% endif %}"><img src="./assets/images/Contact Page/nav_icon2.png" class="icon"></a>
         </div>
     </div>
     <!-- PHOTOS -->
