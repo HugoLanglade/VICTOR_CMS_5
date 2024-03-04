@@ -12,7 +12,7 @@ fr_details_lieu: CAPC, 2024
 en_details_lieu: CAPC, 2024
 fr_type_duree: Performance, 10min
 en_type_duree: Performance, 10min
-image_couv: /images/uploads/000038.jpg
+image_couv: /images/uploads/000035.jpg
 images:
   - path: /images/uploads/000011.jpg
   - path: /images/uploads/000035.jpg
