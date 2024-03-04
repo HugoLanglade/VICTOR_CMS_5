@@ -19,16 +19,12 @@
         <div class="sous-contenu">
             <p class="texte">{{puzzle.data.texte | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
             <p class="lien"><a href="{{puzzle.data.lien}}" target="_blank">{{puzzle.data.texte_lien}}</a></p>
-            <img class="image" src="{{puzzle.data.images}}">
+                {% for image in puzzle.data.images %}
+                    <img class="image" src="{{image.path}}">
+        {% endfor %}
         {% endfor %}  
         </div> 
     </div>    
-
-    {# <div class="contenu_droite">*
-                <!-- Use data from the first iteration for contenu_droite -->
-                <img class="image_droite" src="{{puzzle.data.image_droite}}">
-        {% endfor %}
-    </div> #}
 </div>
 
 </body>

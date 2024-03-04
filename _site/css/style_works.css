@@ -506,13 +506,21 @@ a:hover {
        width: 100vw;
     }
 
-    .container_gauche {
+    /* .container_gauche {
         display: flex;
     }
 
     .container_droite {
         display: none;
+    } */
+
+    .container_droite {
+        width: 100vw;
     }
+
+    .mobile-hidden {
+        display: none;
+      }
     
     .container_gauche_phone {
         display: flex;
@@ -787,8 +795,11 @@ right: 5%;
 
 /* VIMEO */
 
-.vimeo-container {
-    max-width: 90vw;
+.vimeo-container_show {
+    display: block;
+    width: 100%;
+    max-width: 95vw; /* Adjust the width as needed */
+    margin-top: 0vh; /* Adjust the margin as needed */
 }
 
 

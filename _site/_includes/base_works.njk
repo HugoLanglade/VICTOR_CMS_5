@@ -8,17 +8,18 @@
     <script src="/js/works_js/arrows.js"></script> 
     <script src="/js/works_js/changeLanguage_works.js"></script> 
     <script src="/js/works_js/lightbox.js"></script>
-    <script src="/js/works_js/menu_projets_phone2.js"></script>
+    <script defer src="/js/works_js/menu_projets_phone2.js"></script>
 
     <link rel="icon" type="image/x-icon" href="/assets/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="/css/style_works.css" /> 
     <title>{{ title }}</title>
+
 </head>
 
-<div class="container_gauche">
+<div class="container_gauche" id="containerGauche">
         <div class="container_gauche_phone">
                 <img src="/assets/images_rework/works1.webp" class="works_image_phone"> 
-            <a class="icon_gauche" href="index.html"><img src="/assets/images_rework/nav_icon2.webp" class="icon_gauche"> </a> 
+            <a id="iconGaucheLink" class="icon_gauche" href="index.html"><img src="/assets/images_rework/nav_icon2.webp" class="icon_gauche"> </a> 
         </div>
         <img src="/assets/images/works1.png" class="works_image"> 
         <div class="langue_container">
@@ -40,22 +41,24 @@
         {% for work in collections.works | sort(attribute='data.mois') | reverse %}
             {% if work.data.année == year %}
                 <li data-year="{{ work.data.année }}" data-month="{{ work.data.mois }}">
-                    <a href="{{work.url}}">{{ work.data.nom_lieu }}</a>
+                    <a href="{{work.url}}" class="toggle-container" onclick="handleLinkClick(event)">{{ work.data.nom_lieu }}</a>
                 </li>
             {% endif %}
         {% endfor %}
     {% endfor %}
         </ul>
 </div> 
-    <main>
-    <div class="container_droite">
-        {% if not lastWork %}
-            {% set lastWork = collections.works | sort(attribute='data.date') | last %}
-            {{ lastWork.content | safe }}
-        {% endif %}
+
+   <main>
+    <div class="container_droite" id="mobile-hidden">
+        {% block last_article %}
+            {% if not lastWork %}
+                {% set lastWork = collections.works | sort(attribute='data.date') | last %}
+                {{ lastWork.content | safe }}
+            {% endif %}
+        {% endblock %}
         {{ content | safe }}
     </div>
-
-    </main>
+    </main>       
 </body>
 </html>

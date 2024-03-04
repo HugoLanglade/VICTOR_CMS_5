@@ -17,6 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/puzzle/");
   eleventyConfig.addPassthroughCopy("./src/_includes/base_puzzle.njk");
   eleventyConfig.addPassthroughCopy("./src/_includes/");
+  eleventyConfig.addPassthroughCopy("./src/js/works_js/menuprojets_phone2.js");
 
   // Corrected line: use eleventyConfig instead of config
   eleventyConfig.addPassthroughCopy("src/admin/")
@@ -146,7 +147,6 @@ eleventyConfig.addFilter("markdown", (content) => {
   eleventyConfig.addCollection('contact', function (collection) {
     return collection.getFilteredByTag('contact');
   });
-
 
 
   // Return your Object options:

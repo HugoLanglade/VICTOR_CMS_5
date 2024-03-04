@@ -8,17 +8,18 @@
     <script src="/js/works_js/arrows.js"></script> 
     <script src="/js/works_js/changeLanguage_works.js"></script> 
     <script src="/js/works_js/lightbox.js"></script>
-    <script src="/js/works_js/menu_projets_phone2.js"></script>
+    <script defer src="/js/works_js/menu_projets_phone2.js"></script>
 
     <link rel="icon" type="image/x-icon" href="/assets/images/favicon.png">
     <link rel="stylesheet" type="text/css" href="/css/style_works.css" /> 
     <title>Atrap</title>
+
 </head>
 
-<div class="container_gauche">
+<div class="container_gauche" id="containerGauche">
         <div class="container_gauche_phone">
                 <img src="/assets/images_rework/works1.webp" class="works_image_phone"> 
-            <a class="icon_gauche" href="index.html"><img src="/assets/images_rework/nav_icon2.webp" class="icon_gauche"> </a> 
+            <a id="iconGaucheLink" class="icon_gauche" href="index.html"><img src="/assets/images_rework/nav_icon2.webp" class="icon_gauche"> </a> 
         </div>
         <img src="/assets/images/works1.png" class="works_image"> 
         <div class="langue_container">
@@ -67,13 +68,13 @@
         
             
                 <li data-year="2023" data-month="12">
-                    <a href="/works/making.html">Making Kin, Making Place - Espace 3353</a>
+                    <a href="/works/making.html" class="toggle-container" onclick="handleLinkClick(event)">Making Kin, Making Place - Espace 3353</a>
                 </li>
             
         
             
                 <li data-year="2023" data-month="11">
-                    <a href="/article/zabriskie.html">Tout le monde n&#39;a jamais existé avant - Zabriskie Point</a>
+                    <a href="/article/zabriskie.html" class="toggle-container" onclick="handleLinkClick(event)">Tout le monde n&#39;a jamais existé avant - Zabriskie Point</a>
                 </li>
             
         
@@ -81,7 +82,7 @@
         
             
                 <li data-year="2023" data-month="9">
-                    <a href="/article/a-trap.html">A trap that doesn&#39;t kill - HEAD - Genève</a>
+                    <a href="/article/a-trap.html" class="toggle-container" onclick="handleLinkClick(event)">A trap that doesn&#39;t kill - HEAD - Genève</a>
                 </li>
             
         
@@ -93,7 +94,7 @@
         
             
                 <li data-year="2023" data-month="1">
-                    <a href="/article/tomorrow.html">Tomorrows attitude is a bit far from here - Space Aknown</a>
+                    <a href="/article/tomorrow.html" class="toggle-container" onclick="handleLinkClick(event)">Tomorrows attitude is a bit far from here - Space Aknown</a>
                 </li>
             
         
@@ -112,13 +113,13 @@
         
             
                 <li data-year="2022" data-month="5">
-                    <a href="/article/encore-heureux-performance.html">L’important est d’arriver en retard le premier jour - Soul2Soul / RU</a>
+                    <a href="/article/encore-heureux-performance.html" class="toggle-container" onclick="handleLinkClick(event)">L’important est d’arriver en retard le premier jour - Soul2Soul / RU</a>
                 </li>
             
         
             
                 <li data-year="2022" data-month="4">
-                    <a href="/article/encore-heureux.html">Encore Heureux - Soul2Soul / RU</a>
+                    <a href="/article/encore-heureux.html" class="toggle-container" onclick="handleLinkClick(event)">Encore Heureux - Soul2Soul / RU</a>
                 </li>
             
         
@@ -137,7 +138,7 @@
         
             
                 <li data-year="2021" data-month="8">
-                    <a href="/article/la_fonte.html">Tout est à inventer - La Fonte</a>
+                    <a href="/article/la_fonte.html" class="toggle-container" onclick="handleLinkClick(event)">Tout est à inventer - La Fonte</a>
                 </li>
             
         
@@ -156,7 +157,7 @@
         
             
                 <li data-year="2020" data-month="9">
-                    <a href="/article/alu.html">L&#39;alu les tuait - La Becque</a>
+                    <a href="/article/alu.html" class="toggle-container" onclick="handleLinkClick(event)">L&#39;alu les tuait - La Becque</a>
                 </li>
             
         
@@ -173,13 +174,17 @@
     
         </ul>
 </div> 
-    <main>
-    <div class="container_droite">
+
+   <main>
+    <div class="container_droite" id="mobile-hidden">
         
             
+                
+                
             
         
-        <article class="descriptif_projets" id="article1">
+        
+<article class="descriptif_projets" id="article1">
     
     <!-- TITRE -->
     <div class="container_titre_general">
@@ -340,12 +345,10 @@ Editing: Victor Delétraz</p>
         <iframe src="https://player.vimeo.com/video/872564315?h=daf5f8ac6d&amp;byline=0&amp;portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-    
     <script src="https://player.vimeo.com/api/player.js"></script>
-    
-</article>  
+</article> 
+ 
     </div>
-
-    </main>
+    </main>       
 </body>
 </html>

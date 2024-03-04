@@ -23,6 +23,7 @@ permalink: /works.html
     {% endfor %}
 {% endfor %}
 
+{% block last_article %}
 {% if lastArticle %}
 
 <article class="descriptif_projets" id="{{lastArticle.data.numero_article}}">
@@ -90,3 +91,4 @@ permalink: /works.html
     <script src="https://player.vimeo.com/api/player.js"></script>
 </article>  
 {% endif %}
+{% endblock %}

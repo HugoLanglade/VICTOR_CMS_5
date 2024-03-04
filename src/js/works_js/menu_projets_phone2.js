@@ -1,60 +1,56 @@
 document.addEventListener("DOMContentLoaded", function () {
+  const containerGauche = document.querySelector(".container_gauche");
+  const containerDroite = document.querySelector(".container_droite");
+
+  let currentState = "gauche"; // Initial state
+
   function isMobile() {
-    return window.innerWidth <= 992;
+    return window.matchMedia("(max-width: 992px)").matches;
   }
 
-  function handleArticleClick(event, articleId) {
-    if (isMobile()) {
-      event.preventDefault();
-      const containerGauche = document.querySelector(".container_gauche");
-      const containerDroite = document.querySelector(".container_droite");
-      const header = document.querySelector("header");
-      
-      
-      if (containerGauche.style.display !== "none") {
-        containerGauche.style.display = "none";
-        containerDroite.style.display = "flex";
-        header.style.display = "none";
-        document.querySelector(".container_gauche").style.display = "none";
-        containerGauche.style.width = "100vw";
-      }
-    }
+  // Initially hide the right column on page load for mobile devices
+  if (isMobile()) {
+    containerDroite.classList.add("mobile-hidden");
   }
 
-  const articles = document.querySelectorAll(".liste_expos li");
+  // Add a click event to the links in the left column
+  const links = document.querySelectorAll(".liste_expos a");
 
-  articles.forEach((article) => {
-    article.addEventListener("click", function (event) {
-      const articleId = this.getAttribute("data-numero_article");
-      handleArticleClick(event, articleId);
-
-      // Dynamically determine the destination based on the clicked article
-      const destination = `/works.html#${articleId}`;
-      window.location.href = destination;
-    });
-  });
-
-  const iconLink = document.getElementById("iconLink");
-
-  if (iconLink) {
-    iconLink.addEventListener("click", function (event) {
+  links.forEach((link) => {
+    link.addEventListener("click", function (event) {
       if (isMobile()) {
         event.preventDefault();
-        console.log("revient à works");
-        window.location.href = "/works.html";
-      } else {
-          console.log("revient à index");
-        window.location.href = "/index.html";
+
+        // Update the state based on the current container
+        currentState = currentState === "gauche" ? "droite" : "gauche";
+
+        // Show the right column when a link is clicked
+        containerGauche.style.display = currentState === "droite" ? "none" : "flex";
+        containerDroite.style.display = currentState === "droite" ? "flex" : "none";
+
+        // Hide the left column after a short delay to ensure visibility change
+        setTimeout(() => {
+          containerGauche.style.display = currentState === "droite" ? "none" : "flex";
+        }, 500);
+
+        // Update the content of the main container
+        const url = link.getAttribute("href");
+        fetch(url)
+          .then((response) => response.text())
+          .then((html) => {
+            // Extract .container_droite content from the fetched HTML
+            const containerDroiteContent = new DOMParser()
+              .parseFromString(html, "text/html")
+              .querySelector(".container_droite");
+
+            // Update the content of the main container
+            containerDroite.innerHTML = "";
+            containerDroite.appendChild(containerDroiteContent);
+
+            // Show the main container and remove the mobile-hidden class
+            containerDroite.classList.remove("mobile-hidden");
+          });
       }
     });
-  }
-
-  // Handle regular navigation (e.g., using browser's back button)
-  window.addEventListener("popstate", function (event) {
-    if (event.state && event.state.articleId) {
-      // If there is articleId in the state, handle the navigation accordingly
-      const destination = `/works.njk#${event.state.articleId}`;
-      window.location.href = destination;
-    }
   });
 });
