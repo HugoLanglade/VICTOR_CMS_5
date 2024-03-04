@@ -52,19 +52,13 @@
 
    <main>
     <div class="container_droite" id="mobile-hidden">
-    {% if not lastWork %}
-        {% set lastWork = collections.works | sort(attribute='data.date') | last %}
-    {% endif %}
-
-    {% block last_article %}
-        {{ lastWork.content | safe }}
-    {% endblock %}
-
-    {% block article %}
-        {{ content | safe }}
-    {% endblock %}
-
-    </div>
+        {% block last_article %}
+            {% if not lastWork %}
+                {% set lastWork = collections.works | sort(attribute='data.date') | last %}
+                {{ lastWork.content | safe }}
+            {% endif %}
+        {% endblock %}
+  {{content | safe}}
     </main>       
 </body>
 </html>
