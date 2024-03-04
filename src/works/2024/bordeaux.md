@@ -1,7 +1,7 @@
 ---
 layout: base_works.njk
 title: BORDEAUX
-permalink: /works/bordeaux.html
+permalink: /article/bordeaux.html
 numero_article: article11
 nom_lieu: CAPC, Bordeaux
 année: 2024
@@ -19,5 +19,5 @@ images:
 description_fr: O﻿jayyy
 description_en: O﻿jayyy
 details_pieces_fr: ""
-vimeo_src: '"x"'
+vimeo_src: x
 ---
