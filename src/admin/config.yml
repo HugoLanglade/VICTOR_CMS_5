@@ -32,11 +32,10 @@ collections:
       - {label: "Biographie (Anglais)", name: "bio_anglais", widget: "text"}
   - name: "works"
     label: "Works"
-    folder: "src/works/2024"
+    folder: "src/works"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "article.njk"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} # A checker !
       - {label: "Numero Article", name: "numero_article", widget: "string"}
