@@ -1,0 +1,806 @@
+/* FONT */
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanRegular.ttf') format('truetype'),
+    url('./font/TimesNewRomanRegular.woff') format('woff'),
+    url('./font/TimesNewRomanRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBold.ttf') format('truetype'),
+    url('./font/TimesNewRomanBold.woff') format('woff'),
+    url('./font/TimesNewRomanBold.woff2') format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanItalic.ttf') format('truetype'),
+    url('./font/TimesNewRomanItalic.woff') format('woff'),
+    url('./font/TimesNewRomanItalic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('./font/TimesNewRomanBoldIt.ttf') format('truetype'),
+    url('./font/TimesNewRomanBoldIt.woff') format('woff'),
+    url('./font/TimesNewRomanBoldIt.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* GENERAL */
+
+body, html, * {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: row; 
+    /* remettre flex-direction: column; pour revenir à la normale */
+}
+
+
+/* PARTIE COLONNE GAUCHE */
+
+.contenu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.container_gauche {
+    display: flex;
+    flex-direction: column;
+    /* width: 25%; */
+    margin-block-start: Ovh;
+} 
+
+.container_gauche ul {
+    padding-inline-start: 1vw;
+    padding-right: 2vw;
+}
+
+.works_image {
+    display: flex;
+    width: 20vw;
+    height: auto;
+    padding-top: 1vh;
+    padding-right: 1vw;
+}
+
+/* TELEPHONE PAS MONTRE EN WEB */
+
+.container_gauche_phone {
+    display: none;
+}
+
+
+/* BOUTONS DES LANGUES */
+
+.langue_container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 1vh;
+    padding-bottom: 2vh;
+    padding-left: 0.5vw;
+}
+
+.langue_container_phone {
+    display: none;
+}
+
+.fr_btn {
+    display: flex;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+}
+
+.en_btn {
+    display: flex;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+}
+
+.fr_btn:hover {
+    opacity: 0.5;
+}
+
+.en_btn:hover {
+    opacity: 0.5;
+}
+
+.img_langue {
+    display: flex;
+    width: 3vw;
+    color: white;
+    background-color: white;
+    border: 0;
+}
+
+/* ENSEMBLE DES PROJETS PAR ANNEE */
+
+.container_gauche h1 {
+    font-size: 1.7vw;
+    text-decoration: none;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.3em;
+    padding-bottom: 1vh;
+    margin: 0; /* a voir si on laisse ou pas */
+}
+
+.container_gauche li {
+    font-size: 1.2vw;
+    list-style-type: none;
+    padding-bottom: 1vh;
+}
+
+
+/* LINKS COLOR */
+.container_gauche a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+
+/* CONTENU COLONNE DE DROITE */
+
+.container_droite {
+    display: flex;
+    flex: 0 0 auto;
+    /* flex-direction: column; */
+    /* width: 75%; */
+    /* padding-top: 2vh; */
+}
+
+.container_droite_phone {
+    display: none;
+}
+
+.container_droite a {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* CONTENU DROITE : PARTIE TITRE */
+
+.container_titre_general {
+    display: flex;
+    
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 3vh;
+}
+
+.container_titre_fr {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.container_titre_en {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+
+.container_titre_fr h2 {
+    font-size: 1.7vw;
+    margin-block-start: 0em;
+    margin-block-end: 0.2em;
+    padding-bottom: 1vh;
+}
+
+.container_titre_en h2 {
+    font-size: 1.7vw;
+    margin-block-start: 0em;
+    margin-block-end: 0.2em;
+    padding-bottom: 1vh;
+}
+
+.container_titre_fr p {
+    font-size: 1vw;
+    margin-block-start: 0vh;
+    margin-block-end: 0vh; 
+    white-space: pre-line;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.container_titre_en p {
+    font-size: 1vw;
+    margin-block-start: 0vh;
+    margin-block-end: 0vh; 
+    white-space: pre-line;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.container_icon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icon {
+    display: flex;
+    margin-left: auto;
+    width: 7vw;
+    height: auto;
+}
+
+/* Contenu droite à partir des photos */
+
+.photos {
+    width: 78vw;
+    max-height: 70vh;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    overflow-x: auto;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+
+
+.photos::-webkit-scrollbar {
+    display: none;
+}
+
+
+.image {
+    max-height: 70vh; /* Set a fixed height for portrait images */
+    padding-right: 1vw;
+    cursor: pointer;
+}
+
+.image_couv {
+    height: 70vh;
+}
+
+/* VIMEO */ 
+.vimeo-container_hide {
+    display: none;
+}
+
+.vimeo-container_show {
+    display: block;
+    width: 100%;
+    max-width: 50vw; /* Adjust the width as needed */
+    margin-top: 20px; /* Adjust the margin as needed */
+}
+
+/* BOUTONS DE NAVIGATION */
+
+.bouton_back,
+.bouton_forward {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10vw; /* Set the width to 10vw */
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: none;
+    border: 0;
+    transition: opacity 0.15s ease;
+    cursor: pointer;
+    width: 6vw;
+    opacity: 0.8;
+}
+
+.bouton_forward {
+    right: 0;
+}
+
+.bouton_forward_phone {
+    display: none;
+}
+
+.bouton_back img,
+.bouton_forward img {
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    cursor: pointer;
+}
+
+
+/* TEXTES SOUS LES PHOTOS */
+
+.texte_projets_fr {
+    display: none;
+    width:90%; /* proposition Victor 80%*/
+    height: auto;
+}
+
+.texte_projets_en {
+    width:90%; /* proposition Victor 80%*/
+    height: auto;
+}
+
+.texte_projets_fr p {
+    font-size: 1.2vw;
+    margin-block-start: 1vh;
+    margin-block-end: 1vh;
+    white-space: pre-line;
+}
+
+.texte_projets_en p {
+    font-size: 1.2vw;
+    margin-block-start: 1vh;
+    margin-block-end: 1vh;
+    white-space: pre-line;
+}
+
+.description_pieces_fr {
+    padding-top: 2.5vh;
+}
+
+.description_pieces_en {
+    padding-top: 2.5vh;
+}
+
+
+/* CREDITS EN BAS DE PAGE */
+
+.credits_texte {
+    padding-top: 1.5vh;
+    padding-bottom: 3vh;
+}
+
+.credits_texte p {
+    font-size: 1vw;
+    margin-block-start: 0vh;
+    margin-block-end: 0vh; 
+    white-space: pre-line;
+}
+
+
+/* LIGHTBOX GALLERY */
+
+.custom-lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+
+  .custom-lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+    position: relative;
+  }
+
+
+.sub_div_container {
+    max-width: 80%;
+    max-height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub_div_container img {
+    max-width: 80%; /* Adjusted to 100% for full-width */
+    max-height: 80%; /* Adjusted to 100% for full-height */
+}
+
+.close-image {
+    position: fixed !important;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    z-index: 2;
+    top: 10px !important; /* Adjust the top position */
+    right: 10px !important; /* Adjust the right position */
+  }
+  
+  /* Add this style for a more visible close image */
+  .close-image:hover {
+    opacity: 0.7;
+  }
+
+/* BOUTONS DANS LA LIGHTBOX QUAND ON CLIQUE SUR UNE IMAGE */
+
+.arrow {
+    display: flex;
+  width: 5vw;
+  height: 5vw;
+  margin: 2vw;
+  cursor: pointer;
+  background-size: cover;
+  background-repeat: no-repeat;
+}  
+
+.left-arrow {
+    left: 0; /* Add space of 2vw from the left of the image */
+  background-image: url('./assets/images/fleche_left.png');
+  z-index: 3;
+  opacity: 1;
+}  
+
+.right-arrow {
+  right: 0; /* Add space of 2vw from the right of the image */
+  background-image: url('./assets/images/fleche_right.png');
+  z-index: 2;
+  opacity: 1;
+}  
+
+
+
+
+/* TEST DU BOUTON PLEINE ECRAN */
+
+.container_bouton {
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    max-height: 70vh;
+    cursor: pointer;
+    object-fit: cover;
+    position: relative;
+}
+
+.bouton_grand {
+    display: flex;
+    position: absolute;
+    width: fit-content;
+    right: 0%;
+    bottom: 0%;
+    z-index: 1;
+    background-color: transparent;
+    border: none;
+    padding-right: 1vw;
+    cursor: pointer;
+}
+ 
+.img_pleinecran {
+    width: 5vw;
+    cursor: pointer;
+}
+
+
+
+/* FORMAT TELEPHONE */
+
+@media all and (max-width: 992px) {
+
+    header {
+       width: 100vw;
+    }
+
+    /* .container_gauche {
+        display: flex;
+    }
+
+    .container_droite {
+        display: none;
+    } */
+
+    .container_droite {
+        width: 100vw;
+    }
+
+    .mobile-hidden {
+        display: none;
+      }
+    
+    .container_gauche_phone {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .works_image_phone {
+        width: 50vw;
+        height: auto;
+    }
+
+    .works_image {
+    display: none;
+    }
+
+    .container_icon a {
+        display: flex;
+        align-items: flex-start;
+        padding-top: 0vh;
+    }
+
+    .icon_gauche {
+        width: 30vw;
+        height: auto;
+        padding-right: 5vw;   
+    }
+
+    .icon {
+        width: 17vw;
+        align-items: center;
+        padding-right: 2vw;
+    }
+
+    .langue_container {
+        display: none;
+    }
+
+    .container_gauche h1 {
+        font-size: 1.7rem;
+        text-decoration: none;
+        margin-block-start: 0.5em;
+        margin-block-end: 0.3em;
+        padding-bottom: 1vh;
+    }
+    
+    .container_gauche li {
+        font-size: 1.2rem;
+        list-style-type: none;
+        padding-bottom: 1vh;
+    }
+
+    .container_gauche a {
+        color: rgb(58, 58, 224);
+        text-decoration: rgb(58, 58, 224) underline;
+    }
+
+
+    /* /* CONTENU DROITE : PARTIE TITRE */
+
+.container_titre_general {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding-bottom: 1.7vh;
+}
+
+.container_titre_fr {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.container_titre_en {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+
+.container_titre_fr h2 {
+    font-size: 5vw;
+    margin-block-start: 0em;
+    margin-block-end: 0.2em;
+    padding-bottom: 0.8vh;
+}
+
+.container_titre_en h2 {
+    font-size: 5vw;
+    margin-block-start: 0em;
+    margin-block-end: 0.2em;
+    padding-bottom: 0.8vh;
+}
+
+.container_titre_fr p {
+    font-size: 4vw;
+    margin-block-start: 0vh;
+    margin-block-end: 0vh; 
+    white-space: pre-line;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.container_titre_en p {
+    font-size: 4vw;
+    margin-block-start: 0vh;
+    margin-block-end: 0vh; 
+    white-space: pre-line;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+/* LANGUES */
+.langue_container_phone {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 0.5vh;
+    padding-bottom: 1vh;
+}
+
+.img_langue {
+    display: flex;
+    width: 5.5vw;
+    color: white;
+    background-color: white;
+    border: 0;
+}
+
+/* PHOTOS */
+body {
+    overflow-x: hidden;
+}
+
+.photos {
+    width: 98vw;
+    max-height: 32vh;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    overflow-x: scroll;
+    box-sizing: border-box;
+    white-space: nowrap;
+    position: relative;
+}
+
+
+.image {
+    max-height: 32vh;; /* Set a fixed height for portrait images */
+    padding-right: 1vw;
+    cursor: pointer;
+}
+
+.container_bouton img {
+    max-height: 32vh;
+}
+
+.container_bouton {
+    max-height: 32vh;
+top:40%;
+}
+
+.img_pleinecran {
+    width: 13vw;
+}
+
+/* TEXTES SOUS LES PHOTOS */
+
+.texte_projets_fr {
+    display: none;
+    width:85%; /* proposition Victor 80%*/
+    height: auto;
+}
+
+.texte_projets_en {
+    width:85%; /* proposition Victor 80%*/
+    height: auto;
+}
+
+.texte_projets_fr p {
+    font-size: 1.2rem;
+}
+
+.texte_projets_en p {
+    font-size: 1.2rem;
+}
+
+.description_pieces_fr {
+    padding-top: 2vh;
+}
+
+.description_pieces_en {
+    padding-top: 2vh;
+}
+
+
+/* CREDITS EN BAS DE PAGE */
+
+.credits_texte {
+    padding-top: 0.5vh;
+}
+
+.credits_texte p {
+    font-size: 1rem;
+}
+
+/* Arrows */
+
+.bouton_back {
+    display: none;
+}
+
+.bouton_forward {
+    display: none;
+}
+
+.bouton_forward_phone {
+    display: none; /* pour afficher flex */
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 1;
+    align-items: center;
+    justify-content: center;
+    width: 10vw; /* Set the width to 10vw */
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: none;
+    border: 0;
+    transition: opacity 0.15s ease;
+    cursor: pointer;
+    width: 5vw;
+    opacity: 0.8;
+    margin-right: 1vw;
+}
+
+.bouton_forward_phone img {
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    cursor: pointer;
+}
+
+
+/* ARROWS DANS LIGHTBOX */
+.arrow {
+    width: 9vw;
+    height: 7vh;
+    margin: 0;
+    background-size: contain;
+}
+
+
+.left-arrow {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    }
+
+.right-arrow {
+position: absolute;
+bottom: 5%;
+right: 5%;
+}
+
+/* VIMEO */
+
+.vimeo-container_show {
+    display: block;
+    width: 100%;
+    max-width: 95vw; /* Adjust the width as needed */
+    margin-top: 0vh; /* Adjust the margin as needed */
+}
+
+
+}
