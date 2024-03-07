@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 title: MAMAIA
-permalink: /article/mamamia.html
+permalink: /article/mamammmmia.html
 numero_article: article13
 nom_lieu: MAMAMIA
 année: 2025
