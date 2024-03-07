@@ -1,8 +1,8 @@
 ---
-layout: article.njk
-title: BORDEAUX
-permalink: /article/bordeaux.html
-numero_article: article11
+layout: base_works.njk
+title: BORDEAUX2
+permalink: /article/bordeaux2.html
+numero_article: article12
 nom_lieu: CAPC, Bordeaux
 année: 2024
 mois: 2

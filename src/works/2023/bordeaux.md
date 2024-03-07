@@ -1,5 +1,5 @@
 ---
-layout: base_works.njk
+layout: article.njk
 title: BORDEAUX
 permalink: /article/bordeaux.html
 numero_article: article11

@@ -53,12 +53,16 @@
    <main>
     <div class="container_droite" id="mobile-hidden">
         {% block last_article %}
-            {% if not lastWork %}
-                {% set lastWork = collections.works | sort(attribute='data.date') | last %}
-                {{ lastWork.content | safe }}
+            {% if not lastArticle %}
+                {% set lastArticle = collections.works | sort(attribute='data.date') | last %}
+                {{ content | safe }}
+            {% endif %}
+            
+            {% if lastArticle %}
+                {{ lastArticle.content | safe }}
             {% endif %}
         {% endblock %}
-  {{content | safe}}
+    </div>
     </main>       
 </body>
 </html>

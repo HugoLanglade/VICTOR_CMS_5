@@ -246,6 +246,10 @@ a:hover {
     align-items: center;
 }
 
+.container_icon_phone {
+    display: none;
+}
+
 .icon {
     display: flex;
     margin-left: auto;
@@ -537,7 +541,15 @@ a:hover {
     display: none;
     }
 
-    .container_icon a {
+    .container_icon {
+        display: none;
+    }
+
+    .container_icon_phone {
+        display: flex;
+    }
+
+    .container_icon_phone a {
         display: flex;
         align-items: flex-start;
         padding-top: 0vh;
