@@ -21,8 +21,6 @@ images:
   - path: /images/uploads/2022_eh_perfo_06_1d4a0206-copy.jpg
   - path: /images/uploads/2022_eh_perfo_07_1d4a0208-copy.jpg
   - path: /images/uploads/2022_eh_perfo_11_1d4a0212-copy.jpg
-  - path: /images/uploads/2022_eh_perfo_12_1d4a0213-copy.jpg
-  - path: /images/uploads/2022_eh_perfo_13_1d4a0215-copy.jpg
   - path: /images/uploads/2022_eh_perfo_15_1d4a0218-copy.jpg
   - path: /images/uploads/2022_eh_perfo_18_1d4a0222-copy.jpg
   - path: /images/uploads/2022_eh_perfo_21_1d4a0227-copy.jpg
@@ -140,5 +138,5 @@ credits: |-
   Poem: Annabelle Galland
 
   Photos: Farah Mir 
-vimeo_src: "x"
+vimeo_src: x
 ---
