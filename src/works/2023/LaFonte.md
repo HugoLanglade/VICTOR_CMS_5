@@ -18,6 +18,7 @@ image_couv: /images/uploads/1-claudetonnerre_033-1.webp
 images:
   - path: /images/uploads/2-claudetonnerre_001.webp
   - path: /images/uploads/3-claudetonnerre_002-1.webp
+  - path: /images/uploads/4-claudetonnerre_009.webp
   - path: /images/uploads/5-claudetonnerre_018.webp
   - path: /images/uploads/6-claudetonnerre_024.webp
   - path: /images/uploads/7-claudetonnerre_026.webp
