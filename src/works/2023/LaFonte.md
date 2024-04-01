@@ -14,7 +14,7 @@ fr_details_lieu: Halles de La Fonderie, La Fonte, Carouge (CH), 2021
 en_details_lieu: Halles de La Fonderie, La Fonte, Carouge (CH), 2021
 fr_type_duree: Performance 21'
 en_type_duree: Performance 21'
-image_couv: /images/uploads/1-claudetonnerre_033.jpg
+image_couv: /images/uploads/1-claudetonnerre_033-1.webp
 images:
   - path: /images/uploads/claudetonnerre_001.jpg
   - path: /images/uploads/claudetonnerre_002.jpg
