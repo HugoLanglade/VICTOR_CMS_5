@@ -21,8 +21,8 @@ images:
   - path: /images/uploads/4-claudetonnerre_009.webp
   - path: /images/uploads/5-claudetonnerre_018.webp
   - path: /images/uploads/6-claudetonnerre_024.webp
-  - path: /images/uploads/7-claudetonnerre_026.webp
   - path: /images/uploads/7-claudetonnerre_025.webp
+  - path: /images/uploads/7-claudetonnerre_026.webp
   - path: /images/uploads/8-claudetonnerre_031.webp
   - path: /images/uploads/8-claudetonnerre_032.webp
   - path: /images/uploads/9-claudetonnerre_034.webp
