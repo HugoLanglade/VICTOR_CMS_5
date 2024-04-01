@@ -16,26 +16,16 @@ fr_type_duree: Performance 21'
 en_type_duree: Performance 21'
 image_couv: /images/uploads/1-claudetonnerre_033-1.webp
 images:
-  - path: /images/uploads/claudetonnerre_001.jpg
-  - path: /images/uploads/claudetonnerre_002.jpg
-  - path: /images/uploads/claudetonnerre_009.jpg
-  - path: /images/uploads/claudetonnerre_011.jpg
-  - path: /images/uploads/claudetonnerre_018.jpg
-  - path: /images/uploads/claudetonnerre_024.jpg
-  - path: /images/uploads/claudetonnerre_025.jpg
-  - path: /images/uploads/claudetonnerre_026.jpg
-  - path: /images/uploads/claudetonnerre_031.jpg
-  - path: /images/uploads/claudetonnerre_032.jpg
-  - path: /images/uploads/claudetonnerre_034.jpg
-  - path: /images/uploads/claudetonnerre_036.jpg
-  - path: /images/uploads/claudetonnerre_037.jpg
-  - path: /images/uploads/claudetonnerre_038.jpg
-  - path: /images/uploads/claudetonnerre_042.jpg
-  - path: /images/uploads/claudetonnerre_045.jpg
-  - path: /images/uploads/claudetonnerre_048.jpg
-  - path: /images/uploads/claudetonnerre_051.jpg
-  - path: /images/uploads/claudetonnerre_055.jpg
-  - path: /images/uploads/claudetonnerre_058.jpg
+  - path: /images/uploads/2-claudetonnerre_001.webp
+  - path: /images/uploads/3-claudetonnerre_002-1.webp
+  - path: /images/uploads/5-claudetonnerre_018.webp
+  - path: /images/uploads/6-claudetonnerre_024.webp
+  - path: /images/uploads/7-claudetonnerre_026.webp
+  - path: /images/uploads/7-claudetonnerre_025.webp
+  - path: /images/uploads/8-claudetonnerre_031.webp
+  - path: /images/uploads/8-claudetonnerre_032.webp
+  - path: /images/uploads/9-claudetonnerre_034.webp
+  - path: /images/uploads/10-claudetonnerre_036.webp
 description_fr: |+
   Performance de fin de résidence de deux semaines à La Fonte, Carouge (CH)
 
