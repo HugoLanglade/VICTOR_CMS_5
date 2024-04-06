@@ -6,8 +6,8 @@ texte: |-
   FREE XTRM MOMENTS
   &
   some pics 
-lien: https://www.youtube.com/@vicoyellow/videos
-texte_lien: YOUTUBE XTRM FREE AREA
+lien: https://sabl.live/
+texte_lien: WATCH ME = sabl.live residency X marytwo
 images:
   - path: /images/uploads/000014.jpg
   - path: /images/uploads/000011.jpg
