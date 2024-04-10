@@ -18,24 +18,19 @@ fr_type_duree: |
 en_type_duree: |
   Duo show with Annabelle Galland
   An invitation by Sylvain Gelewski
-image_couv: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_01.jpg
+image_couv: /images/uploads/22_s2s_encoreheureux_01.jpg
 images:
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_04.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_05.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_06.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_07.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_08.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_11.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_13.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_14.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_15.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_13.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_16.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_18.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_19.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_20.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_21.jpg
-  - path: ./assets/projets/encore_heureux/22_S2S_ENCOREHEUREUX_22.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_04.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_06.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_08.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_13.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_15.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_16.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_18.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_20.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_22.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_23.jpg
+  - path: /images/uploads/22_s2s_encoreheureux_25.jpg
 description_fr: >
   « Une peinture par personne » aurait pu être le titre de cette exposition.
   Métaphorique et recherché, non. Factuel et pragmatique, oui.
@@ -82,5 +77,5 @@ credits: |-
   Text: Sylvain Gelewski
 
   Photos: YAL
-vimeo_src: "x"
+vimeo_src: x
 ---
