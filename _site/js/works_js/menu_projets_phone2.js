@@ -1,56 +1,83 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const containerGauche = document.querySelector(".container_gauche");
-  const containerDroite = document.querySelector(".container_droite");
-
-  let currentState = "gauche"; // Initial state
+  let linkClicked = sessionStorage.getItem("linkClicked") === "true"; // Retrieve linkClicked status from sessionStorage
 
   function isMobile() {
-    return window.matchMedia("(max-width: 992px)").matches;
+    const screenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    return screenWidth <= 992;
   }
 
-  // Initially hide the right column on page load for mobile devices
+  // Function to handle layout based on screen width and link click
+  function handleLayout() {
+    const containerGauche = document.querySelector(".container_gauche");
+    const containerDroite = document.querySelector(".container_droite");
+
+    if (isMobile() && !linkClicked) {
+      console.log("Mobile without click");
+      containerDroite.style.display = "none";
+      containerGauche.style.display = "flex";
+    } else {
+      console.log("Mobile with click or Desktop");
+      containerDroite.style.display = "flex";
+      containerGauche.style.display = "flex";
+    }
+
+    // If the page is loaded via link click, adjust containers accordingly
+    if (linkClicked) {
+      containerGauche.style.display = "none";
+      containerDroite.style.display = "flex";
+    }
+  }
+
+  // Call handleLayout to initialize layout based on screen width
+  handleLayout();
+
   if (isMobile()) {
-    containerDroite.classList.add("mobile-hidden");
-  }
+    // Add a click event to the links in the left column
+    const links = document.querySelectorAll(".liste_expos a");
 
-  // Add a click event to the links in the left column
-  const links = document.querySelectorAll(".liste_expos a");
-
-  links.forEach((link) => {
-    link.addEventListener("click", function (event) {
-      if (isMobile()) {
+    links.forEach((link) => {
+      link.addEventListener("click", function (event) {
+        // Prevent the default behavior of the link
         event.preventDefault();
 
-        // Update the state based on the current container
-        currentState = currentState === "gauche" ? "droite" : "gauche";
+        // Access the href attribute of the clicked link
+        const articleLink = link.getAttribute("href");
 
-        // Show the right column when a link is clicked
-        containerGauche.style.display = currentState === "droite" ? "none" : "flex";
-        containerDroite.style.display = currentState === "droite" ? "flex" : "none";
+        // Now you can use articleLink to perform whatever action you need,
+        // such as redirecting to the corresponding article
+        window.location.href = articleLink;
 
-        // Hide the left column after a short delay to ensure visibility change
-        setTimeout(() => {
-          containerGauche.style.display = currentState === "droite" ? "none" : "flex";
-        }, 500);
+        console.log("Link clicked:", articleLink);
 
-        // Update the content of the main container
-        const url = link.getAttribute("href");
-        fetch(url)
-          .then((response) => response.text())
-          .then((html) => {
-            // Extract .container_droite content from the fetched HTML
-            const containerDroiteContent = new DOMParser()
-              .parseFromString(html, "text/html")
-              .querySelector(".container_droite");
+        // Set linkClicked to true to indicate link click
+        linkClicked = true;
 
-            // Update the content of the main container
-            containerDroite.innerHTML = "";
-            containerDroite.appendChild(containerDroiteContent);
+        // Store linkClicked status in sessionStorage
+        sessionStorage.setItem("linkClicked", "true");
 
-            // Show the main container and remove the mobile-hidden class
-            containerDroite.classList.remove("mobile-hidden");
-          });
-      }
+        // Call handleLayout to adjust layout
+        handleLayout();
+      });
     });
+
+    // Add a click event to the iconLinks
+    const iconLinks = document.querySelectorAll(".iconLink");
+
+    iconLinks.forEach((iconLink) => {
+      iconLink.addEventListener("click", function () {
+        // Reset linkClicked to false when iconLink is clicked
+        linkClicked = false;
+        sessionStorage.removeItem("linkClicked"); // Remove linkClicked from sessionStorage
+        handleLayout();
+      });
+    });
+  }
+
+  // Resize event listener to handle layout changes
+  window.addEventListener('resize', function() {
+    // Reset linkClicked to false when resizing
+    linkClicked = false;
+    sessionStorage.removeItem("linkClicked"); // Remove linkClicked from sessionStorage
+    handleLayout();
   });
 });

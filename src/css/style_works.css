@@ -172,9 +172,9 @@ a:hover {
     /* padding-top: 2vh; */
 }
 
-.container_droite_phone {
+/* .container_droite_phone {
     display: none;
-}
+} */
 
 .container_droite a {
     color: blue;
@@ -393,7 +393,7 @@ a:hover {
 /* LIGHTBOX GALLERY */
 
 .custom-lightbox {
-    display: none;
+    display: none; /* à retirer si on revient */
     position: fixed;
     top: 0;
     left: 0;

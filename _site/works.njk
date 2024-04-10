@@ -32,8 +32,8 @@ permalink: /works.html
     <div class="container_titre_general">
         <div class="container_titre_fr">
             <h2 class="titre_projets_fr">{{lastArticle.data.fr_nom_maj}}</h2>
-            <p class="lieu_fr">{{lastArticledata.fr_details_lieu}}</p>
-            <p class="type_fr">{{lastArticledata.fr_type_duree}}</p>
+            <p class="lieu_fr">{{lastArticle.data.fr_details_lieu}}</p>
+            <p class="type_fr">{{lastArticle.data.fr_type_duree}}</p>
             <p class="lien_video_fr"><a href="{{lastArticledata.lien}}" target="_blank">{{lastArticle.data.texte_lien_fr}}</a></p> 
              
         </div>
@@ -52,7 +52,7 @@ permalink: /works.html
             <a id="iconLink" href="/index.html"><img src="/assets/images/Contact Page/nav_icon2.png" class="icon"></a>
         </div>        
         <div class="container_icon_phone">
-            <a id="iconLink" href="{% if container_gauche_display === 'flex' %}/index.html{% else %}/works.html{% endif %}"><img src="/assets/images/Contact Page/nav_icon2.png" class="icon"></a>
+            <a class="iconLink" href="{% if container_gauche_display === 'flex' %}/index.html{% else %}/works.html{% endif %}"><img src="/assets/images/Contact Page/nav_icon2.png" class="icon"></a>
         </div>
     </div>
     <!-- PHOTOS -->
@@ -92,6 +92,16 @@ permalink: /works.html
     </div>
 </div>
     <script src="https://player.vimeo.com/api/player.js"></script>
+
+    {# {% if showLightbox %}
+    <div class="custom-lightbox" style="display:flex">
+        <img src="/assets/images/close_button.png" class="close-image">
+        <div class="arrow left-arrow" style="background-image: url(/assets/images/fleche_left.png)"></div>
+        <img style="user-select: none;">
+        <div class="arrow right-arrow" style="background-image: url(/assets/images/fleche_right.png)"></div>
+    </div>
+    {% endif %} #}
+
 </article>  
 {% endif %}
 {% endblock %}

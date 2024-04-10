@@ -17,7 +17,7 @@
 </head>
 <body>  
 
-<div class="container_gauche" id="containerGauche">
+<div class="container_gauche">
         <div class="container_gauche_phone">
                 <img src="/assets/images_rework/works1.webp" class="works_image_phone"> 
             <a href="index.html"><img src="/assets/images_rework/nav_icon2.webp" class="icon_gauche"> </a> 
@@ -51,7 +51,7 @@
 </div> 
 
    <main>
-    <div class="container_droite" id="mobile-hidden">
+   <div class="container_droite"> 
         {% block last_article %}
             {% if not lastArticle %}
                 {% set lastArticle = collections.works | sort(attribute='data.date') | last %}
