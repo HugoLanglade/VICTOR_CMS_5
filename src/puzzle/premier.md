@@ -2,11 +2,12 @@
 layout: base_puzzle.njk
 title: premier
 permalink: /puzzle/premier.html
-texte: Spherical pressure, SASA Delay & Anti-Cops Musique
-lien: https://sabl.live/
-texte_lien: WATCH ME = sabl.live residency X marytwo
+texte: |-
+  The flags are dancing in the sky.
+  My hat is saying I’m in a wrong way.
+lien: ""
+texte_lien: ""
 images:
-  - path: /images/uploads/sabl-visu-copie.png
   - path: /images/uploads/000011.jpg
   - path: /images/uploads/000038.jpg
   - path: /images/uploads/000014.jpg
