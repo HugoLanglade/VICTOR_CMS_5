@@ -116,7 +116,7 @@ description_en: >-
   For the inaugural and eponymous exhibition of their curatorial residency, *as
   slow as possible* has invited four artists with different approaches and
   practices to take *Making Kin, Making Place* as starting points for spatial
-  and social interventions in *Espace 3353* and its surrounding area. Sorne
+  and social interventions in Espace 3353 and its surrounding area. Sorne
   reflect on what is: the artist-run space in relation to institutional space,
   while others approach the space through what is not- inciting exchange through
   meals and interaction. 
