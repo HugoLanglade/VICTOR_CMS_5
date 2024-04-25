@@ -28,6 +28,17 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  // Function to debounce layout adjustment
+  function debounce(func, delay) {
+    let timeoutId;
+    return function(...args) {
+      clearTimeout(timeoutId);
+      timeoutId = setTimeout(() => {
+        func.apply(this, args);
+      }, delay);
+    };
+  }
+
   // Call handleLayout to initialize layout based on screen width
   handleLayout();
 
@@ -71,13 +82,13 @@ document.addEventListener("DOMContentLoaded", function () {
         handleLayout();
       });
     });
+
+    // Debounced resize event listener to handle layout changes
+    const debouncedHandleLayout = debounce(handleLayout, 200); // Adjust debounce delay as needed
+    window.addEventListener('resize', debouncedHandleLayout);
   }
 
-  // Resize event listener to handle layout changes
-  window.addEventListener('resize', function() {
-    // Reset linkClicked to false when resizing
-    linkClicked = false;
-    sessionStorage.removeItem("linkClicked"); // Remove linkClicked from sessionStorage
-    handleLayout();
-  });
+  // Debounced scroll event listener to handle layout changes on scroll
+  const debouncedHandleLayoutScroll = debounce(handleLayout, 200); // Adjust debounce delay as needed
+  window.addEventListener('scroll', debouncedHandleLayoutScroll);
 });
