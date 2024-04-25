@@ -5,10 +5,10 @@ permalink: /puzzle/premier.html
 texte: |-
   The flags are dancing in the sky.
   My hat is saying I’m in a wrong way.
-lien: ""
-texte_lien: ""
+lien: https://www.capc-bordeaux.fr/pyjamabal-ndm-2024
+texte_lien: 18.05.2024
 images:
-  - path: /images/uploads/structure5.png
+  - path: /images/uploads/com-site-copie.png
   - path: /images/uploads/000011.jpg
   - path: /images/uploads/000038.jpg
   - path: /images/uploads/000014.jpg
