@@ -14,27 +14,27 @@ fr_details_lieu: Projet de master, HEAD – Genève, 2023
 en_details_lieu: Master's degree project, HEAD – Geneva, 2023
 fr_type_duree: Installation, Performance 10'
 en_type_duree: Installation, Performance 10'
-image_couv: /images/uploads/ensemble.jpg
+image_couv: /images/uploads/1-ensemble.webp
 images:
-  - path: /images/uploads/chaise.jpg
-  - path: /images/uploads/chaise2.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_1-comp.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_3-comp.jpg
-  - path: /images/uploads/carton-insectes.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_2_comp.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_4-comp.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_6-comp.jpg
-  - path: /images/uploads/attrape-mouche-detail.jpg
-  - path: /images/uploads/detail-ensemble3.jpg
-  - path: /images/uploads/mur-boite-copie.jpg
-  - path: /images/uploads/miroir.jpg
-  - path: /images/uploads/peinture-detail.jpg
-  - path: /images/uploads/peinture-detail2.jpg
-  - path: /images/uploads/peinture-orange-detail.jpg
-  - path: /images/uploads/smiley-detail.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_8-compressed.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_9.jpg
-  - path: /images/uploads/victor-deletraz-©laura-spozio_10.jpg
+  - path: /images/uploads/2-chaise.webp
+  - path: /images/uploads/3-victor-deletraz-©laura-spozio_1-comp.webp
+  - path: /images/uploads/4-victor-deletraz-©laura-spozio_3-comp.webp
+  - path: /images/uploads/5-carton-insectes.webp
+  - path: /images/uploads/6-victor-deletraz-©laura-spozio_2_comp.webp
+  - path: /images/uploads/6.1-formats-fumigene.webp
+  - path: /images/uploads/7-victor-deletraz-©laura-spozio_4-comp.webp
+  - path: /images/uploads/8-victor-deletraz-©laura-spozio_6-comp.webp
+  - path: /images/uploads/9-attrape-mouche-detail.webp
+  - path: /images/uploads/10-detail-ensemble3.webp
+  - path: /images/uploads/11-mur-boite-copie.webp
+  - path: /images/uploads/12-miroir.webp
+  - path: /images/uploads/13-peinture-detail.webp
+  - path: /images/uploads/14-peinture-detail2.webp
+  - path: /images/uploads/15-peinture-orange-detail.webp
+  - path: /images/uploads/16-smiley-detail.webp
+  - path: /images/uploads/17-victor-deletraz-©laura-spozio_8-compressed.webp
+  - path: /images/uploads/18-victor-deletraz-©laura-spozio_9.webp
+  - path: /images/uploads/19-victor-deletraz-©laura-spozio_10.webp
 description_fr: >
   A trap that doesn't kill est une installation et une performance. Les
   spectateur.rice.s.x sont invité.e.s.x à entrer dans un espace étrange, éclairé
@@ -109,8 +109,6 @@ details_pieces_en: |
   various materials (details)
 credits: |-
   Photos: Laura Spozio, Victor Delétraz
-
-  Video :
 
   Camera : Linn Nora Henz
   Editing: Victor Delétraz

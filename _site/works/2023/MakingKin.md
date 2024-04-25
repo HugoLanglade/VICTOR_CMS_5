@@ -16,33 +16,31 @@ en_details_lieu: Group show with Mathias C. Pfund, Zahrasadat Hakim & Maud
   Abbé-Decarroux, Espace 3353, Carouge, 2023
 fr_type_duree: Installation & performance
 en_type_duree: Installation & performance
-image_couv: /images/uploads/perfo8.jpg
+image_couv: /images/uploads/1-perfo8.webp
 images:
-  - path: /images/uploads/docu1.jpg
-  - path: /images/uploads/docu2.jpg
-  - path: /images/uploads/docu3.jpg
-  - path: /images/uploads/docu4.jpg
-  - path: /images/uploads/docu5.jpg
-  - path: /images/uploads/docu6.jpg
-  - path: /images/uploads/docu7.jpg
-  - path: /images/uploads/docu9.jpg
-  - path: /images/uploads/docu10.jpg
-  - path: /images/uploads/perfo1.jpg
-  - path: /images/uploads/perfo2.jpg
-  - path: /images/uploads/perfo5.jpg
-  - path: /images/uploads/perfo6.jpg
-  - path: /images/uploads/perfo10.jpg
-  - path: /images/uploads/perfo11.jpg
-  - path: /images/uploads/perfo9.jpg
-  - path: /images/uploads/perfo15.jpg
-  - path: /images/uploads/perfo13.jpg
-  - path: /images/uploads/perfo16.jpg
+  - path: /images/uploads/2-docu1.webp
+  - path: /images/uploads/3-docu2.webp
+  - path: /images/uploads/4-docu3.webp
+  - path: /images/uploads/5-docu5.webp
+  - path: /images/uploads/6-docu6.webp
+  - path: /images/uploads/7-docu7.webp
+  - path: /images/uploads/8-docu9.webp
+  - path: /images/uploads/9-docu10.webp
+  - path: /images/uploads/10-perfo1.webp
+  - path: /images/uploads/11-perfo2.webp
+  - path: /images/uploads/12-perfo5.webp
+  - path: /images/uploads/13-perfo6.webp
+  - path: /images/uploads/14-perfo9.webp
+  - path: /images/uploads/15-perfo11.webp
+  - path: /images/uploads/16-perfo15.webp
+  - path: /images/uploads/17-perfo13.webp
+  - path: /images/uploads/18-perfo16.webp
 description_fr: >-
-  Pour l'exposition inaugurale de leur résidence curatoriale, *as slow as
-  possible* invite quatre artistes aux approches et aux pratiques variées. 
+  Pour l'exposition inaugurale de leur résidence curatoriale, as slow as
+  possible invite quatre artistes aux approches et aux pratiques variées. 
 
 
-  *Making Kin, Making Place* propose un élément de départ à des interventions spatiales et sociales dans l'Espace 3353 et ses environs. 
+  Making Kin, Making Place propose un élément de départ à des interventions spatiales et sociales dans l'Espace 3353 et ses environs. 
 
 
   Les artistes interrogent ainsi cet espace d'art indépendant, situé dans un quartier en mutation.
@@ -199,8 +197,8 @@ details_pieces_fr: |-
 details_pieces_en: |-
   Lurking through the cracks, 2023, 140 x 110 x 300 cm
   wood, jute fabric, plaster, bulb, screen, video 15' in loop
-credits: |
+credits: |-
   Curation : as slow as possible
   Photos: Yul Tomatala
-vimeo_src: "x"
+vimeo_src: x
 ---

@@ -9,14 +9,14 @@ layout: 'base_works.njk'
     <div class="container_titre_general">
         <div class="container_titre_fr">
             <h2 class="titre_projets_fr">{{fr_nom_maj}}</h2>
-            <p class="lieu_fr">{{fr_details_lieu}}</p>
-            <p class="type_fr">{{fr_type_duree}}</p>
+            <p class="lieu_fr">{{fr_details_lieu | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+            <p class="type_fr">{{fr_type_duree | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
             <p class="lien_video_fr"><a href="{{lien}}" target="_blank">{{texte_lien_fr}}</a></p> 
         </div>
         <div class="container_titre_en">
             <h2 class="titre_projets_en">{{en_nom_maj}}</h2>
-            <p class="lieu_en">{{en_details_lieu}}</p>
-            <p class="type_en">{{en_type_duree}}</p>
+            <p class="lieu_en">{{en_details_lieu | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+            <p class="type_en">{{en_type_duree | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
             <p class="lien_video"><a href="{{lien}}" target="_blank">{{texte_lien_en}}</a></p>
         </div>
         <div class="langue_container_phone">
@@ -48,16 +48,16 @@ layout: 'base_works.njk'
 
         <!---DESCRIPTION DES PROJETS -->
         <div class="texte_projets_fr">
-            <p class="description_fr">{{description_fr}}</p>
-            <p class="description_pieces_fr">{{details_pieces_fr}}</p>
+            <p class="description_fr">{{description_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+            <p class="description_pieces_fr">{{details_pieces_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
         </div> 
         <div class="texte_projets_en">
-            <p class="description_en">{{description_en}} </p>
-            <p class="description_pieces_en">{{details_pieces_en}}</p>
+            <p class="description_en">{{description_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}} </p>
+            <p class="description_pieces_en">{{details_pieces_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
         </div> 
         <!---CREDITS-->
         <div class="credits_texte">
-            <p class="credits">{{credits}}</p>
+            <p class="credits">{{credits | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
         </div>
         {% if vimeo_src == "x" %}
             <div class="vimeo-container_hide" id="vimeo_video">
