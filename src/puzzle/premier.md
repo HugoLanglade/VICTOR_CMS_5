@@ -8,6 +8,7 @@ texte: |-
 lien: ""
 texte_lien: ""
 images:
+  - path: /images/uploads/structure5.png
   - path: /images/uploads/000011.jpg
   - path: /images/uploads/000038.jpg
   - path: /images/uploads/000014.jpg
