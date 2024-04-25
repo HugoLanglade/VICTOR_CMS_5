@@ -36,11 +36,11 @@ images:
   - path: /images/uploads/17-perfo13.webp
   - path: /images/uploads/18-perfo16.webp
 description_fr: >-
-  Pour l'exposition inaugurale de leur résidence curatoriale, *as slow as
-  possible* invite quatre artistes aux approches et aux pratiques variées. 
+  Pour l'exposition inaugurale de leur résidence curatoriale, as slow as
+  possible invite quatre artistes aux approches et aux pratiques variées. 
 
 
-  *Making Kin, Making Place* propose un élément de départ à des interventions spatiales et sociales dans l'Espace 3353 et ses environs. 
+  Making Kin, Making Place propose un élément de départ à des interventions spatiales et sociales dans l'Espace 3353 et ses environs. 
 
 
   Les artistes interrogent ainsi cet espace d'art indépendant, situé dans un quartier en mutation.
@@ -197,7 +197,7 @@ details_pieces_fr: |-
 details_pieces_en: |-
   Lurking through the cracks, 2023, 140 x 110 x 300 cm
   wood, jute fabric, plaster, bulb, screen, video 15' in loop
-credits: |
+credits: |-
   Curation : as slow as possible
   Photos: Yul Tomatala
 vimeo_src: x

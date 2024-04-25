@@ -110,8 +110,6 @@ details_pieces_en: |
 credits: |-
   Photos: Laura Spozio, Victor Delétraz
 
-  Video :
-
   Camera : Linn Nora Henz
   Editing: Victor Delétraz
 vimeo_src: https://player.vimeo.com/video/872564315?h=daf5f8ac6d&byline=0&portrait=0
