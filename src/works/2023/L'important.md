@@ -74,23 +74,12 @@ description_fr: >-
   ------
 description_en: >-
   Between the opening of the show Encore Heureux and the closing, in two weeks,
-
-  the two artists imagined a performative proposition in the space they had created
-
-  editing a few details and adding props.
+  the two artists imagined a performative proposition in the space they had
+  created editing a few details and adding props.
 
   Indeed, the installation is reminiscent of a domestic interior, a stage set or a white cube construction intended for an art fair.
 
-  With all these elements, the two artists have written a performance questioning
-
-  our place at work, in a capitalist and liberal world, our moments of leisure
-
-  and relaxation and our existential doubts, all in a strange and blue smoky
-
-  after-work atmosphere.
-
-
-  ------
+  With all these elements, the two artists have written a performance questioning our place at work, in a capitalist and liberal world, our moments of leisure and relaxation and our existential doubts, all in a strange and blue smoky after-work atmosphere.
 
 
   Text by Annabelle Galland translated in English:
@@ -120,9 +109,6 @@ description_en: >-
 
 
   So in the middle of all this impossible clutter, the duo, or rather the pair, emerges as a shaky but eligible solution. If I do what you do and you do what I do, there comes a moment when, in a subtle spirit of adaptation, we start to resemble each other and that's here, yes right there, it all kicks in, the air will become electrified with coincidences and just like that, facing the void, a filament, a trace of something we've grasped, pushes us to believe that we're using our words in the right way and that if you understand me and I listen to you then already something else exists, stretches out and stirs, out there, among the others. ㋡ AG
-
-
-  ------
 details_pieces_fr: >-
   L'important est d'arriver en retard le premier jour, 2022 
 
