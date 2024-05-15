@@ -36,6 +36,7 @@ description_fr: >-
 
   Ce confort, ici ;
 
+
   Ce jacuzzi
 
   Cette conscience que vos éthiques pourries dirigent le monde
@@ -77,6 +78,7 @@ description_fr: >-
   Ce tourbillon,
 
   Est-ce que ça vous réconforte?
+
 
 
   PARTIE 2
@@ -219,5 +221,5 @@ credits: |
   Curation : Limbo Collective
   Text: Yasemine Imre
   Photos: Jeanne Tullen
-vimeo_src: "x"
+vimeo_src: x
 ---
