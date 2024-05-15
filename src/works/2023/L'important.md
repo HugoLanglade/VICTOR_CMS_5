@@ -39,10 +39,9 @@ description_fr: >-
   Avec tous ces éléments, Victor Delétraz et Annabelle Galland ont écrit une performance questionnant notre rapport au travail, dans un monde capitaliste et libéral, nos moment de loisirs et de relaxation et nos doutes existentiels, le tout dans une étrange atmosphère bleue d'un after-work.
 
 
-  --------
 
 
-  Texte de Annabelle Galland:
+  *Texte de Annabelle Galland*:
 
 
   Parce que le problème, le réel problème, c’est que même quand j’ai quelque chose d’intéressant à dire, alors il y a quelqu’un juste devant moi qui crie plus fort pour dire exactement la même chose, et qu’on l’entend à ma place, alors comment faire, oui comment faire, pour la prendre ma place.
@@ -69,9 +68,6 @@ description_fr: >-
 
 
   Alors au milieu de tout ce fouillis impossible, le duo ou plutôt la paire s’impose comme une solution bancale mais éligible, si je fais comme toi et que toi tu fais comme moi, il y a un moment ou dans un subtil esprit d’adaptation, on va commencer à se ressembler et c’est là, oui juste là, que ça va s’enclencher, l’air va s'électrifier de coïncidences et juste comme ça, face au vide, un filament, une trace de quelque chose qu’on a saisi, nous pousse à croire qu’on utilise nos mots de la bonne manière et que si tu me comprend et que moi je t’écoute alors déjà quelque chose d’autre existe, s’étend et remue, là-bas, au milieu des autres. ㋡ AG
-
-
-  ------
 description_en: >-
   Between the opening of the show Encore Heureux and the closing, in two weeks,
   the two artists imagined a performative proposition in the space they had
@@ -82,7 +78,9 @@ description_en: >-
   With all these elements, the two artists have written a performance questioning our place at work, in a capitalist and liberal world, our moments of leisure and relaxation and our existential doubts, all in a strange and blue smoky after-work atmosphere.
 
 
-  Text by Annabelle Galland translated in English:
+
+
+  *Text by Annabelle Galland translated in English*:
 
 
   Because the problem, the real problem, is that even when I have something interesting to say, there's someone right in front of me shouting louder to say exactly the same thing, and everybody hear it instead of me, so how can I do it, yes, how can I do it, to take my place.
