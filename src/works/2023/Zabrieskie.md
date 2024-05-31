@@ -204,9 +204,9 @@ description_en: >-
   Who is everyone to you because it’s not the same for everyone (whoops).
 details_pieces_fr: .
 details_pieces_en: .
-credits: |
+credits: |-
   Curation : Limbo Collective
-  Text: Yasemine Imre
+  Text: Yasemin Imre
   Photos: Jeanne Tullen
 vimeo_src: x
 ---
