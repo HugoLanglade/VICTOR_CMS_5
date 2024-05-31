@@ -15,9 +15,9 @@ fr_details_lieu: Bordeaux, 2024
 en_details_lieu: Bordeaux, 2024
 fr_type_duree: Performance, Nuit Européènes de musée
 en_type_duree: Pegforamcme YESSS
-image_couv: /images/uploads/amp.png
+image_couv: /images/uploads/000014.jpg
 images:
-  - path: /images/uploads/capture-d’écran-2024-04-25-à-11.15.22.png
+  - path: /images/uploads/000026.jpg
 description_fr: Bblalbgakegohqwoi
 description_en: dsankgnegwlgn
 details_pieces_fr: ""
