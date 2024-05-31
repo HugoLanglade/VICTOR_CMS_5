@@ -32,7 +32,7 @@ images:
   - path: /images/uploads/zab_8110_2nds.webp
   - path: /images/uploads/carton-crowed.webp
 description_fr: >-
-  *PARTIE 1*
+  ***PARTIE 1***
 
 
   Ce confort, ici ;
@@ -112,7 +112,7 @@ description_fr: >-
 
   Qui est tout le monde pour vous parce que c’est pas la même chose pour tout le monde (oups).
 description_en: >-
-  PART 1
+  **PART 1**
 
   This comfort here;
 
