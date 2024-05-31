@@ -8,17 +8,17 @@ permalink: /works.html
 {% set uniqueYears = [] %}
 {% set lastArticle = null %}
 
-{% for work in sortedWorks %}
-    {% set year = work.data.année %}
+{% for works in sortedWorks %}
+    {% set year = works.data.année %}
     {% if uniqueYears.indexOf(year) == -1 %}
         {% set _ = uniqueYears.push(year) %}
     {% endif %}
 {% endfor %}
 
 {% for year in uniqueYears | sort %}
-    {% for work in sortedWorks | sort(attribute='data.mois') %}
-        {% if work.data.année == year %}
-            {% set lastArticle = work %}
+    {% for works in sortedWorks | sort(attribute='data.mois') %}
+        {% if works.data.année == year %}
+            {% set lastArticle = works %}
         {% endif %}
     {% endfor %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: MakingKin
-permalink: /works/making.html
+permalink: /article/making.html
 numero_article: article3
 nom_lieu: Making Kin, Making Place - Espace 3353
 année: 2023

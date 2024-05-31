@@ -719,10 +719,12 @@ top:40%;
 
 .texte_projets_fr p {
     font-size: 1.2rem;
+    line-height: 3.5vh;
 }
 
 .texte_projets_en p {
     font-size: 1.2rem;
+    line-height: 3.5vh;
 }
 
 .description_pieces_fr {

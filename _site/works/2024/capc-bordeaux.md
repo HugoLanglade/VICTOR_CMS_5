@@ -1,7 +1,6 @@
 ---
-layout: article.njk
 title: CAPC-Bordeaux
-permalink: /article/capc.html
+permalink: /works/capc.html
 numero_article: article9
 nom_lieu: Vraies émotions pour faux tonnerres - CAPC Bordeaux
 année: 2024
@@ -20,6 +19,6 @@ images:
   - path: /images/uploads/capture-d’écran-2024-04-25-à-11.15.22.png
 description_fr: Bblalbgakegohqwoi
 description_en: dsankgnegwlgn
-details_pieces_fr: ""
+details_pieces_fr: xxxxsdsq
 vimeo_src: x
 ---
