@@ -32,7 +32,7 @@ images:
   - path: /images/uploads/zab_8110_2nds.webp
   - path: /images/uploads/carton-crowed.webp
 description_fr: >-
-  ***PARTIE 1***
+  PARTIE 1
 
 
   Ce confort, ici ;
@@ -80,6 +80,8 @@ description_fr: >-
   Est-ce que ça vous réconforte?
 
 
+
+
   PARTIE 2
 
 
@@ -102,17 +104,21 @@ description_fr: >-
   il est donc logique que ces systèmes n'aient pas leur place dans le futur.
 
 
+
+
   PARTIE 3
 
 
   Quelqu'un que je connais est une sorte de philosophe, le genre qui se situe au plus haut niveau de l'étude académique. Quand je lui ai demandé si le titre de l'exposition faisait quelque chose de similaire à la philosophie dans son aspiration à être une vérité incontestable, il a dit oui, mais spécifiquement celles qui ne sont pas triviales ou tautologiques. Il a donc sous-entendu assez grossièrement que l'énoncé du titre n'était pas l'un des plus nobles, simplement parce qu'il devait défendre frénétiquement l'honneur de sa discipline. Sans vouloir chier sur la philosophie, n'est-il pas évident que le trivial et le tautologique sont exactement ce à quoi ce genre d'absolutisme nous mène?
 
 
+
+
   PARTIE 4
 
   Qui est tout le monde pour vous parce que c’est pas la même chose pour tout le monde (oups).
 description_en: >-
-  **PART 1**
+  PART 1
 
   This comfort here;
 
@@ -159,6 +165,8 @@ description_en: >-
   Is comforting to you?
 
 
+
+
   PART 2
 
   Victor’s work starts from the absurdity of absolutism and in this path, his works
@@ -180,6 +188,8 @@ description_en: >-
   temporary. This all didn’t exist before it existed, so it’s only logical these systems won’t have their place in the future.
 
 
+
+
   PART 3
 
   Someone who I know is a philosopher of sorts, the kind that is in the highest
@@ -197,6 +207,8 @@ description_en: >-
   Not to shit on philosophy but is it not obvious that the trivial and tautologous
 
   is exactly what that kind of absolutism gets us at?
+
+
 
 
   PART 4
