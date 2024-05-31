@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-title: CAPC-Bordeaux
+title: CAPCBordeaux
 permalink: /article/capc.html
 numero_article: article9
 nom_lieu: Vraies émotions pour faux tonnerres - CAPC Bordeaux
