@@ -160,7 +160,6 @@ description_en: >-
 
 
 
-
   PART 2
 
   Victor’s work starts from the absurdity of absolutism and in this path, his works
@@ -183,7 +182,6 @@ description_en: >-
 
 
 
-
   PART 3
 
   Someone who I know is a philosopher of sorts, the kind that is in the highest
@@ -201,7 +199,6 @@ description_en: >-
   Not to shit on philosophy but is it not obvious that the trivial and tautologous
 
   is exactly what that kind of absolutism gets us at?
-
 
 
 
