@@ -202,8 +202,8 @@ description_en: >-
   PART 4
 
   Who is everyone to you because it’s not the same for everyone (whoops).
-details_pieces_fr: .
-details_pieces_en: .
+details_pieces_fr: ""
+details_pieces_en: ""
 credits: |-
   Curation : Limbo Collective
   Text: Yasemin Imre
