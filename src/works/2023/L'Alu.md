@@ -37,9 +37,6 @@ description_fr: >-
 
 
   Et derrière des magnifiques montagnes, une belle photo.
-
-
-  -----
 description_en: |-
   A war against slugs. 
 
