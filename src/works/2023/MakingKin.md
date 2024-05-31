@@ -55,7 +55,7 @@ description_fr: >-
   –––––––
 
 
-  Texte lu durant la performance :
+  *Texte lu durant la performance :*
 
 
   Il y a le soleil et rien. Il y a la vie absurde et rien.
@@ -125,14 +125,10 @@ description_en: >-
   Victor Delétraz explores the immediate surroundings of 3353 using a small motorised appendage. ln the exhibition space, filmic exploration is confronted with a shaky architecture. The installation later acts as a performance space for the artist.
 
 
-
-
   ––––––
 
 
-
-
-  Text read during the performance translated in English :
+  *Text read during the performance translated in English :*
 
 
   There is the sun and nothing. There is absurd life and nothing.
