@@ -50,8 +50,6 @@ description_en: |-
   A fake garden. 
 
   And behind beautiful mountains, cute picture.
-
-  -----
 details_pieces_fr: Matériaux divers, performance 7'
 details_pieces_en: Various materials, performance 7'
 credits: "Photos: Elise Lammer, Manon Briod, Diana Martin & Luc Meier"
