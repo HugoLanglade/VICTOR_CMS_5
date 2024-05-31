@@ -177,9 +177,7 @@ description_en: >-
 
   upon capitalistic neurosis, by means of turning this existence into something
 
-  temporary. This all didn’t exist before it existed, so it’s only logical these systems
-
-  won’t have their place in the future.
+  temporary. This all didn’t exist before it existed, so it’s only logical these systems won’t have their place in the future.
 
 
   PART 3
