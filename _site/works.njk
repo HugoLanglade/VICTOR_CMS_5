@@ -32,15 +32,15 @@ permalink: /works.html
     <div class="container_titre_general">
         <div class="container_titre_fr">
             <h2 class="titre_projets_fr">{{lastArticle.data.fr_nom_maj}}</h2>
-            <p class="lieu_fr">{{lastArticle.data.fr_details_lieu | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
-            <p class="type_fr">{{lastArticle.data.fr_type_duree | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+            <p class="lieu_fr">{{lastArticle.data.fr_details_lieu | markdown | safe }}</p>
+            <p class="type_fr">{{lastArticle.data.fr_type_duree | markdown | safe }}</p>
             <p class="lien_video_fr"><a href="{{lastArticledata.lien}}" target="_blank">{{lastArticle.data.texte_lien_fr}}</a></p> 
              
         </div>
         <div class="container_titre_en">
             <h2 class="titre_projets_en">{{lastArticle.data.en_nom_maj}}</h2>
-            <p class="lieu_en">{{lastArticle.data.en_details_lieu | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
-            <p class="type_en">{{lastArticle.data.en_type_duree | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+            <p class="lieu_en">{{lastArticle.data.en_details_lieu | markdown | safe }}</p>
+            <p class="type_en">{{lastArticle.data.en_type_duree | markdown | safe }}</p>
             <p class="lien_video"><a href="{{lastArticle.data.lien}}" target="_blank">{{lastArticle.data.texte_lien_en}}</a></p>
             
         </div>
@@ -71,16 +71,16 @@ permalink: /works.html
     </div>
     <!---DESCRIPTION DES PROJETS -->
     <div class="texte_projets_fr">
-        <p class="description_fr">{{lastArticle.data.description_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
-        <p class="description_pieces_fr">{{lastArticle.data.details_pieces_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+        <p class="description_fr">{{lastArticle.data.description_fr | markdown | safe }}</p>
+        <p class="description_pieces_fr">{{lastArticle.data.details_pieces_fr | markdown | safe }}</p>
     </div> 
     <div class="texte_projets_en">
-        <p class="description_en">{{lastArticle.data.description_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}} </p>
-        <p class="description_pieces_en">{{lastArticle.data.details_pieces_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+        <p class="description_en">{{lastArticle.data.description_en | markdown | safe }} </p>
+        <p class="description_pieces_en">{{lastArticle.data.details_pieces_en | markdown | safe }}</p>
     </div> 
     <!---CREDITS-->
     <div class="credits_texte">
-        <p class="credits">{{lastArticle.data.credits | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+        <p class="credits">{{lastArticle.data.credits | markdown | safe }}</p>
     </div>
     {% if lastArticle.data.vimeo_src == "x" %}
     <div class="vimeo-container_hide" id="vimeo_video">

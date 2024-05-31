@@ -37,9 +37,6 @@ description_fr: >-
 
 
   Et derrière des magnifiques montagnes, une belle photo.
-
-
-  -----
 description_en: |-
   A war against slugs. 
 
@@ -50,8 +47,6 @@ description_en: |-
   A fake garden. 
 
   And behind beautiful mountains, cute picture.
-
-  -----
 details_pieces_fr: Matériaux divers, performance 7'
 details_pieces_en: Various materials, performance 7'
 credits: "Photos: Elise Lammer, Manon Briod, Diana Martin & Luc Meier"

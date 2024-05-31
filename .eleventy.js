@@ -35,7 +35,7 @@ const markdownIt = require("markdown-it");
 const md = new markdownIt({
   html: true,
   typographer: true,
-  breaks: true,
+  breaks: false,
   linkify: true
 });
 
@@ -165,6 +165,8 @@ eleventyConfig.addFilter("markdown", (content) => {
     markdownTemplateEngine: "njk",
     markdownOptions: {
       html: true,
+      typographer: true,
+      breaks: false,
       linkify: true,
     },
   };
