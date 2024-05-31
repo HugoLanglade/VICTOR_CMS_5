@@ -1,10 +1,10 @@
 ---
 layout: article.njk
 title: CAPCBordeaux
-permalink: /article/capc.html
+permalink: /works/capc.html
 numero_article: article9
 nom_lieu: Vraies émotions pour faux tonnerres - CAPC Bordeaux
-année: 2023
+année: 2024
 mois: 5
 lien: https://www.capc-bordeaux.fr/
 texte_lien_fr: Site internet
