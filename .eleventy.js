@@ -165,7 +165,6 @@ eleventyConfig.addFilter("markdown", (content) => {
     markdownTemplateEngine: "njk",
     markdownOptions: {
       html: true,
-      breaks: false,
       linkify: true,
     },
   };
