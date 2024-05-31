@@ -32,7 +32,8 @@ images:
   - path: /images/uploads/zab_8110_2nds.webp
   - path: /images/uploads/carton-crowed.webp
 description_fr: >-
-  PARTIE 1
+  ***PARTIE 1***
+
 
   Ce confort, ici ;
 
@@ -81,6 +82,7 @@ description_fr: >-
 
   PARTIE 2
 
+
   Le travail de Victor part de l'absurdité de l'absolutisme et sur ce chemin, ses oeuvres prennent la
 
   forme de divers systèmes et configurations d'absurdité absolue. L'espace fait écho aux vestiges d'un
@@ -102,26 +104,15 @@ description_fr: >-
 
   PARTIE 3
 
-  Quelqu'un que je connais est une sorte de philosophe, le genre qui se situe au plus haut niveau de
 
-  l'étude académique. Quand je lui ai demandé si le titre de l'exposition faisait quelque chose de
-
-  similaire à la philosophie dans son aspiration à être une vérité incontestable, il a dit oui, mais
-
-  spécifiquement celles qui ne sont pas triviales ou tautologiques. Il a donc sous-entendu assez
-
-  grossièrement que l'énoncé du titre n'était pas l'un des plus nobles, simplement parce qu'il devait
-
-  défendre frénétiquement l'honneur de sa discipline. Sans vouloir chier sur la philosophie, n'est-il pas
-
-  évident que le trivial et le tautologique sont exactement ce à quoi ce genre d'absolutisme nous mène?
+  Quelqu'un que je connais est une sorte de philosophe, le genre qui se situe au plus haut niveau de l'étude académique. Quand je lui ai demandé si le titre de l'exposition faisait quelque chose de similaire à la philosophie dans son aspiration à être une vérité incontestable, il a dit oui, mais spécifiquement celles qui ne sont pas triviales ou tautologiques. Il a donc sous-entendu assez grossièrement que l'énoncé du titre n'était pas l'un des plus nobles, simplement parce qu'il devait défendre frénétiquement l'honneur de sa discipline. Sans vouloir chier sur la philosophie, n'est-il pas évident que le trivial et le tautologique sont exactement ce à quoi ce genre d'absolutisme nous mène?
 
 
   PARTIE 4
 
   Qui est tout le monde pour vous parce que c’est pas la même chose pour tout le monde (oups).
 description_en: >-
-  PART 1
+  **PART 1**
 
   This comfort here;
 
@@ -219,5 +210,5 @@ credits: |
   Curation : Limbo Collective
   Text: Yasemine Imre
   Photos: Jeanne Tullen
-vimeo_src: "x"
+vimeo_src: x
 ---

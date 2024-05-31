@@ -31,25 +31,28 @@ images:
   - path: /images/uploads/22_s2s_encoreheureux_22.jpg
   - path: /images/uploads/22_s2s_encoreheureux_23.jpg
   - path: /images/uploads/22_s2s_encoreheureux_25.jpg
-description_fr: >
+description_fr: >-
   « Une peinture par personne » aurait pu être le titre de cette exposition.
   Métaphorique et recherché, non. Factuel et pragmatique, oui.
 
 
   Dans la salle rectangulaire est placée une structure presque carrée, dans laquelle deux boxes de présentation sont en partie attribués par les artistes à elleux-mêmes. Côté cour et côté jardin, côté Galland et côté Delétraz, côté chambre à coucher et côté salle de bain. Libre au public de choisir lequel est à qui et où se trouve quoi. 
 
-  Car si dans la proposition, certaines décisions plastiques semblent claires, le propos parait plus énigmatique. Satire et cynisme, peut-être. 
+  Car si dans la proposition, certaines décisions plastiques semblent claires, le propos parait plus énigmatique. Satire et cynisme, peut-être. Humour et point de vue, certainement.
 
-  Humour et point de vue, certainement.
-            
+
   Avec une générosité en termes de nombre d'?uvres, comme d'engagement en amont de l'exposition, les deux artistes appliquent dans ce cas et à la lettre, la première phrase de la devise de l'espace qui les accueille : laisser libre cours à l'expérimentation, la tentative, l'idée. Iels explorent diverses surfaces ne servant pas qu'à peindre, transposent la pratique de la sculpture à celle de l'assemblage, brisent une habituelle hiérarchie entre les ?uvres, procèdent autant par ajouts de détails délicats que par soustractions d'éléments perturbateurs, jouent avec la fonction et le statut de cadre dans tous les sens, comme avec le cadre de monstration de leurs pièces en soi. Autrement dit, faire du sérieux sans se prendre au sérieux.
-            
+
+
   Les nombreuses pièces individuelles, parfois inédites, parfois récupérées, provenant presque toujours de matériaux recyclés, deviennent installation éphémère et ?uvres communes uniques. Elles forment un ensemble clairsemant la surface du sol, les cimaises et l'espace factice ainsi créé. À travers le choix des matières premières utilisées, catelles en savon, lampes fonctionnelles mais non-ornementales, abat-jours anciens ou étranges, rideau retouché mais non-dissimulant, fontaine repeinte de laquelle ne jaillit pas d'eau mais un bouquet de fleurs, céramiques léchées sans être précieuses, structure en bois laquée mais instable, huile sur toile trouée, autocollants éparpillés et narguant les spectateurices, jusque dans la pose superstitieuse d'un objet anodin à l'arrière de leur structure, Annabelle Galland et Victor Delétraz se jouent de certains codes et assument les paradoxes de leur proposition. Celle-ci devient l'envers d'un décor où il n'y a rien à voir, ou presque. Contradiction et échec, pas du tout. Perspicacité et potentiel performatif, absolument. 
 
+
   « Deux seins et une cravate » aurait pu être un autre titre d'exposition ou peut-être de la performance en binôme ayant lieu dans l'espace, activant les divers éléments de l'installation, comme une critique d'un circuit dans lequel iels ont choisi d'évoluer. La rumeur dit que les artistes doivent financer leur production, payer leur choix de vie plutôt qu'elleux-mêmes. Preuve en est la longue liste de remerciements qu'iels ont tenu à partager avec le public, où le fait d'avoir un exécutant de montage revêt autant d'importance que d'avoir une préparatrice de banquet. Peut-être que les deux acolytes travaillent dans un même café de théâtre, échangeant là-bas bien plus de commandes que de répliques. Des partenaires de travail et de jeu parfaites,en somme.
-            
+
+
   Depuis le début, cette exposition n'est qu'un simulacre. Une collaboration extrême, à la limite de la perte d'équilibre mais dans une maîtrise totale. On les aurait même entendu dire « faut pas se louper ».
-            
+
+
   Encore heureux.
 description_en: >
   « One painting per person » could have been the title of this exhibition.
