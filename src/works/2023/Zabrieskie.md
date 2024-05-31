@@ -177,9 +177,7 @@ description_en: >-
 
   upon capitalistic neurosis, by means of turning this existence into something
 
-  temporary. This all didn’t exist before it existed, so it’s only logical these systems
-
-  won’t have their place in the future.
+  temporary. This all didn’t exist before it existed, so it’s only logical these systems won’t have their place in the future.
 
 
   PART 3
@@ -206,9 +204,9 @@ description_en: >-
   Who is everyone to you because it’s not the same for everyone (whoops).
 details_pieces_fr: .
 details_pieces_en: .
-credits: |
+credits: |-
   Curation : Limbo Collective
-  Text: Yasemine Imre
+  Text: Yasemin Imre
   Photos: Jeanne Tullen
 vimeo_src: x
 ---

@@ -59,52 +59,52 @@ description_en: >
   A fountain spits out a little colored water, a plastic horse gallops on the spot, a picture rail exhales smoke. The pieces in the space all have a performative potential, an idea of transformation and movement.
                 
   The performance explores notions of failure, wobbly actions, a paralyzed inner state and a revolt that shouts in whispers. Gestures mix improvisation and precise action. A poem is dictated, feathers fly into space, a smoke bomb might be lit.
-details_pieces_fr: |
-  Comme d'habitude en été, 2023 
+details_pieces_fr: |-
+  Comme d'habitude en été, 2023
   chaise brûlée, acrylique, ruban adhésif, scintillant
-                                  
+
   ULTRA 1 & 2, 2023
   acrylique sur bois, bombes fumigènes, 5 centimes de francs suisses
-                                  
+
   Futur framework / spy, 2021-2023
   bois, métal, autocollant
-                                  
+
   Coool, 2023
   carton, pompe, eau, sac plastique
-                                  
+
   Good decisions by good politics, 2023
   huile, acrylique & laque sur plaque de métal
-              
+
   Thundering investigation, 2023
   huile, acrylique et laque sur métal
-              
-  lose your mind, 2023 
+
+  lose your mind, 2023
   cheval en plastique
-              
+
   Egohypnoticinteriorattackscompactemotionalshits, 2023
   matériaux divers (détails)
-details_pieces_en: |
-  Comme d'habitude en été, 2023 
+details_pieces_en: |-
+  Comme d'habitude en été, 2023
   burnt chair, acrylic, tape, sparkler
-                                  
+
   ULTRA 1 & 2, 2023
   acrylic on wood, smoke bombs, 5 swiss francs cents
-                                  
+
   Futur framework / spy, 2021-2023
   wood, metal, sticker
-                                  
+
   Coool, 2023
   cardboard, pomp, water, plastic bag
-                                  
+
   Good decisions by good politics, 2023
   oil, acrylic & laquer on metal plate
-              
+
   Thundering investigation, 2023
   oil, acrylic & laquer on metal plate
-              
+
   lose your mind, 2023 
   plastic horse
-              
+
   Egohypnoticinteriorattackscompactemotionalshits, 2023
   various materials (details)
 credits: |-
