@@ -62,25 +62,25 @@ description_en: >
 details_pieces_fr: |-
   Comme d'habitude en été, 2023
   chaise brûlée, acrylique, ruban adhésif, scintillant
-                                  
+
   ULTRA 1 & 2, 2023
   acrylique sur bois, bombes fumigènes, 5 centimes de francs suisses
-                                  
+
   Futur framework / spy, 2021-2023
   bois, métal, autocollant
-                                  
+
   Coool, 2023
   carton, pompe, eau, sac plastique
-                                  
+
   Good decisions by good politics, 2023
   huile, acrylique & laque sur plaque de métal
-              
+
   Thundering investigation, 2023
   huile, acrylique et laque sur métal
-              
+
   lose your mind, 2023
   cheval en plastique
-              
+
   Egohypnoticinteriorattackscompactemotionalshits, 2023
   matériaux divers (détails)
 details_pieces_en: |-
