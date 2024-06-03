@@ -32,7 +32,7 @@
         {% if education.data.tags and "education" in education.data.tags %}
         <div class="sous_details">
           <p class="dates">{{education.data.dates_formation}}</p>
-          <p class="description">{{education.data.formation_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{education.data.formation_en | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -44,7 +44,7 @@
         {% if solo_show.data.tags and "solo_show" in solo_show.data.tags %}
         <div class="sous_details">
           <p class="dates">{{solo_show.data.dates_solo_show}}</p>
-          <p class="description">{{solo_show.data.solo_show_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{solo_show.data.solo_show_en | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -56,7 +56,7 @@
         {% if show.data.tags and "show" in show.data.tags %}
         <div class="sous_details">
           <p class="dates">{{show.data.dates_show}}</p>
-          <p class="description">{{show.data.show_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{show.data.show_en | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -68,7 +68,7 @@
         {% if performance.data.tags and "performance" in performance.data.tags %}
         <div class="sous_details">
           <p class="dates">{{performance.data.dates_performance}}</p>
-          <p class="description">{{ performance.data.performance_en | markdown | safe | replace('<p>', '') | replace('</p>', '') }}</p>
+          <p class="description">{{ performance.data.performance_en | markdown | safe  }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -80,7 +80,7 @@
       {% if curating.data.tags and "curation" in curating.data.tags %}
         <div class="sous_details">
           <p class="dates">{{ curating.data.dates_curation }}</p>
-          <p class="description">{{ curating.data.curation_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{ curating.data.curation_en | markdown | safe }}</p>
         </div>
       {% endif %}
     {% endfor %}
@@ -92,7 +92,7 @@
       {% if residency.data.tags and "residency" in residency.data.tags %}
         <div class="sous_details">
           <p class="dates">{{ residency.data.dates_residency }}</p>
-          <p class="description">{{ residency.data.residency_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{ residency.data.residency_en | markdown | safe }}</p>
         </div>
       {% endif %}
     {% endfor %}
@@ -104,7 +104,7 @@
       {% if association.data.tags and "association" in association.data.tags %}
         <div class="sous_details">
           <p class="dates">{{ association.data.dates_association }}</p>
-          <p class="description">{{ association.data.association_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{ association.data.association_en | markdown | safe }}</p>
         </div>
       {% endif %}
     {% endfor %}
@@ -116,7 +116,7 @@
       {% if press.data.tags and "press" in press.data.tags %}
         <div class="sous_details">
           <p class="dates">{{ press.data.dates_press }}</p>
-          <p class="description">{{ press.data.press_en | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{ press.data.press_en | markdown | safe }}</p>
         </div>
       {% endif %}
     {% endfor %}
@@ -130,7 +130,7 @@
         {% if education.data.tags and "education" in education.data.tags %}
         <div class="sous_details">
           <p class="dates">{{education.data.dates_formation}}</p>
-          <p class="description">{{education.data.formation_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{education.data.formation_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -142,7 +142,7 @@
         {% if solo_show.data.tags and "solo_show" in solo_show.data.tags %}
         <div class="sous_details">
           <p class="dates">{{solo_show.data.dates_solo_show}}</p>
-          <p class="description">{{solo_show.data.solo_show_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{solo_show.data.solo_show_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -154,7 +154,7 @@
         {% if show.data.tags and "show" in show.data.tags %}
         <div class="sous_details">
           <p class="dates">{{show.data.dates_show}}</p>
-          <p class="description">{{show.data.show_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{show.data.show_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -166,7 +166,7 @@
         {% if performance.data.tags and "performance" in performance.data.tags %}
         <div class="sous_details">
           <p class="dates">{{performance.data.dates_performance}}</p>
-          <p class="description">{{performance.data.performance_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{performance.data.performance_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -178,7 +178,7 @@
         {% if curation.data.tags and "curation" in curation.data.tags %}
         <div class="sous_details">
           <p class="dates">{{curation.data.dates_curation}}</p>
-          <p class="description">{{curation.data.curation_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{curation.data.curation_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -190,7 +190,7 @@
         {% if residency.data.tags and "residency" in residency.data.tags %}
         <div class="sous_details">
           <p class="dates">{{residency.data.dates_residency}}</p>
-          <p class="description">{{residency.data.residency_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{residency.data.residency_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -202,7 +202,7 @@
         {% if association.data.tags and "association" in association.data.tags %}
         <div class="sous_details">
           <p class="dates">{{association.data.dates_association}}</p>
-          <p class="description">{{association.data.association_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{association.data.association_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
@@ -214,7 +214,7 @@
         {% if press.data.tags and "press" in press.data.tags %}
         <div class="sous_details">
           <p class="dates">{{press.data.dates_press}}</p>
-          <p class="description">{{press.data.press_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+          <p class="description">{{press.data.press_fr | markdown | safe }}</p>
         </div>
         {% endif %}
       {% endfor %}
