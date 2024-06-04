@@ -23,7 +23,5 @@ performance_fr: >-
   *The Waiting Room Act II* avec Agathe de Limoges, Sofia Underground, Sofia, BG
   </br>
 
-  </br>
-
   *L’important est d’arriver en retard le premier jour*, Soul2Soul RU, Genève, CH
 ---
