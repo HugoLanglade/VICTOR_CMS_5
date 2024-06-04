@@ -29,13 +29,11 @@ module.exports = function(eleventyConfig) {
 // Add above your Eleventy config
 const markdownIt = require("markdown-it");
 
-
-
 // Add within your config module
 const md = new markdownIt({
-  html: true,
-  typographer: false, //originally set to true
-  breaks: true, //originally set to false
+  html: true,         //originally set to true
+  typographer: true, //originally set to true
+  breaks: false,    //originally set to false
   linkify: true
 });
 
