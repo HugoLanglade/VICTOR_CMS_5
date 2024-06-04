@@ -78,9 +78,9 @@ description_fr: >-
 
   Est-ce que ça vous réconforte?
 
-  <﻿/br>
 
-  <﻿/br>
+
+
 
   PARTIE 2
 
