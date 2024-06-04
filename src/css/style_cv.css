@@ -166,6 +166,7 @@ p {
     display: flex;
     flex-direction: row;
     width: 44vw;
+    line-break: auto;
 }
 
 .dates {

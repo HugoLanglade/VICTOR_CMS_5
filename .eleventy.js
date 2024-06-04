@@ -34,8 +34,8 @@ const markdownIt = require("markdown-it");
 // Add within your config module
 const md = new markdownIt({
   html: true,
-  typographer: true,
-  breaks: false,
+  typographer: false, //originally set to true
+  breaks: true, //originally set to false
   linkify: true
 });
 

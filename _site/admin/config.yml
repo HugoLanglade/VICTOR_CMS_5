@@ -68,7 +68,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_association.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_association", widget: "string"}
       - {label: "Nom Association (Français)", name: "association_fr", widget: "markdown"}
       - {label: "Nom Association (Anglais)", name: "association_en", widget: "markdown"}
@@ -80,7 +80,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_curation.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_curation", widget: "string"}
       - {label: "Nom Projet de Curation (Français)", name: "curation_fr", widget: "markdown"}
       - {label: "Nom Projet de Curation (Anglais)", name: "curation_en", widget: "markdown"}  
@@ -92,7 +92,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_education.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_formation", widget: "string"}
       - {label: "Nom de la Formation (Français)", name: "formation_fr", widget: "markdown"}
       - {label: "Nom de la Formation (Anglais)", name: "formation_en", widget: "markdown"}
@@ -104,7 +104,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_performance.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_performance", widget: "string"}
       - {label: "Détails de la Performance (Français)", name: "performance_fr", widget: "markdown"}
       - {label: "Détails de la Performance (Anglais)", name: "performance_en", widget: "markdown"}
@@ -116,7 +116,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_press.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_press", widget: "string"}
       - {label: "Nom Performance, Lieu (Français)", name: "press_fr", widget: "markdown"}
       - {label: "Nom Performance, Lieu (Anglais)", name: "press_en", widget: "markdown"}
@@ -128,7 +128,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_show.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "show_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "show_en", widget: "markdown"}
@@ -140,7 +140,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_solo_show.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_solo_show", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "solo_show_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "solo_show_en", widget: "markdown"}
@@ -152,7 +152,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/cv_residency.html"} # Adjust the permalink as needed
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Dates", name: "dates_residency", widget: "string"}
       - {label: "Nom Exposition, Lieu (Français)", name: "residency_fr", widget: "markdown"}
       - {label: "Nom Exposition, Performance (Anglais)", name: "residency_en", widget: "markdown"}
