@@ -14,7 +14,8 @@ performance_fr: >-
   *Sun beam on sad clown*, Space Aknown, Athènes, GR
 performance_en: >-
   *Lurking through the cracks*, Espace 3353, Carouge, CH
-   
+
+
   *A trap that doesn't kill*, HEAD – Genève, CH
 
 
