@@ -76,11 +76,8 @@ description_fr: >-
 
   Ce tourbillon,
 
-  Est-ce que ça vous réconforte?
+  Est-ce que ça vous réconforte? <br>
 
-  <﻿br>
-
-  <﻿br>
 
   PARTIE 2
 
