@@ -191,9 +191,11 @@ description_en: >-
   –––––
 details_pieces_fr: |-
   *Lurking through the cracks*, 2023, 140 x 110 x 300 cm
+
   bois, toile de jute, plâtre, ampoule, écran, vidéo 15' en boucle
 details_pieces_en: |-
   *Lurking through the cracks*, 2023, 140 x 110 x 300 cm
+
   wood, jute fabric, plaster, bulb, screen, video 15' in loop
 credits: |-
   Curation : *as slow as possible*
