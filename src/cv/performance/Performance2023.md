@@ -5,19 +5,37 @@ performance_fr: >-
   *Lurking through the cracks*, Espace 3353, Carouge, CH
 
 
+  &﻿nbps;<br>
+
+
   *A trap that doesn't kill*, HEAD – Genève, CH
 
 
+  &﻿nbps;<br>
+
+
   *35 MIN DE PANORAMA INTENSIF, NE BOUGEZ PLUS. (enfin toute la vérité sur la Suisse!)* avec Château Deux, 5e Biennale Insulaire des espaces d’art de Genève, CH
+
+
+  &﻿nbps;<br>
 
 
   *Sun beam on sad clown*, Space Aknown, Athènes, GR
 performance_en: >-
   *Lurking through the cracks*, Espace 3353, Carouge, CH
 
+
+  &﻿nbps;<br>
+
   *A trap that doesn't kill*, HEAD – Genève, CH
 
+
+  &﻿nbps;<br>
+
   *35 MIN DE PANORAMA INTENSIF, NE BOUGEZ PLUS. (enfin toute la vérité sur la Suisse!)* with Château Deux, 5e Biennale Insulaire des espaces d’art de Genève, CH
+
+
+  &﻿nbps;<br>
 
   *Sun beam on sad clown*, Space Aknown, Athènes, GR
 formation_fr: >-
