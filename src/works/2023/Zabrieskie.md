@@ -77,9 +77,8 @@ description_fr: >-
   Ce tourbillon,
 
   Est-ce que ça vous réconforte?
-   
 
-   
+
   PARTIE 2
 
   Le travail de Victor part de l'absurdité de l'absolutisme et sur ce chemin, ses oeuvres prennent la
