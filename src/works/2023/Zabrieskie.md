@@ -78,6 +78,11 @@ description_fr: >-
 
   Est-ce que ça vous réconforte?
 
+  \﻿
+
+  \﻿
+
+  \﻿
 
   PARTIE 2
 
