@@ -15,13 +15,13 @@ fr_details_lieu: Capc Bordeaux, 2024
 en_details_lieu: Capc Bordeaux, 2024
 fr_type_duree: Performance
 en_type_duree: Performance
-image_couv: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1470.jpg
+image_couv: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a0209.jpg
 images:
-  - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a0209.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a0217.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1384.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1401.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1433.jpg
+  - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1470.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1438.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a1498.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a2737.jpg
