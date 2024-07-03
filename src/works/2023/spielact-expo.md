@@ -28,8 +28,6 @@ description_fr: >-
 
 
 
-
-
   *Fin du mois, joue de paie. Ou presque*
 
 
@@ -51,8 +49,6 @@ description_fr: >-
   Au cœur de cette foire fictionnelle, une scène accueillera durant deux jours une série de discussions : elles offriront un éclairage sur les enjeux liés à l’exposition et à la thématique du travail de l’art, fil rouge de la 6e édition de Spielact.
 description_en: >-
   A group show curated by Amir El May and Sylvain Gelewski
-
-
 
 
 
