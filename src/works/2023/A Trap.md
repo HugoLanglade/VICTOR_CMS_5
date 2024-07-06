@@ -2,7 +2,7 @@
 title: Atrap
 permalink: /article/a-trap.html
 numero_article: article1
-nom_lieu: A trap that doesn't kill - HEAD - Genève
+nom_lieu: A trap that doesn't kill - HEAD – Genève
 année: 2023
 mois: 9
 lien: https://vimeo.com/872564315
