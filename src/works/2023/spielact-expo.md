@@ -3,7 +3,7 @@ layout: article.njk
 title: Spielact-expo
 permalink: /article/spielact-expo.html
 numero_article: article10
-nom_lieu: Spielact Festival - Le Commun, Genève
+nom_lieu: Spielact Festival - Le Commun
 année: 2024
 mois: 6
 lien: https://spielact.ch/
