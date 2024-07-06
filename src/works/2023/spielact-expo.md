@@ -67,8 +67,8 @@ description_en: >-
 
   Au cœur de cette foire fictionnelle, une scène accueillera durant deux jours une série de discussions : elles offriront un éclairage sur les enjeux liés à l’exposition et à la thématique du travail de l’art, fil rouge de la 6e édition de Spielact.
 details_pieces_fr: >-
-  *\- ULTRA 1 & 2*, 83x107cm, acryl on wood, smoke bombs, 5 swiss francs cents,
-  2023
+  *\- ULTRA 1 & 2*, 83x107cm, acrylique sur bois, fumigènes, 5 centimes de franc
+  suisse, 2023
 
 
   \- *Comme d’habitude en été,* bois, acrylique, bande adhésive, sparklers, 2023
