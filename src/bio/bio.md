@@ -1,6 +1,6 @@
 ---
-title: BIO
 layout: base_bio.njk
+title: BIO
 permalink: /bio.html
 bio_français: >-
   Victor Delétraz (*1997) est un artiste basé à Genève, CH. Sa pratique
@@ -20,7 +20,7 @@ bio_français: >-
   Il y utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels que la fumée, le feu, la mousse, des effets superflus ou anodins, des textes, de la musique et des interactions avec le public.
 
 
-  Victor Delétraz a exposé et performé à Sofia (Bulgarie), à Athènes (Grèce), en Suisse dans plusieurs espaces d’arts indépendants comme Zabriskie, Soul2Soul RU, Topic, Espace 3353, la BIG 21 & 23 ou La Becque.
+  Victor Delétraz a exposé et performé à Sofia, à Athènes, à Bordeaux au Capc, en Suisse dans plusieurs espaces d’arts indépendants comme Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, la BIG 21 & 23 ou La Becque.
 bio_anglais: >
   Victor Delétraz is an artist based in Geneva, CH. His versatile artistic
   practice explore the fields of installation, writing, music, video, painting
@@ -39,5 +39,5 @@ bio_anglais: >
   He frequently uses a common artistic vocabulary, incorporating elements such as smoke, fire, foam, superfluous or anodyne effects, text, music and interaction with the audience.
 
 
-  Victor Delétraz has exhibited and performed in Sofia (Bulgaria), Athens (Greece), Switzerland in off-space such as Zabriskie, Soul2Soul RU, Topic, Espace 3353, BIG 21 & 23 or La Becque.
+  Victor Delétraz has exhibited and performed in Sofia, Athens, Bordeaux in Capc, Switzerland in off-spaces such as Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, BIG 21 & 23 or La Becque.
 ---
