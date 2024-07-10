@@ -37,8 +37,6 @@ description_fr: >-
   vire au cauchemar.
 
 
-
-
   ***Les paupières qui bougent la nuit :*** 
 
 
@@ -50,7 +48,9 @@ description_fr: >-
 
   Un soupçon d’humanité dans un grand cocktail de bêtise.
 
-  En faite non on va bieeeeeen tout gâcher.
+  En faite non on va bieeeeeen tout gâcher.</br> 
+
+
 
   Se taper la tête mais avec un truc mou.
 
@@ -58,7 +58,9 @@ description_fr: >-
 
   Les plumes qui volent.
 
-  Et puis ça pleure toujours à la fin.
+  Et puis ça pleure toujours à la fin.</br> 
+
+
 
   C’est bientôt le moment de m’oublier
 
@@ -72,8 +74,7 @@ description_fr: >-
 
   Vandalise ta sécurité.
 
-  La mise à feu d’un faux spectacle.
-
+  La mise à feu d’un faux spectacle.</br> 
 
 
   Un mec parle de masculinisme
@@ -86,7 +87,9 @@ description_fr: >-
 
   Il pourrait nager un peu, prendre la tasse, avoir les idées plus clairs
 
-  Mais il ne les a pas
+  Mais il ne les a pas</br> 
+
+
 
   Dans la fumée verte, rose, noir, bleue, rouge il y a de l’homophobie.
 
@@ -94,15 +97,19 @@ description_fr: >-
 
   Les hommes mettent en scène une violence physique ritualisée
 
-  et encadrée parce qu’on ne se bat plus en duel et à l’épée. Maintenant.
+  et encadrée parce qu’on ne se bat plus en duel et à l’épée. Maintenant.</br> 
 
-  Dans la fumée des produits chimiques qui ont foudroyé ma jeunesse.
+
+
+  Dans la fumée, des produits chimiques qui ont foudroyé ma jeunesse.
 
   Des batailles de tubes de néon façon épée de la guerre des étoiles.
 
-  On a du aspiré la poudre blanche de ces tubes
+  On a du aspirer la poudre blanche de ces tubes
 
-  Et devenir des sortes du monstres dans une société mutante.
+  Et devenir des sortes du monstres dans une société mutante.</br> 
+
+
 
   Je me cache derrière des impulsions
 
@@ -120,11 +127,14 @@ description_fr: >-
 
   Comme
 
-  Le Swiss Gold
+  Le Swiss Gold</br> 
+
 
   Dans les tests des égouts, toute les drogues se mélangent.
 
-  L’eau potable est psychotique, hallucinée, et gratuite, presque.
+  L’eau potable est psychotique, hallucinée, et gratuite, presque.</br> 
+
+
 
   Dans un cauchemar qui se déguise en rêve,
 
@@ -136,15 +146,21 @@ description_fr: >-
 
   Comme on pouvait croire dans les années 50,
 
-  avec des électrochoc qu’on allait guérir les
+  avec des électrochoc qu’on allait guérir les</br> 
 
-  Ouf.
+
+
+  Ouf.</br> 
+
+
 
   Le soleil défonce la fenêtre.
 
   Défonce les yeux
 
-  Défonce la défonce
+  Défonce la défonce</br> 
+
+
 
   Un matin j’ai eu envie de me battre
 
@@ -152,23 +168,27 @@ description_fr: >-
 
   Un ordre dit qu’il faut aller plus vite.
 
-  Etre proactif.
+  Être proactif.
 
   Puis
 
-  Etre post-fatigue
+  Être post-fatigue
 
   Les endroits safe dans mon cerveau
 
   s’en vont direction une île nommée
 
-  ANGST. Angoscia. Angustia. Ängste. Angoisse. ETC
+  ANGST. Angoscia. Angustia. Ängste. Angoisse. ETC</br> 
+
+
 
   C’est triste en faite.
 
   C’est incertain en faite
 
-  C’est la vie. D’être triste en faite.
+  C’est la vie. D’être triste en faite.</br> 
+
+
 
   On dort sur des lit trop mous avec des coussins en caillou,
 
@@ -176,7 +196,9 @@ description_fr: >-
 
   Des coussins qui prenne pas la forme de la tête,
 
-  c’est la tête, molle qui prend la forme des coussins.
+  c’est la tête, molle qui prend la forme des coussins.</br> 
+
+
 
   C’est qu’il faut se lever, être affirmé encore plus qu’avant.
 
@@ -200,7 +222,9 @@ description_fr: >-
 
   Gifler un punching-ball, c’est fait pour,
 
-  c’est du cuir ou du synthé, c’est pour taper dedans.
+  c’est du cuir ou du synthé, c’est pour taper dedans.</br> 
+
+
 
   Les paupière qui bougent la nuit parce qu’il y a encore beaucoup à faire, le lendemain.
 description_en: The Swiss artist deploys a performance in several chapters
