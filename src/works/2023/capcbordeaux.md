@@ -34,7 +34,10 @@ description_fr: >-
   tout le musée (devant ses portes, sur les mezzanines et sur les terrasses).
   Mêlant textes, fumigènes, feux d’artifices et autres accessoires insolites et
   effets spéciaux, ses interventions tissent une narration autour d’une fête qui
-  vire au cauchemar. </br> 
+  vire au cauchemar. </br>
+
+
+  </br> 
 
 
 
