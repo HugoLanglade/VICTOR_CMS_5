@@ -429,22 +429,8 @@ description_en: >-
 
 
   Les paupière qui bougent la nuit parce qu’il y a encore beaucoup à faire, le lendemain.
-details_pieces_fr: |-
-  3 interventions dans la soirée :
-
-  \- *Les cœurs qui dorment le jour*
-
-  \- *Shark thooth, real estate & sliding business.*
-
-  \- *Les paupières qui bougent la nuit.*
-details_pieces_en: |-
-  3 performances during the evening :
-
-  \- *Les cœurs qui dorment le jour*
-
-  \- *Shark thooth, real estate & sliding business.*
-
-  \- *Les paupières qui bougent la nuit.*
+details_pieces_fr: ""
+details_pieces_en: ""
 credits: "Photos : © Arthur Pequin"
 vimeo_src: x
 ---
