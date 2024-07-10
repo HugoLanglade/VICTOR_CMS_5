@@ -249,13 +249,19 @@ description_en: >-
   nightmare.</br> 
 
 
-  TEXT IN FRENCH ->>>>>></br> 
+  3 performances during the night:
 
 
-  ***Les paupières qui bougent la nuit :***
+  \- *Les cœurs qui dorment le jour*
 
 
-  ***(eyelids that move at night )***  
+  \- *Shark thooth, real estate & sliding business.*
+
+
+  \- *Les paupières qui bougent la nuit.*</br>
+
+
+  Text in french read during the last performance:</br>
 
 
   Le coussin figé dit :
