@@ -34,7 +34,9 @@ description_fr: >-
   tout le musée (devant ses portes, sur les mezzanines et sur les terrasses).
   Mêlant textes, fumigènes, feux d’artifices et autres accessoires insolites et
   effets spéciaux, ses interventions tissent une narration autour d’une fête qui
-  vire au cauchemar.</br> 
+  vire au cauchemar. </br> 
+
+
 
 
   3 interventions durant la soirée:
@@ -46,12 +48,14 @@ description_fr: >-
   \- *Shark thooth, real estate & sliding business.*
 
 
-  \- *Les paupières qui bougent la nuit.*</br>
+  \- *Les paupières qui bougent la nuit .*</br>
 
 
 
 
-  **Texte lu durant la performance *"Les paupières qui bougent la nuit" :*** 
+  **Texte lu durant la performance *"Les paupières qui bougent la nuit" :*** </br>
+
+
 
 
   Le coussin figé dit :
@@ -62,8 +66,7 @@ description_fr: >-
 
   Un soupçon d’humanité dans un grand cocktail de bêtise.
 
-  En faite non on va bieeeeeen tout gâcher.</br> 
-
+  En faite non on va bieeeeeen tout gâcher. </br> 
 
 
   Se taper la tête mais avec un truc mou.
@@ -72,8 +75,7 @@ description_fr: >-
 
   Les plumes qui volent.
 
-  Et puis ça pleure toujours à la fin.</br> 
-
+  Et puis ça pleure toujours à la fin. </br> 
 
 
   C’est bientôt le moment de m’oublier
@@ -88,7 +90,7 @@ description_fr: >-
 
   Vandalise ta sécurité.
 
-  La mise à feu d’un faux spectacle.</br> 
+  La mise à feu d’un faux spectacle. </br> 
 
 
   Un mec parle de masculinisme
@@ -101,8 +103,7 @@ description_fr: >-
 
   Il pourrait nager un peu, prendre la tasse, avoir les idées plus clairs
 
-  Mais il ne les a pas</br> 
-
+  Mais il ne les a pas </br> 
 
 
   Dans la fumée verte, rose, noir, bleue, rouge il y a de l’homophobie.
@@ -111,8 +112,7 @@ description_fr: >-
 
   Les hommes mettent en scène une violence physique ritualisée
 
-  et encadrée parce qu’on ne se bat plus en duel et à l’épée. Maintenant.</br> 
-
+  et encadrée parce qu’on ne se bat plus en duel et à l’épée. Maintenant. </br> 
 
 
   Dans la fumée, des produits chimiques qui ont foudroyé ma jeunesse.
@@ -121,8 +121,7 @@ description_fr: >-
 
   On a du aspirer la poudre blanche de ces tubes
 
-  Et devenir des sortes du monstres dans une société mutante.</br> 
-
+  Et devenir des sortes du monstres dans une société mutante. </br> 
 
 
   Je me cache derrière des impulsions
@@ -141,13 +140,12 @@ description_fr: >-
 
   Comme
 
-  Le Swiss Gold</br> 
+  Le Swiss Gold </br> 
 
 
   Dans les tests des égouts, toute les drogues se mélangent.
 
-  L’eau potable est psychotique, hallucinée, et gratuite, presque.</br> 
-
+  L’eau potable est psychotique, hallucinée, et gratuite, presque .</br> 
 
 
   Dans un cauchemar qui se déguise en rêve,
@@ -160,20 +158,17 @@ description_fr: >-
 
   Comme on pouvait croire dans les années 50,
 
-  avec des électrochoc qu’on allait guérir les</br> 
+  avec des électrochoc qu’on allait guérir les </br> 
 
 
-
-  Ouf.</br> 
-
+  Ouf. </br> 
 
 
   Le soleil défonce la fenêtre.
 
   Défonce les yeux
 
-  Défonce la défonce</br> 
-
+  Défonce la défonce </br> 
 
 
   Un matin j’ai eu envie de me battre
@@ -192,16 +187,14 @@ description_fr: >-
 
   s’en vont direction une île nommée
 
-  ANGST. Angoscia. Angustia. Ängste. Angoisse. ETC</br> 
-
+  ANGST. Angoscia. Angustia. Ängste. Angoisse. ETC </br> 
 
 
   C’est triste en faite.
 
   C’est incertain en faite
 
-  C’est la vie. D’être triste en faite.</br> 
-
+  C’est la vie. D’être triste en faite. </br> 
 
 
   On dort sur des lit trop mous avec des coussins en caillou,
@@ -210,8 +203,7 @@ description_fr: >-
 
   Des coussins qui prenne pas la forme de la tête,
 
-  c’est la tête, molle qui prend la forme des coussins.</br> 
-
+  c’est la tête, molle qui prend la forme des coussins. </br> 
 
 
   C’est qu’il faut se lever, être affirmé encore plus qu’avant.
@@ -236,8 +228,7 @@ description_fr: >-
 
   Gifler un punching-ball, c’est fait pour,
 
-  c’est du cuir ou du synthé, c’est pour taper dedans.</br> 
-
+  c’est du cuir ou du synthé, c’est pour taper dedans. </br> 
 
 
   Les paupière qui bougent la nuit parce qu’il y a encore beaucoup à faire, le lendemain.
@@ -246,7 +237,7 @@ description_en: >-
   museum (in front of the doors, on the mezzanines and on the terraces).
   Combining text, smoke bombs, fireworks and other unusual props and special
   effects, his interventions weave a narrative around a party that turns into a
-  nightmare.</br> 
+  nightmare. </br> 
 
 
   3 performances during the night:
@@ -258,10 +249,10 @@ description_en: >-
   \- *Shark thooth, real estate & sliding business.*
 
 
-  \- *Les paupières qui bougent la nuit.*</br>
+  \- *Les paupières qui bougent la nuit.* </br>
 
 
-  Text in french read during the last performance:</br>
+  **Text in french read during the last performance:** </br>
 
 
   Le coussin figé dit :
@@ -272,8 +263,7 @@ description_en: >-
 
   Un soupçon d’humanité dans un grand cocktail de bêtise.
 
-  En faite non on va bieeeeeen tout gâcher.</br> 
-
+  En faite non on va bieeeeeen tout gâcher. </br> 
 
 
   Se taper la tête mais avec un truc mou.
@@ -282,8 +272,7 @@ description_en: >-
 
   Les plumes qui volent.
 
-  Et puis ça pleure toujours à la fin.</br> 
-
+  Et puis ça pleure toujours à la fin. </br> 
 
 
   C’est bientôt le moment de m’oublier
@@ -298,7 +287,7 @@ description_en: >-
 
   Vandalise ta sécurité.
 
-  La mise à feu d’un faux spectacle.</br> 
+  La mise à feu d’un faux spectacle. </br> 
 
 
   Un mec parle de masculinisme
@@ -311,8 +300,7 @@ description_en: >-
 
   Il pourrait nager un peu, prendre la tasse, avoir les idées plus clairs
 
-  Mais il ne les a pas</br> 
-
+  Mais il ne les a pas </br> 
 
 
   Dans la fumée verte, rose, noir, bleue, rouge il y a de l’homophobie.
@@ -321,8 +309,7 @@ description_en: >-
 
   Les hommes mettent en scène une violence physique ritualisée
 
-  et encadrée parce qu’on ne se bat plus en duel et à l’épée. Maintenant.</br> 
-
+  et encadrée parce qu’on ne se bat plus en duel et à l’épée. Maintenant. </br> 
 
 
   Dans la fumée, des produits chimiques qui ont foudroyé ma jeunesse.
@@ -331,8 +318,7 @@ description_en: >-
 
   On a du aspirer la poudre blanche de ces tubes
 
-  Et devenir des sortes du monstres dans une société mutante.</br> 
-
+  Et devenir des sortes du monstres dans une société mutante. </br> 
 
 
   Je me cache derrière des impulsions
@@ -351,13 +337,12 @@ description_en: >-
 
   Comme
 
-  Le Swiss Gold</br> 
+  Le Swiss Gold </br> 
 
 
   Dans les tests des égouts, toute les drogues se mélangent.
 
-  L’eau potable est psychotique, hallucinée, et gratuite, presque.</br> 
-
+  L’eau potable est psychotique, hallucinée, et gratuite, presque. </br> 
 
 
   Dans un cauchemar qui se déguise en rêve,
@@ -370,20 +355,17 @@ description_en: >-
 
   Comme on pouvait croire dans les années 50,
 
-  avec des électrochoc qu’on allait guérir les</br> 
+  avec des électrochoc qu’on allait guérir les </br> 
 
 
-
-  Ouf.</br> 
-
+  Ouf. </br> 
 
 
   Le soleil défonce la fenêtre.
 
   Défonce les yeux
 
-  Défonce la défonce</br> 
-
+  Défonce la défonce </br> 
 
 
   Un matin j’ai eu envie de me battre
@@ -402,16 +384,14 @@ description_en: >-
 
   s’en vont direction une île nommée
 
-  ANGST. Angoscia. Angustia. Ängste. Angoisse. ETC</br> 
-
+  ANGST. Angoscia. Angustia. Ängste. Angoisse. ETC </br> 
 
 
   C’est triste en faite.
 
   C’est incertain en faite
 
-  C’est la vie. D’être triste en faite.</br> 
-
+  C’est la vie. D’être triste en faite. </br> 
 
 
   On dort sur des lit trop mous avec des coussins en caillou,
@@ -420,8 +400,7 @@ description_en: >-
 
   Des coussins qui prenne pas la forme de la tête,
 
-  c’est la tête, molle qui prend la forme des coussins.</br> 
-
+  c’est la tête, molle qui prend la forme des coussins. </br> 
 
 
   C’est qu’il faut se lever, être affirmé encore plus qu’avant.
@@ -446,8 +425,7 @@ description_en: >-
 
   Gifler un punching-ball, c’est fait pour,
 
-  c’est du cuir ou du synthé, c’est pour taper dedans.</br> 
-
+  c’est du cuir ou du synthé, c’est pour taper dedans. </br> 
 
 
   Les paupière qui bougent la nuit parce qu’il y a encore beaucoup à faire, le lendemain.
