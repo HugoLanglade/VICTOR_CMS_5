@@ -37,7 +37,21 @@ description_fr: >-
   vire au cauchemar.</br> 
 
 
-  ***Les paupières qui bougent la nuit :*** 
+  3 interventions durant la soirée:
+
+
+  \- *Les cœurs qui dorment le jour*
+
+
+  \- *Shark thooth, real estate & sliding business.*
+
+
+  \- *Les paupières qui bougent la nuit.*</br>
+
+
+
+
+  **Texte lu durant la performance *"Les paupières qui bougent la nuit" :*** 
 
 
   Le coussin figé dit :
