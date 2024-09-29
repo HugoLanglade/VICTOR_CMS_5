@@ -32,7 +32,7 @@ description_fr: >-
   Allschwill, CH.  </br> 
 
 
-  Une invitation de l'espace d'art Palazzina.
+  Une invitation de l'espace d'art Palazzina. </br> 
 
 
   Line Up:\
@@ -49,7 +49,7 @@ description_fr: >-
 
   08:45 PM Victor Delétraz\
 
-  10:00 PM End
+  10:00 PM End </br> 
 
 
   TXT in Englishhhhh:
