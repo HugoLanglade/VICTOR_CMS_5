@@ -18,8 +18,11 @@ en_type_duree: One-day performance program
 image_couv: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_035.jpg
 images:
   - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_036.jpg
-description_fr: cccc
-description_en: cccc
+description_fr: xxxx
+description_en: |-
+  One-Day Only, Performance Day\
+  at Ehemaliges Postamt-Lager: Baslerstrasse 103, 4123 Allschwil\
+  🚋 Tram 6: Gartenstrasse </br>
 details_pieces_fr: cccc
 details_pieces_en: ccc
 credits: "Photos : Thalles Piaget"
