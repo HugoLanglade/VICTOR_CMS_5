@@ -27,13 +27,95 @@ images:
   - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_041.jpg
   - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_042.jpg
   - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_043.jpg
-description_fr: xxxx
+description_fr: >-
+  Programme de performance sur un jour dans un ancien entrepôt de la Poste à
+  Allschwill, CH.  </br> 
+
+
+  Une invitation de l'espace d'art Palazzina.
+
+
+  Line Up:\
+
+  04:00 PM Open Doors\
+
+  04:30 PM Ernestyna Orlowska\
+
+  05:30 PM X Schneeberger\
+
+  06:30 PM Juliette Uzor\
+
+  07:45 PM Anina Müller\
+
+  08:45 PM Victor Delétraz\
+
+  10:00 PM End
 description_en: |-
-  One-Day Only, Performance Day\
-  at Ehemaliges Postamt-Lager: Baslerstrasse 103, 4123 Allschwil\
-  🚋 Tram 6: Gartenstrasse </br>
-details_pieces_fr: cccc
-details_pieces_en: ccc
+  One-day performance program in a old warehouse from La Poste in Allschwil, CH.
+
+  A invitation by Palazzina off-space.
+
+  Line Up:\
+  04:00 PM Open Doors\
+  04:30 PM Ernestyna Orlowska\
+  05:30 PM X Schneeberger\
+  06:30 PM Juliette Uzor\
+  07:45 PM Anina Müller\
+  08:45 PM Victor Delétraz\
+  10:00 PM End
+
+
+
+  TXT:
+
+  FROGS ARE IN THE POND
+  IN THE GREEN POOL
+  AROUND THE SMALL POND
+  THERE IS A SCULPTURE IN WOOD SURROUNDING THE POND
+  THIS CREATES A FENCE
+  IT DEFINES A PERIMETER
+  A DESIGN STRUCTURE
+  DESIGNED BY DESIGNERS
+  DESIGNERS FOR NATURE DESIGNERS FOR HUMAN RELATIVITY IN RELATION WITH NATURE
+  DESIGNERS FOR A BETTER TOMORROW 
+
+  THE STRUCTURE IS
+  AS A JAIL
+  FROGS IN JAIL
+  FROGS ARE CROAKING, 
+  IN FRENCH WE SAY LES GRENOUILLES COASSENT
+  SO CROAKING
+  SPEAKING
+  SINGING
+  WHISPERING
+  SCREAMING
+
+  FRÖSCHE QUAKEN
+
+  I WEISS NICHT
+  IST ES RICHTIG ODER FALSCHE
+  ICH BIN EIN FROSCH
+
+  SO HUMANS ARE LOOKING AT THE FROGS, WATCHING THEM
+  TROUGH THIS DESIGNED WOOD SCULPTURE STRUCTURE FENCE, NOT FANCY.
+  THERE ARE INVISIBLE INSIDE THE WATER LILI
+  IT’S NYMPHAECAE
+  SWELLING THE TROAT
+  INFLATING INFLATING
+
+  I HAVE SO MANY SADNESS IN MY STOMACH
+  MY SOUL IS GREY
+  MY SOUL IS A SPONGE AND I CLEAN MY RUSTY HEART,
+  THAT’S HURT BUT THAT’S LIFE.
+
+  THE FROGS ARE TELLING TO ME IN MY EAR, AS A SECRET:
+
+  WE ARE SLIMY 
+  YOU ARE HARD LIKE A STONE
+  RELAX
+  BECOMING A TADPOLE AND SHUTING YOUR MOUTH A LITTLE BIT
+details_pieces_fr: Performance 21', matériaux divers
+details_pieces_en: Performance 21', various materials
 credits: |-
   Music production : Chien Gteau
 
