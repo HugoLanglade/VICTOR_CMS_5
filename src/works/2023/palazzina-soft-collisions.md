@@ -32,7 +32,7 @@ description_fr: >-
   Allschwill, CH.  </br> 
 
 
-  Une invitation de l'espace d'art Palazzina. </br> 
+  Une invitation de l'espace d'art Palazzina. 💚 </br> 
 
 
   Line Up:\
