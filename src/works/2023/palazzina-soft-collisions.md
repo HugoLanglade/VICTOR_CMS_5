@@ -29,10 +29,10 @@ images:
   - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_043.jpg
 description_fr: >-
   Programme de performance sur un jour dans un ancien entrepôt de la Poste à
-  Allschwill, CH.  </br> 
+  Allschwill, CH.</br> 
 
 
-  Une invitation de l'espace d'art Palazzina. 💚 </br> 
+  Une invitation de l'espace d'art Palazzina. 💚</br> 
 
 
   Line Up:\
@@ -49,7 +49,7 @@ description_fr: >-
 
   08:45 PM Victor Delétraz\
 
-  10:00 PM End </br> 
+  10:00 PM End</br> 
 
 
   TXT in Englishhhhh:
@@ -142,7 +142,7 @@ description_fr: >-
 description_en: |-
   One-day performance program in a old warehouse from La Poste in Allschwil, CH.
 
-  A invitation by Palazzina off-space. </br> 
+  A invitation by Palazzina off-space.</br> 
 
   Line Up:\
   04:00 PM Open Doors\
@@ -151,7 +151,7 @@ description_en: |-
   06:30 PM Juliette Uzor\
   07:45 PM Anina Müller\
   08:45 PM Victor Delétraz\
-  10:00 PM End </br> 
+  10:00 PM End</br> 
 
   TXT:
 
