@@ -142,7 +142,7 @@ description_fr: >-
 description_en: |-
   One-day performance program in a old warehouse from La Poste in Allschwil, CH.
 
-  A invitation by Palazzina off-space.
+  A invitation by Palazzina off-space. </br> 
 
   Line Up:\
   04:00 PM Open Doors\
@@ -151,9 +151,7 @@ description_en: |-
   06:30 PM Juliette Uzor\
   07:45 PM Anina Müller\
   08:45 PM Victor Delétraz\
-  10:00 PM End
-
-
+  10:00 PM End </br> 
 
   TXT:
 
