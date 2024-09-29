@@ -34,6 +34,11 @@ description_en: |-
   🚋 Tram 6: Gartenstrasse </br>
 details_pieces_fr: cccc
 details_pieces_en: ccc
-credits: "Photos : Thalles Piaget"
+credits: |-
+  Music production : Chien Gteau
+
+  Assistance : Julien Horni
+
+  Photos : Thalles Piaget
 vimeo_src: x
 ---
