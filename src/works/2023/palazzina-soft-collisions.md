@@ -18,6 +18,15 @@ en_type_duree: One-day performance program
 image_couv: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_035.jpg
 images:
   - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_036.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_037.jpg
+  - path: /images/uploads/270924_palazzina_soft-collisions_©thallespiaget_scarf_002.jpg
+  - path: /images/uploads/270924_palazzina_soft-collisions_©thallespiaget_scarf_001.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_038.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_039.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_040.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_041.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_042.jpg
+  - path: /images/uploads/230924_palazzina_soft-collisions_©thallespiaget_043.jpg
 description_fr: xxxx
 description_en: |-
   One-Day Only, Performance Day\
