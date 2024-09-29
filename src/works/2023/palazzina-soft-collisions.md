@@ -254,7 +254,7 @@ description_en: >-
 details_pieces_fr: Performance 21', matériaux divers
 details_pieces_en: Performance 21', various materials
 credits: |-
-  Music production : Chien Gteau 🎁
+  Music production : Chien Gteau ☯
 
   Assistance : Julien Horni
 
