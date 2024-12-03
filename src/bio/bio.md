@@ -21,6 +21,9 @@ bio_français: >-
 
 
   Victor Delétraz a exposé et performé à Sofia, à Athènes, à Bordeaux au Capc, en Suisse dans plusieurs espaces d’arts indépendants comme Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, la BIG 21 & 23 ou La Becque.
+
+
+  Il est actuellement résident pour la saison 2024/25 à l'Abri - Genève
 bio_anglais: >
   Victor Delétraz is an artist based in Geneva, CH. His versatile artistic
   practice explore the fields of installation, writing, music, video, painting
@@ -40,4 +43,7 @@ bio_anglais: >
 
 
   Victor Delétraz has exhibited and performed in Sofia, Athens, Bordeaux in Capc, Switzerland in off-spaces such as Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, BIG 21 & 23 or La Becque.
+
+
+  He is currently resident for the 2024/25 season in l'Abri - Genève.
 ---
