@@ -6,7 +6,7 @@ layout: base_contact.njk
 nom_adresse: |-
   Victor Delétraz
   Studio
-  Marbrerie 13, 1﻿227 Carouge
+  Coulouvrenière 11, 1﻿204 Genève
 mail: victordeletraz@gmail.com
 instagram_link: https://www.instagram.com/claude.tonnerre/
 ---
