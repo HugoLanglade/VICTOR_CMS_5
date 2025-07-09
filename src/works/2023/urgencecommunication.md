@@ -19,7 +19,7 @@ image_couv: /images/uploads/25-victor-abri-©remyugartevallejos-13.jpg
 images:
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-01.jpg
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-02.jpg
-  - path: /images/uploads/25-victor-abri-©remyugartevallejos-03.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-10.jpg
 description_fr: >-
   Sortie de résidence durant les portes ouvertes de l'Abri - Genève. Performance
   longue durée de 150 minutes.</br> 
