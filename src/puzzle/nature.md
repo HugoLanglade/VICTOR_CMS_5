@@ -1,6 +1,6 @@
 ---
 layout: base_puzzle.njk
-title: nature
+title: 1.nature
 permalink: /puzzle/nature.html
 texte: |-
   nature, mature is OUT !!!!!!
