@@ -164,6 +164,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "base_puzzle.njk"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
       - {label: "Texte", name: "texte", widget: "markdown", required: false}
       - {label: "Lien", name: "lien", widget: "string", required: false}
