@@ -1,6 +1,7 @@
 ---
 layout: base_puzzle.njk
 title: premier
+date: 2024-05-18T10:02:16.335Z
 permalink: /puzzle/premier.html
 texte: |-
   The flags are dancing in the sky.
