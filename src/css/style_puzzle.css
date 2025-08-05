@@ -81,6 +81,12 @@ body, html, * {
     align-items: center;
 }
 
+.sous-contenu:not(:last-child) {
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #ccc; /* thin gray line */
+}
+
 .contenu_gauche {
     display: flex;
     /* flex-direction: column; */
