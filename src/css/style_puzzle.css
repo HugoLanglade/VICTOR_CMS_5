@@ -89,7 +89,7 @@ body, html, * {
 
 .contenu_gauche {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     width: 100vw;
     padding-left: 1vw;
     padding-right: 1vw;
