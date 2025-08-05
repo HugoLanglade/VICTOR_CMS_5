@@ -1,6 +1,7 @@
 ---
 layout: base_puzzle.njk
 title: second
+date: 2024-05-19T10:04:08.548Z
 permalink: /puzzle/second.html
 texte: |-
   ACTIVITE BESOGNE RESULTAT 
