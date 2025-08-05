@@ -1,7 +1,7 @@
 ---
 layout: base_puzzle.njk
 title: release
-date: 2025-08-06T09:59:24.140Z
+date: 2025-06-27T09:59:24.140Z
 permalink: /puzzle/release.html
 texte: >-
   release party of nature, mature by sasa delay & chien gteau (my very first
