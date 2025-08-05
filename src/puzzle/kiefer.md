@@ -1,6 +1,7 @@
 ---
 layout: base_puzzle.njk
 title: kiefer
+date: 2024-06-10T10:03:15.446Z
 permalink: /puzzle/kiefer.html
 texte: |
   Kiefer Hablitzel │ Göhner Art Prize
