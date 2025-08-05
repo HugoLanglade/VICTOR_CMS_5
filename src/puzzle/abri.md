@@ -1,6 +1,7 @@
 ---
 layout: base_puzzle.njk
 title: abri
+date: 2024-09-01T10:05:00.650Z
 permalink: /puzzle/abri.html
 texte: >-
   parler des murs privés qui appartiennent à tout le monde\
