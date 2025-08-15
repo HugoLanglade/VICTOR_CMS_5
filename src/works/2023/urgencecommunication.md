@@ -22,6 +22,16 @@ images:
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-10.jpg
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-03.jpg
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-07.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-08.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-11.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-14.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-15.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-16.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-17.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-19.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-24.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-25.jpg
+  - path: /images/uploads/25-victor-abri-©remyugartevallejos-28.jpg
 description_fr: >-
   Sortie de résidence durant les portes ouvertes de l'Abri - Genève. Performance
   longue durée de 150 minutes.</br> 
@@ -94,6 +104,6 @@ credits: >-
   Lights: Charlotte Roche-Meredith
 
 
-  Photos : Remy Ugarte Vallejos & Seraphine Sallin-Mason
+  Photos : Remy Ugarte Vallejos
 vimeo_src: x
 ---
