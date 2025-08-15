@@ -94,6 +94,6 @@ credits: >-
   Lights: Charlotte Roche-Meredith
 
 
-  Photos : Remy Ugarte Vallejos
+  Photos : Remy Ugarte Vallejos & Seraphine Sallin-Mason
 vimeo_src: x
 ---
