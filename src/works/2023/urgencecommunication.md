@@ -17,6 +17,7 @@ fr_type_duree: Performance, 150min
 en_type_duree: Performance, 150min
 image_couv: /images/uploads/25-victor-abri-©remyugartevallejos-13.jpg
 images:
+  - path: /images/uploads/gif-insta3.gif
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-01.jpg
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-02.jpg
   - path: /images/uploads/25-victor-abri-©remyugartevallejos-10.jpg
