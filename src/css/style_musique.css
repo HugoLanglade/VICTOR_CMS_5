@@ -1,0 +1,139 @@
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+body, html, * {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* HEADER */
+
+.nav_bar {
+    display: flex;
+    justify-content: space-between; /* Align items to the left */
+    align-items:center; /* Align items to the left */
+    width: 100vw;
+    height: 12vh;
+    /* background-color: rgb(196, 11, 11); */
+}
+
+.music_logo {
+    display: none;
+}
+
+.tourne_disc {
+    display: flex;
+    width: 8vw;
+    padding-left: 14vw;
+    padding-top: 6vh;
+}
+
+.nav_icon {
+    display:flex;
+    align-self:center;
+    width: 8vw;
+    padding-top: 6vh;
+    padding-right:2vw;
+    float:right;
+}
+
+
+
+/* Remove the blue color on hover for all images */
+img {
+    user-select: none;
+}
+
+.background_musique {
+    width: 100vw;
+    height: 100vh;
+}
+
+.liens_musique {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 13vh;
+    margin-left: 5vw;
+    width: 34vw;
+}
+
+.lien_spotify {
+    margin-bottom: -2%;
+}
+
+
+
+body {
+    background: url('./Version2/background-transparent-1980x1080.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+/* FORMAT TELEPHONE */
+
+@media all and (max-width: 992px) {
+
+.nav_bar { 
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.music_logo {
+    display: flex;
+}
+
+.nav_icon {
+    display: flex;
+    width: 20vw;
+    height: auto;
+    margin-left: auto;
+    padding-right: 2vw;
+    padding-top: 0vh; 
+    float: right;    
+}
+
+.lien_icon {
+    padding-left: 29vw;
+}
+
+.tourne_disc {
+    display: flex;
+    width: 16vw;
+    height: auto;
+    justify-items: center;
+    padding-top: 0vh;
+    padding-left: 0vw;
+}
+
+.liens_musique {
+    position: relative;
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0vh;
+    margin-left: 0vw;
+}
+
+.lien_spotify, .lien_bandcamp, .lien_youtube {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: url('./Version2/responsive-844x1500-background\ V2.png') no-repeat center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+}
