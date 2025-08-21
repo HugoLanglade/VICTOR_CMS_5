@@ -70,7 +70,7 @@ img {
 
 
 body {
-    background: url("./assets/images_rework/background-transparent-1980x1080.png");
+    background: url("../assets/images_rework/background-transparent-1980x1080.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -129,7 +129,7 @@ body {
 }
 
 body {
-    background: url('./assets/images_rework/responsive-844x1500-background\ V2.png') no-repeat center center;
+    background: url("../assets/images_rework/responsive-844x1500-background V2.png") no-repeat center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
