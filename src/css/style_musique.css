@@ -41,6 +41,10 @@ body, html, * {
     float:right;
 }
 
+.logo_youtube {
+    margin-top: -7vh;
+}
+
 
 
 /* Remove the blue color on hover for all images */
