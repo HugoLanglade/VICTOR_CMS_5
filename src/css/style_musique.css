@@ -124,7 +124,7 @@ body {
     height: 70vh;
     display: flex;
     flex-direction: column;
-    margin-top: 0vh;
+    margin-top: 3vh;
     margin-left: 0vw;
 }
 
@@ -134,7 +134,7 @@ body {
 }
 
 .logo_bandcamp, .logo_spotify, .logo_youtube {
-    width: 95vw;
+    width: 90vw;
 }
 
 body {
