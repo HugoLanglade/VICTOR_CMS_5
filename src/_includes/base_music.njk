@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="./assets/images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="./style_musique.css" />
+    <title>MUSIQUE</title>
+</head>
+    <div class="nav_bar">
+    <img src="./Version2/logo_musique.png" class="music_logo">
+    <img src="./Version2/disc-tourne-transparent.gif" class="tourne_disc">
+    <a href='/contact' class="lien_icon">
+      <img src="./Version2/nav_icon2.png" class="nav_icon"/>
+    </a>
+    </div>
+<body> 
+    <div class="liens_musique">
+        {% for music in collections.music %}
+        <a class='lien_bandcamp' href="{{music.data.bandcamp}}"><img class="logo_bandcamp" src="./Version2/button-bandcamp-new.png"></a>
+        <a class='lien_spotify' href="{{music.data.spotify}}"><img class="logo_spotify" src="./Version2/button-spotify-new.png"></a>
+        <a class='lien_youtube' href="{{music.data.youtube}}"><img class="logo_youtube" src="./Version2/button-youtube-new.png"></a>
+        {% endfor %}
+    </div>
+</body>
+</html>
