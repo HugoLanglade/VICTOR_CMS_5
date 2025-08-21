@@ -15,6 +15,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/images/uploads");
   eleventyConfig.addPassthroughCopy("./src/puzzle.html");
   eleventyConfig.addPassthroughCopy("./src/puzzle/");
+  eleventyConfig.addPassthroughCopy("./src/music.html");
+  eleventyConfig.addPassthroughCopy("./src/music/");
+  eleventyConfig.addPassthroughCopy("./src/_includes/base_music.njk");
   eleventyConfig.addPassthroughCopy("./src/_includes/base_puzzle.njk");
   eleventyConfig.addPassthroughCopy("./src/_includes/");
   eleventyConfig.addPassthroughCopy("./src/js/works_js/menuprojets_phone2.js");
