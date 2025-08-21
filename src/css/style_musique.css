@@ -102,15 +102,12 @@ body {
     display: flex;
     width: 20vw;
     height: auto;
-    margin-left: auto;
+    padding-left: 20vw;
     padding-right: 2vw;
     padding-top: 0vh; 
     float: right;    
 }
 
-.lien_icon {
-    padding-left: 29vw;
-}
 
 .tourne_disc {
     display: flex;
