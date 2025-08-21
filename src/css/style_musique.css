@@ -136,6 +136,11 @@ body {
     justify-content: center;
 }
 
+.logo_bandcamp, .logo_spotify, .logo_youtube {
+    max-height: 25vh;
+    width: 65vw;
+}
+
 body {
     background: url("../assets/images_rework/responsive-844x1500-background V2.png") no-repeat center center;
     background-repeat: no-repeat;
