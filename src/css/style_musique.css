@@ -45,6 +45,10 @@ body, html, * {
     margin-top: -7vh;
 }
 
+.logo_bandcamp:hover, .logo_spotify:hover , .logo_youtube:hover {
+    opacity: 0.5;
+}
+
 
 
 /* Remove the blue color on hover for all images */
