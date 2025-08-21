@@ -88,6 +88,21 @@ img {
     position: relative;
 }
 
+.principal_droite {
+    display: flex;
+    width: 25vw;
+    height: 70vh;
+    position: relative;
+    align-items: end;
+}
+
+.logo_music {
+    display: flex;
+    height: 15vh;
+    padding-left: 7vw;
+    padding-bottom: 22vh;
+}
+
 /* Image Website By */ 
 .link_website_by {
     display: flex;
@@ -147,7 +162,7 @@ margin-bottom: 37%;
     max-height: 23vw;
 }
 
-.logo_works:hover, .logo_bio:hover , .logo_cv:hover {
+.logo_works:hover, .logo_bio:hover , .logo_cv:hover, .logo_music:hover {
     opacity: 0.5;
 }
 
