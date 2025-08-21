@@ -92,6 +92,7 @@ body {
     display: flex;
     align-items: flex-start;
     justify-content: space-around;
+    margin-top: 1vh;
 }
 
 .music_logo {
@@ -134,7 +135,7 @@ body {
 }
 
 .logo_bandcamp, .logo_spotify, .logo_youtube {
-    width: 90vw;
+    width: 93vw;
 }
 
 body {
