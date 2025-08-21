@@ -170,4 +170,15 @@ collections:
       - {label: "Lien", name: "lien", widget: "string", required: false}
       - {label: "Texte du lien", name: "texte_lien", widget: "string", required: false}
       - {label: "Images", name: "images", widget: "list", fields: [{label: "Path", name: "path", widget: "image"}], required: false}
-
+  - name: "music"
+    label: "Music"
+    folder: "src/music"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "hidden", default: "/music.html" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "base_music.njk" }
+      - { label: "Bandcamp", name: "bandcamp", widget: "string" }
+      - { label: "Spotify", name: "spotify", widget: "string" }
+      - { label: "YouTube", name: "youtube", widget: "string" }
