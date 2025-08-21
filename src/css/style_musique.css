@@ -136,6 +136,7 @@ body {
 
 .logo_bandcamp, .logo_spotify, .logo_youtube {
     width: 93vw;
+    max-height: 93vh;
 }
 
 body {
