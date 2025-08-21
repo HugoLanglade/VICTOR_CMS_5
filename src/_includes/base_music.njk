@@ -9,18 +9,18 @@
     <title>MUSIQUE</title>
 </head>
     <div class="nav_bar">
-    <img src="./Version2/logo_musique.png" class="music_logo">
-    <img src="./Version2/disc-tourne-transparent.gif" class="tourne_disc">
+    <img src="./assets/images_rework/logo_musique.png" class="music_logo">
+    <img src="./assets/images_rework/disc-tourne-transparent.gif" class="tourne_disc">
     <a href='/contact' class="lien_icon">
-      <img src="./Version2/nav_icon2.png" class="nav_icon"/>
+      <img src="./assets/images_rework/nav_icon2.png" class="nav_icon"/>
     </a>
     </div>
 <body> 
     <div class="liens_musique">
         {% for music in collections.music %}
-        <a class='lien_bandcamp' href="{{music.data.bandcamp}}"><img class="logo_bandcamp" src="./Version2/button-bandcamp-new.png"></a>
-        <a class='lien_spotify' href="{{music.data.spotify}}"><img class="logo_spotify" src="./Version2/button-spotify-new.png"></a>
-        <a class='lien_youtube' href="{{music.data.youtube}}"><img class="logo_youtube" src="./Version2/button-youtube-new.png"></a>
+        <a class='lien_bandcamp' href="{{music.data.bandcamp}}"><img class="logo_bandcamp" src="./assets/images_rework/button-bandcamp-new.png"></a>
+        <a class='lien_spotify' href="{{music.data.spotify}}"><img class="logo_spotify" src="./assets/images_rework/button-spotify-new.png"></a>
+        <a class='lien_youtube' href="{{music.data.youtube}}"><img class="logo_youtube" src="./assets/images_rework/button-youtube-new.png"></a>
         {% endfor %}
     </div>
 </body>
