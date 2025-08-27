@@ -257,23 +257,19 @@ margin-bottom: 37%;
     .logo_works, .logo_bio, .logo_cv {
         width: 65vw;
         max-height: 80vh;
+        margin-top: -3vh;
     }
 
 /* PUZZLE PHONE */
     .puzzle_phone {
         display: flex;
+        justify-content: space-around;
+        
     }
 
-    .lien_puzzle_phone {
-        display: flex;
-        width: 25vw;
-        position: absolute;
-        right: 0;
-        bottom: 0;
-    }
 
     .image_puzzle_phone {
-        width: 25vw;
+        width: 30vw;
     }
 
     .image_puzzle:hover {
@@ -281,11 +277,13 @@ margin-bottom: 37%;
     }
 
     .website_by_phone {
-        display: flex;
-        width: 60vw;
-        position: absolute;
-        left: 0;
-        bottom: 0;
+     width: 30vw;
+    padding-top: 5vw;
+    }
+
+    .music_logo {
+    width: 30vw;
+    padding-top: 2vh;
     }
 
 }
