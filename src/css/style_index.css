@@ -228,6 +228,10 @@ margin-bottom: 37%;
 
 /* LOGOS */
 
+.cheval, .container_cheval {
+    pointer-events: none;
+}
+
 .principal_centre  {
     position: relative;
     width:100vw;
