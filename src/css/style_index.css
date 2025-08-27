@@ -283,7 +283,11 @@ margin-bottom: 37%;
      width: 30vw;
     padding-top: 5vw;
     }
-
+    
+    .lien_music_phone {
+    z-index: 10;
+    }
+    
     .music_logo {
     width: 30vw;
     padding-top: 2vh;
