@@ -1,8 +1,8 @@
 ---
 layout: base_puzzle.njk
-title: oh-dear
-date: 2026-04-03T13:49:21.978Z
-permalink: /puzzle/oh-dear.html
+title: dear
+date: 2026-04-03T14:07:04.739Z
+permalink: /puzzle/dear.html
 texte: |-
   oh dear, how do we deal with vanished sparks?
 
