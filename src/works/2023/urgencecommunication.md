@@ -106,5 +106,8 @@ credits: >-
 
 
   Photos : Remy Ugarte Vallejos
+
+
+  GIF photos : Séraphine Sallin Mason
 vimeo_src: x
 ---
