@@ -4,8 +4,8 @@ title: Oh Dear
 permalink: /article/oh-dear.html
 numero_article: article14
 nom_lieu: oh dear, how do we deal with vanished sparks?
-année: 2026
-mois: 4
+année: 2025
+mois: 9
 lien: https://labrigeneve.ch/programme/oh-dear-how-do-we-deal-with-vanished-sparks
 texte_lien_fr: Site internet
 texte_lien_en: Website
