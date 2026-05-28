@@ -19,21 +19,21 @@ image_couv: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-12.j
 images:
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-03.jpg
 description_fr: |-
-  c'est le spectacle oui
+  c'est le spectacle oui</br> 
 
-  Concept & performance: Victor Delétraz
+  Concept & performance: Victor Delétraz</br> 
 
-  Lights: Charlotte Roche-Meredith
+  Lights: Charlotte Roche-Meredith</br> 
 
-  Sounds: Charlotte Roche-Meredith
+  Sounds: Charlotte Roche-Meredith</br>
 description_en: |-
-  c'est le spectacle oui
+  c'est le spectacle oui</br> 
 
-  Concept & performance: Victor Delétraz
+  Concept & performance: Victor Delétraz</br> 
 
-  Lights: Charlotte Roche-Meredith
+  Lights: Charlotte Roche-Meredith</br> 
 
-  Sounds: Charlotte Roche-Meredith
+  Sounds: Charlotte Roche-Meredith</br>
 details_pieces_fr: Performance, matériaux divers, 45'
 details_pieces_en: Performance, various materials, 45'
 credits: |-
