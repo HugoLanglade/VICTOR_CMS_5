@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-title: Oh Dear
+title: Oh-dear
 permalink: /article/oh-dear.html
 numero_article: article14
 nom_lieu: oh dear, how do we deal with vanished sparks?
