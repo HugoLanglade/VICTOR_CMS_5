@@ -196,7 +196,19 @@
       {% endfor %}
     </div>
 
-    <h1>Residency</h1>
+    <h1>Prix/Bourses</h1>
+  <div class="details">
+    {% for awards in collections.sortedAwards %}
+      {% if awards.data.tags and "awards" in awards.data.tags %}
+        <div class="sous_details">
+          <p class="dates">{{ awards.data.dates_awards }}</p>
+          <p class="description">{{ awards.data.awards_fr | markdown | safe | replace('<p>', '') | replace('</p>', '')}}</p>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+    <h1>Residence</h1>
     <div class="details">
     {% for residency in collections.sortedResidency %}
         {% if residency.data.tags and "residency" in residency.data.tags %}
