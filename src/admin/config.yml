@@ -180,5 +180,17 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "hidden", default: "/music.html" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "base_music.njk" }
       - { label: "Bandcamp", name: "bandcamp", widget: "string" }
+  - name: "cv_awards"
+    label: "CV: Awards"
+    folder: "src/cv/awards"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
+      - {label: "Dates", name: "dates_awards", widget: "string"}
+      - {label: "Nom Awards, Lieu (Français)", name: "awards_fr", widget: "markdown"}
+      - {label: "Nom Awards, Performance (Anglais)", name: "awards_en", widget: "markdown"}
       - { label: "Spotify", name: "spotify", widget: "string" }
       - { label: "YouTube", name: "youtube", widget: "string" }
