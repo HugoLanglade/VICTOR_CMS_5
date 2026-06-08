@@ -105,6 +105,15 @@ eleventyConfig.addFilter("markdown", (content) => {
     });
   });
 
+  eleventyConfig.addCollection("sortedAwards", function(collectionApi) {
+    const residencyItems = collectionApi.getFilteredByTag("awards", "cv");
+    return residencyItems.sort((a, b) => {
+      const yearA = getStartYear(a.data.dates_awards);
+      const yearB = getStartYear(b.data.dates_awards);
+      return yearB - yearA;
+    });
+  });
+
   eleventyConfig.addCollection("sortedAssociation", function(collectionApi) {
     const associationItems = collectionApi.getFilteredByTag("association", "cv");
     return associationItems.sort((a, b) => {
