@@ -169,4 +169,15 @@ collections:
       - {label: "Lien", name: "lien", widget: "string", required: false}
       - {label: "Texte du lien", name: "texte_lien", widget: "string", required: false}
       - {label: "Images", name: "images", widget: "list", fields: [{label: "Path", name: "path", widget: "image"}], required: false}
-
+  - name: "cv_awards"
+    label: "CV: Awards"
+    folder: "src/cv/awards"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "base_cv.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"} # Adjust the permalink as needed
+      - {label: "Dates", name: "dates_awards", widget: "string"}
+      - {label: "Nom Awards, Lieu (Français)", name: "awards_fr", widget: "markdown"}
+      - {label: "Nom Awards, Performance (Anglais)", name: "awards_en", widget: "markdown"}
