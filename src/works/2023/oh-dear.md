@@ -76,6 +76,14 @@ credits: >-
 
   Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos</br>
 
+
+  Photos – Remy Ugarte Vallejos</br>
+
+
+  Captation vidéo – Margot Sparkes</br>
+
+
+
   Administration & production – Victor Delétraz, Besogne ARO</br>
 
   Comptabilité association – Léonard Dörig</br>
@@ -85,11 +93,5 @@ credits: >-
   Soutiens – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
 
   Fondation Bea pour Jeunes Artistes, Fondation suisse des artistes interprètes SIS</br>
-
-
-  Photos – Remy Ugarte Vallejos</br>
-
-
-  Captation vidéo – Margot Sparkes</br>
-vimeo_src: x
+vimeo_src: https://vimeo.com/1197992747?fl=pl&fe=sh
 ---
