@@ -11,13 +11,21 @@ texte_lien_fr: Site internet
 texte_lien_en: Website
 fr_nom_maj: OH DEAR, HOW DO WE DEAL WITH VANISHED SPARKS?
 en_nom_maj: OH DEAR, HOW DO WE DEAL WITH VANISHED SPARKS?
-fr_details_lieu: L'Abri - Genève, 2026
-en_details_lieu: L'Abri - Geneva, 2026
+fr_details_lieu: Festival C'est déjà demain.14 / L'Abri – Genève, 2026
+en_details_lieu: Festival C'est déjà demain.14 / L'Abri – Genève, 2026
 fr_type_duree: Performance, 45min
 en_type_duree: Performance, 45min
 image_couv: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-12.jpg
 images:
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-02.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-03.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-05.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-07.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-11.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-13.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-14.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-17.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-19.jpg
 description_fr: |-
   c'est le spectacle oui</br> 
 
