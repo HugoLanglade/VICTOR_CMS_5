@@ -47,51 +47,61 @@ description_fr: >-
 
 
   En travaillant avec le va-et-vient entre le dissimulé et le visible, des effets de surprise, de bricolages et de collages, Victor Delétraz invite le public à entrer dans un univers anachronique, bancale et décalé où la seul loi serait de faire du spectacle, coute que coute, jusqu'à l’épuisement.</br>
-description_en: |-
-  c'est le spectacle oui</br> 
+description_en: >-
+  oh dear, how do we deal with vanished sparks ? is a 45-minute solo performance
+  by artist Victor Delétraz that explores our collective existence, the
+  truth–the fake–the theater–the eal, the vulnerability of our quests, and the
+  inexorable attraction toward chaos and nothingness.</br>
 
-  Concept & performance: Victor Delétraz</br> 
 
-  Lights: Charlotte Roche-Meredith</br> 
+  Drawing on themes of failure, risk, vulnerability, and chaos, the play seeks to offer a critical yet sensitive perspective on our contemporary world, exploring a range of emotions—contradictory, caustic, tense, strange, and absurd.</br>
 
-  Sounds: Charlotte Roche-Meredith</br>
-details_pieces_fr: Performance, matériaux divers, 45'
-details_pieces_en: Performance, various materials, 45'
+
+  The performance incorporates various visual, audio, and textual elements within a set design that evokes both a contemporary white cube wall and a movie screen. The set transforms and changes throughout the performance, revealing its inner workings – both physical and symbolic.
+
+  The objects and props function as spectacular attempts, oscillating between feelings of surprise, danger, exhilaration versus paltry and disturbing effects that veer toward failure.</br>
+
+
+  The performer weaves together multiple voices and monologues that are as comical and cartoonish as they are political and dramatic. Between an inability to communicate, the splitting of his own alter egos, and poems written on the very day of the performance, the artist attempts, through his tricks, to speak of a world that is self-destructing and alienating itself, leaving behind in the end only remnants, waste, and ruin.</br>
+
+
+  By playing with the interplay between the hidden and the visible, surprise effects, DIY, and collage, Victor Delétraz invites the audience to enter an anachronistic, woobly, and quirky world where the only rule is to put on the show, no matter the cost, until exhaustion sets in.</br>
+details_pieces_fr: "Crédits:"
+details_pieces_en: "Credits:"
 credits: >-
-  Conception, textes et performance – Victor Delétraz</br>
+  Conception, textes et performance – Victor Delétraz
 
-  Création & régie lumière / régie vidéo – Charlotte Roche-Meredith</br>
+  Création & régie lumière / régie vidéo – Charlotte Roche-Meredith
 
-  Création sonore – Julien Encore, Hugo Langlade</br>
+  Création sonore – Julien Encore, Hugo Langlade
 
-  Régie son – Hugo Langlade</br>
+  Régie son – Hugo Langlade
 
-  Régisseur de scène – Remy Ugarte Vallejos</br>
+  Régisseur de scène – Remy Ugarte Vallejos
 
-  Regards extérieurs & dramaturgie – Yul Tomatala, Antoine Weil, Agathe de Limoges</br>
+  Regards extérieurs & dramaturgie – Yul Tomatala, Antoine Weil, Agathe de Limoges
 
-  Collaboration artistique et aide à la dramaturgie – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade</br>
+  Collaboration artistique et aide à la dramaturgie – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade
 
-  Production accessoires – Sophie Conus</br>
+  Production accessoires – Sophie Conus
 
-  Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos</br>
-
-
-  Photos – Remy Ugarte Vallejos</br>
+  Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos
 
 
-  Captation vidéo – Margot Sparkes</br>
+  Photos – Remy Ugarte Vallejos
 
 
+  Captation vidéo – Margot Sparkes
 
-  Administration & production – Victor Delétraz, Besogne ARO</br>
 
-  Comptabilité association – Léonard Dörig</br>
+  Administration & production – Victor Delétraz, Besogne ARO
 
-  Coproduction – L’Abri - Genève, Kaserne Basel</br>
+  Comptabilité association – Léonard Dörig
+
+  Coproduction – L’Abri - Genève, Kaserne Basel
 
   Soutiens – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
 
   Fondation Bea pour Jeunes Artistes, Fondation suisse des artistes interprètes SIS</br>
-vimeo_src: https://vimeo.com/1197992747?fl=pl&fe=sh
+vimeo_src: https://player.vimeo.com/video/1197992747?h=f9dbd6789c
 ---
