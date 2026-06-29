@@ -69,38 +69,38 @@ description_en: >-
 details_pieces_fr: "Crédits:"
 details_pieces_en: "Credits:"
 credits: >-
-  Conception, textes et performance – Victor Delétraz
+  Artistic Direction, texts & performance – Victor Delétraz
 
-  Création & régie lumière / régie vidéo – Charlotte Roche-Meredith
+  Light Design & Lighting / Video Control – Charlotte Roche-Meredith
 
-  Création sonore – Julien Encore, Hugo Langlade
+  Sound Design – Julien Encore, Hugo Langlade
 
-  Régie son – Hugo Langlade
+  Sound Engineering – Hugo Langlade
 
-  Régisseur de scène – Remy Ugarte Vallejos
+  Stage Manager – Remy Ugarte Vallejos
 
-  Regards extérieurs & dramaturgie – Yul Tomatala, Antoine Weil, Agathe de Limoges
+  Outside eyes & Dramaturgy – Yul Tomatala, Antoine Weil, Agathe de Limoges
 
-  Collaboration artistique et aide à la dramaturgie – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade
+  Artistic & Dramaturgy Collaboration – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade
 
-  Production accessoires – Sophie Conus
+  Props Manager – Sophie Conus
 
-  Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos
+  Camera Operators – Agathe de Limoges, Remy Ugarte Vallejos
 
 
   Photos – Remy Ugarte Vallejos
 
 
-  Captation vidéo – Margot Sparkes
+  Video documentation – Margot Sparkes
 
 
-  Administration & production – Victor Delétraz, Besogne ARO
+  Administration & Production – Victor Delétraz, Besogne ARO
 
-  Comptabilité association – Léonard Dörig
+  Association Accounting – Léonard Dörig
 
   Coproduction – L’Abri - Genève, Kaserne Basel
 
-  Soutiens – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
+  Support – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
 
   Fondation Bea pour Jeunes Artistes, Fondation suisse des artistes interprètes SIS</br>
 vimeo_src: https://player.vimeo.com/video/1197992747?h=f9dbd6789c
