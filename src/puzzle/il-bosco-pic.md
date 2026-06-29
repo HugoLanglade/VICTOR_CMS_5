@@ -8,4 +8,5 @@ lien: https://www.youtube.com/watch?v=0xjLPuWtaeU&list=RD0xjLPuWtaeU&start_radio
 texte_lien: LE CLiP
 images:
   - path: /images/uploads/captiure6.png
+  - path: /images/uploads/captrue16.png
 ---
