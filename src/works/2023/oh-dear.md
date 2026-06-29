@@ -26,14 +26,34 @@ images:
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-14.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-17.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-19.jpg
-description_fr: |-
-  c'est le spectacle oui</br> 
+description_fr: >-
+  Conception, textes et performance – Victor Delétraz</br>
 
-  Concept & performance: Victor Delétraz</br> 
+  Création & régie lumière / régie vidéo – Charlotte Roche-Meredith</br>
 
-  Lights: Charlotte Roche-Meredith</br> 
+  Création sonore – Julien Encore, Hugo Langlade</br>
 
-  Sounds: Charlotte Roche-Meredith</br>
+  Régie son – Hugo Langlade</br>
+
+  Régisseur de scène – Remy Ugarte Vallejos</br>
+
+  Regards extérieurs & dramaturgie – Yul Tomatala, Antoine Weil, Agathe de Limoges</br>
+
+  Collaboration artistique et aide à la dramaturgie – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade</br>
+
+  Production accessoires – Sophie Conus</br>
+
+  Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos</br>
+
+  Administration & production – Victor Delétraz, Besogne ARO</br>
+
+  Comptabilité association – Léonard Dörig</br>
+
+  Coproduction – L’Abri - Genève, Kaserne Basel</br>
+
+  Soutiens – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
+
+  Fondation Bea pour Jeunes Artistes, Fondation suisse des artistes interprètes SIS</br>
 description_en: |-
   c'est le spectacle oui</br> 
 
@@ -44,9 +64,39 @@ description_en: |-
   Sounds: Charlotte Roche-Meredith</br>
 details_pieces_fr: Performance, matériaux divers, 45'
 details_pieces_en: Performance, various materials, 45'
-credits: |-
-  Photos : Remy Ugarte Vallejos
+credits: >-
+  Conception, textes et performance – Victor Delétraz</br>
 
-  Video documentation & trailer : Margot Sparkes
+  Création & régie lumière / régie vidéo – Charlotte Roche-Meredith</br>
+
+  Création sonore – Julien Encore, Hugo Langlade</br>
+
+  Régie son – Hugo Langlade</br>
+
+  Régisseur de scène – Remy Ugarte Vallejos</br>
+
+  Regards extérieurs & dramaturgie – Yul Tomatala, Antoine Weil, Agathe de Limoges</br>
+
+  Collaboration artistique et aide à la dramaturgie – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade</br>
+
+  Production accessoires – Sophie Conus</br>
+
+  Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos</br>
+
+  Administration & production – Victor Delétraz, Besogne ARO</br>
+
+  Comptabilité association – Léonard Dörig</br>
+
+  Coproduction – L’Abri - Genève, Kaserne Basel</br>
+
+  Soutiens – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
+
+  Fondation Bea pour Jeunes Artistes, Fondation suisse des artistes interprètes SIS</br>
+
+
+  Photos – Remy Ugarte Vallejos</br>
+
+
+  Captation vidéo – Margot Sparkes</br>
 vimeo_src: x
 ---
