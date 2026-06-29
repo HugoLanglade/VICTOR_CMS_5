@@ -27,33 +27,26 @@ images:
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-17.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-19.jpg
 description_fr: >-
-  Conception, textes et performance – Victor Delétraz</br>
+  oh dear, how do we deal with vanished sparks ? est une performance solo de 45
+  minutes de l'artiste Victor Delétraz qui questionne notre existence
+  collective, le vrai–le faux–le théâtre–la réalité, la vulnérabilité de nos
+  quêtes et l’inexorable attraction vers le chaos et le néant.
 
-  Création & régie lumière / régie vidéo – Charlotte Roche-Meredith</br>
 
-  Création sonore – Julien Encore, Hugo Langlade</br>
 
-  Régie son – Hugo Langlade</br>
+  En partant de l'idée d'échec, de risque, de vulnérabilité et désordre, la pièce tente de porter un regard critique et sensible sur notre monde contemporain, en passant par de multiples émotions : contradictoires, caustiques, tendues, étranges et absurdes.
 
-  Régisseur de scène – Remy Ugarte Vallejos</br>
 
-  Regards extérieurs & dramaturgie – Yul Tomatala, Antoine Weil, Agathe de Limoges</br>
 
-  Collaboration artistique et aide à la dramaturgie – Charlotte Roche-Meredith, Remy Ugarte Vallejos, Hugo Langlade</br>
+  La performance active divers dispositifs visuels, sonores et textuelles autour d'une scénographie évoquant autant la cimaise d'art contemporain que l'écran de cinéma. Le décor se transforme et s'altère au fur et à mesure de la performance, laissant apparaître son envers, autant plastique que symbolique.Les objets et accessoires opèrent comme des tentatives spectaculaires, oscillants entre des émotions de surprise, de danger et d'exaltation et des effets dérisoires et dérangeants virant à l'échec.</br> 
 
-  Production accessoires – Sophie Conus</br>
 
-  Tournage vidéo – Agathe de Limoges, Remy Ugarte Vallejos</br>
 
-  Administration & production – Victor Delétraz, Besogne ARO</br>
+  Le performeur fait intervenir des voix et des discours multiples autant comiques et cartoonesques que politiques et dramatiques. Entre incapacité à communiquer, dédoublement de ses propres alter-ego et poème écrit le jour même de la représentation, l'artiste tente à travers ses tours de passe-passe, de parler d'un monde qui s'auto-détruit et s'aliène, pour ne laisser qu'au final les restes, les déchets et le gâchis.</br> 
 
-  Comptabilité association – Léonard Dörig</br>
 
-  Coproduction – L’Abri - Genève, Kaserne Basel</br>
 
-  Soutiens – Ville de Genève, Loterie Romande, Fondation Ernst Göhner
-
-  Fondation Bea pour Jeunes Artistes, Fondation suisse des artistes interprètes SIS</br>
+  En travaillant avec le va-et-vient entre le dissimulé et le visible, des effets de surprise, de bricolages et de collages, Victor Delétraz invite le public à entrer dans un univers anachronique, bancale et décalé où la seul loi serait de faire du spectacle, coute que coute, jusqu'à l’épuisement.</br>
 description_en: |-
   c'est le spectacle oui</br> 
 
