@@ -20,6 +20,7 @@ images:
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-02.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-03.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-05.jpg
+  - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-06.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-07.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-11.jpg
   - path: /images/uploads/26-ohdear-victordelétraz-©remyugartevallejos-13.jpg
