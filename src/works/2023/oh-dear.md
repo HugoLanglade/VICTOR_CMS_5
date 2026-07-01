@@ -51,7 +51,7 @@ description_fr: >-
 description_en: >-
   oh dear, how do we deal with vanished sparks ? is a 45-minute solo performance
   by artist Victor Delétraz that explores our collective existence, the
-  truth–the fake–the theater–the eal, the vulnerability of our quests, and the
+  truth–the fake–the theater–the real, the vulnerability of our quests, and the
   inexorable attraction toward chaos and nothingness.</br>
 
 
