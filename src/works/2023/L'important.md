@@ -6,8 +6,8 @@ nom_lieu: L’important est d’arriver en retard le premier jour - Soul2Soul / 
 année: 2022
 mois: 5
 lien: https://soul2soulru.com/expo/encore-heureux/
-texte_lien_fr: Site web
-texte_lien_en: Website
+texte_lien_fr: Soul2Soul/RU website
+texte_lien_en: Soul2Soul/RU website
 fr_nom_maj: L'IMPORTANT EST D'ARRIVER EN RETARD LE PREMIER JOUR
 en_nom_maj: L'IMPORTANT EST D'ARRIVER EN RETARD LE PREMIER JOUR
 fr_details_lieu: Soul2Soul / RU - Genève (CH), 2021
