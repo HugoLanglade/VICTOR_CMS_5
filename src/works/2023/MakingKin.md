@@ -5,9 +5,9 @@ numero_article: article3
 nom_lieu: Making Kin, Making Place - Espace 3353
 année: 2023
 mois: 12
-lien: https://www.espace3353.ch/
-texte_lien_fr: Website
-texte_lien_en: Website
+lien: https://www.espace3353.ch/fr/2023-2025#making-kin-making-place
+texte_lien_fr: Espace 3353 website
+texte_lien_en: Espace 3353 website
 fr_nom_maj: MAKING KIN, MAKING PLACE
 en_nom_maj: MAKING KIN, MAKING PLACE
 fr_details_lieu: Exposition collective avec Mathias C. Pfund, Zahrasadat Hakim &
