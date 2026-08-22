@@ -6,8 +6,8 @@ nom_lieu: Encore Heureux - Soul2Soul / RU
 année: 2022
 mois: 4
 lien: https://soul2soulru.com/expo/encore-heureux/
-texte_lien_fr: Site web
-texte_lien_en: Website
+texte_lien_fr: Soul2Soul/RU website
+texte_lien_en: Soul2Soul/RU website
 fr_nom_maj: ENCORE HEUREUX
 en_nom_maj: ENCORE HEUREUX
 fr_details_lieu: Soul2Soul / RU - Genève (CH), 2022
