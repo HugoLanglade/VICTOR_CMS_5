@@ -7,8 +7,8 @@ nom_lieu: Soft Collisions - Palazzina
 année: 2024
 mois: 9
 lien: https://palazzina.ch/index.php/layout/other/other-soft-collision-palazzina-26
-texte_lien_fr: Site internet
-texte_lien_en: Website
+texte_lien_fr: Palazzina website
+texte_lien_en: Palazzina website
 fr_nom_maj: HAPPY HEARTBEAT OF THE FROGS
 en_nom_maj: HAPPY HEARTBEAT OF THE FROGS
 fr_details_lieu: Palazzina, Allschwil (CH), 2024
