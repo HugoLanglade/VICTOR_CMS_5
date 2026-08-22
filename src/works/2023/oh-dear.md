@@ -7,8 +7,8 @@ nom_lieu: oh dear, how do we deal with vanished sparks?
 année: 2026
 mois: 4
 lien: https://labrigeneve.ch/programme/oh-dear-how-do-we-deal-with-vanished-sparks
-texte_lien_fr: Site internet
-texte_lien_en: Website
+texte_lien_fr: L'Abri – Genève
+texte_lien_en: L'Abri – Genève
 fr_nom_maj: OH DEAR, HOW DO WE DEAL WITH VANISHED SPARKS?
 en_nom_maj: OH DEAR, HOW DO WE DEAL WITH VANISHED SPARKS?
 fr_details_lieu: Festival C'est déjà demain.14 / L'Abri – Genève, 2026
