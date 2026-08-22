@@ -7,8 +7,8 @@ nom_lieu: " A trap that doesn't kill yet - Le Commun"
 année: 2024
 mois: 7
 lien: https://spielact.ch/
-texte_lien_fr: Site internet
-texte_lien_en: Website
+texte_lien_fr: Spielact website
+texte_lien_en: Spielact website
 fr_nom_maj: A TRAP THAT DOESN'T KILL YET
 en_nom_maj: A TRAP THAT DOESN'T KILL YET
 fr_details_lieu: Le Commun, Genève, 2024
