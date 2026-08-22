@@ -7,8 +7,8 @@ nom_lieu: Spielact Festival - Le Commun
 année: 2024
 mois: 6
 lien: https://spielact.ch/
-texte_lien_fr: Site internet
-texte_lien_en: Website
+texte_lien_fr: Spielact website
+texte_lien_en: Spielact website
 fr_nom_maj: SPIELACT FESTIVAL - ZAHLTAG
 en_nom_maj: SPIELACT FESTIVAL - ZAHLTAG
 fr_details_lieu: Le Commun, Genève (CH), 2024
