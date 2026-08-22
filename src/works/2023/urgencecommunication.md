@@ -7,8 +7,8 @@ nom_lieu: Urgence, communication or how to subtly disappear - L'Abri Genève
 année: 2025
 mois: 6
 lien: https://labrigeneve.ch/programme/portes-ouvertes-aa-24-25
-texte_lien_fr: Site internet
-texte_lien_en: Website
+texte_lien_fr: L'Abri – Genève
+texte_lien_en: L'Abri – Genève
 fr_nom_maj: URGENCE, COMMUNICATION OR HOW TO SUBTLY DISAPPEAR
 en_nom_maj: URGENCE, COMMUNICATION OR HOW TO SUBTLY DISAPPEAR
 fr_details_lieu: L'Abri - Genève, 2025
