@@ -28,7 +28,7 @@ bio_français: >-
   En 2024 il est sélectionné par L'Abri – Genève pour être artiste associé. Durant cette année de recherche, il précise son travail scénique en créant une performance de 2h30 pour 4 performeur.euse.s puis participe en 2026 au festival C’est déjà demain 14. en proposant une première pièce de 45 minutes mêlant performance, théâtre et éléments plastiques.
 
 
-  En 2026, il est l'un des lauréat d'une bourse culturelle de la Fondation Leenaards d’une montant de 50’000 CHF pour la réalisation d’un projet lié à la pyrotechnie et au développement dans son atelier de nouveaux objets et systèmes automatisés, dans une quête de nouveaux savoirs-faire et de recherches expérimentales.
+  En 2026, il est l'un des lauréat d'une bourse culturelle de la Fondation Leenaards pour la réalisation d’un projet lié à la pyrotechnie et au développement dans son atelier de nouveaux objets et systèmes automatisés, dans une quête de nouveaux savoirs-faire et de recherches expérimentales.
 bio_anglais: >
   Victor Delétraz is an artist based in Geneva, CH. His versatile artistic
   practice explore the fields of installation, writing, music, video, painting
@@ -47,8 +47,8 @@ bio_anglais: >
   He frequently uses a common artistic vocabulary, incorporating elements such as smoke, fire, foam, superfluous or anodyne effects, text, music and interaction with the audience.
 
 
-  Victor Delétraz has exhibited and performed in Sofia, Athens, Bordeaux in Capc, Switzerland for the Kiefer Hablitzel Price, Swiss Arts Awards and in off-spaces such as Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, BIG 21 & 23 or La Becque.
+  Victor Delétraz has exhibited and performed in Sofia, Athens, Bordeaux in Capc, in Switzerland for the Kiefer Hablitzel Prize at the Swiss Arts Awards, at Kaserne Basel, La Becque, L’Abri, and in several independent art spaces such as Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, and the BIG.
 
 
-  He is currently resident for the 2024/25 season in l'Abri - Genève.
+  In 2024-2025 he is in residence in L'Abri in Geneva. In 2026, he was one of the recipients of a Cultural Grant from the Leenaards Foundation.
 ---
