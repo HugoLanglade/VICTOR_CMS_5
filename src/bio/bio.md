@@ -18,9 +18,7 @@ bio_français: >-
   Il utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels que la fumée, le feu, la mousse, des engins pyrotechniques, des effets superflus ou anodins, des textes, de la musique et des interactions avec le public.
 
 
-  Il a exposé et performé à l'international à Sofia, à Athènes, à Bordeaux au Capc et en Suisse pour le prix Kiefer Hablitzel aux Swiss Arts Awards, à Kaserne Basel à La Becque, à l'Abri et dans plusieurs espaces d’arts indépendants tel que Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, la
-
-  BIG.
+  Il a exposé et performé à l'international à Sofia, à Athènes, à Bordeaux au Capc et en Suisse pour le prix Kiefer Hablitzel aux Swiss Arts Awards, à Kaserne Basel à La Becque, à l'Abri et dans plusieurs espaces d’arts indépendants tel que Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, la Biennale des espaces d'art indépendants et collectifs de Genève.
 
 
   En 2024 il est sélectionné par L'Abri – Genève pour être artiste associé. Durant cette année de recherche, il précise son travail scénique en créant une performance de 2h30 pour 4 performeur.euse.s puis participe en 2026 au festival C’est déjà demain 14. en proposant une première pièce de 45 minutes mêlant performance, théâtre et éléments plastiques.
