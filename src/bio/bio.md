@@ -24,6 +24,7 @@ bio_français: >-
 
   BIG.
 
+
   En 2024 il est sélectionné par L'Abri – Genève pour être artiste associé. Durant cette année de recherche, il précise son travail scénique en créant une performance de 2h30 pour 4 performeur.euse.s puis participe en 2026 au festival C’est déjà demain 14. en proposant une première pièce de 45 minutes mêlant performance, théâtre et éléments plastiques.
 
 
