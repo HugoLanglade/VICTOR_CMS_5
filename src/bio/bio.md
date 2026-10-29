@@ -18,9 +18,7 @@ bio_français: >-
   Il utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels que la fumée, le feu, la mousse, des engins pyrotechniques, des effets superflus ou anodins, des textes, de la musique et des interactions avec le public.
 
 
-  Il a exposé et performé à l'international à Sofia, à Athènes, à Bordeaux au Capc
-
-  et en Suisse pour le prix Kiefer Hablitzel aux Swiss Arts Awards, à Kaserne Basel à La Becque, à l'Abri et dans plusieurs espaces d’arts indépendants tel que Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, la
+  Il a exposé et performé à l'international à Sofia, à Athènes, à Bordeaux au Capc et en Suisse pour le prix Kiefer Hablitzel aux Swiss Arts Awards, à Kaserne Basel à La Becque, à l'Abri et dans plusieurs espaces d’arts indépendants tel que Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, la
 
   BIG.
 
