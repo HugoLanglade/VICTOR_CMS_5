@@ -3,27 +3,31 @@ layout: base_bio.njk
 title: BIO
 permalink: /bio.html
 bio_français: >-
-  Victor Delétraz (*1997) est un artiste basé à Genève, CH. Sa pratique
-  artistique polyvalente explore les domaines de l'installation, de l'écriture,
-  de la musique, de la vidéo, de la peinture et de la performance.
+  Victor Delétraz, né en 1997, est un artiste vivant et travaillant à Genève. Sa
+  pratique artistique polyvalente explore des domaines variés autant plastiques
+  que liés aux arts vivants à travers l’installation, l’écriture, la musique, la
+  vidéo et la performance.
 
 
-  Diplômé d'un master en Arts visuels de la HEAD–Genève, programme Work.Master - Pratiques artistiques contemporaines, Victor Delétraz adopte une approche singulière pour chaque projet, utilisant l’installation et la performance pour transformer des objets ordinaires en éléments de réflexion, explorant des narrations à la fois caricaturales, étranges et engagées. À travers une esthétique mêlant le spectaculaire et l’absurde, ses interventions se déploient entre le geste défini et l’improvisation, cherchant à générer une tension dans la vulnérabilité d’actions fragiles et instables.
+  Diplômé d'un master en Arts visuels de la HEAD – Genève, programme Work.Master, Victor Delétraz adopte une approche singulière pour chaque projet, utilisant l’installation et la performance pour transformer des objets ordinaires en éléments de réflexion, explorant des narrations à la fois caricaturales, étranges et engagées. À travers une esthétique mêlant le spectaculaire et l’absurde, ses interventions se déploient entre le geste défini et l’improvisation, cherchant à générer une tension dans la vulnérabilité d’actions fragiles et instables. 
 
 
-  Ses installations, qui lui servent de scènes pour ses performances, intègrent souvent des objets aux origines et typologies variées, dont il se sert pour faire ressortir leur potentiel performatif. Ces mêmes objets évoluent dans le temps et peuvent intégrer des projets futurs, formant ainsi un corpus artistique distinct caractérisé par un vocabulaire visuel basé sur la répétition.
+  Ses installations, qui lui servent de scènes pour ses performances, intègrent souvent des objets aux origines et typologies variées, dont il se sert pour faire ressortir leur potentiel performatif. Ces mêmes objets évoluent dans le temps et intègrent souvent des projets futurs, formant ainsi un corpus artistique distinct caractérisé par un vocabulaire visuel basé sur la répétition. Conçues comme des expériences à vivre avec les spectateur·rice·x, ses performances créent des espaces où la spontanéité et le risque sont mis en jeu. Elles abordent des questions politiques et poétiques autour des concepts d’échec, d’instabilité, de sécurité et de consumérisme.
 
 
-  Conçues comme des expériences à vivre avec les spectateur·rice·x, ses performances créent des espaces où la spontanéité est mise en jeu. Elles abordent des questions politiques et poétiques autour des concepts d’échec et d’instabilité, de sécurité, de consumérisme ou de notre rapport aux communautés. Elles se situent à la lisière entre critique institutionnelle et imaginaire militant.
+  Il utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels que la fumée, le feu, la mousse, des engins pyrotechniques, des effets superflus ou anodins, des textes, de la musique et des interactions avec le public.
 
 
-  Il y utilise fréquemment un vocabulaire artistique commun, incorporant des éléments tels que la fumée, le feu, la mousse, des effets superflus ou anodins, des textes, de la musique et des interactions avec le public.
+  Il a exposé et performé à l'international à Sofia, à Athènes, à Bordeaux au Capc
+
+  et en Suisse pour le prix Kiefer Hablitzel aux Swiss Arts Awards, à Kaserne Basel à La Becque, à l'Abri et dans plusieurs espaces d’arts indépendants tel que Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, la
+
+  BIG.
+
+  En 2024 il est sélectionné par L'Abri – Genève pour être artiste associé. Durant cette année de recherche, il précise son travail scénique en créant une performance de 2h30 pour 4 performeur.euse.s puis participe en 2026 au festival C’est déjà demain 14. en proposant une première pièce de 45 minutes mêlant performance, théâtre et éléments plastiques.
 
 
-  Victor Delétraz a exposé et performé à Sofia, à Athènes, à Bordeaux au Capc, en Suisse pour le prix Kiefer Hablitzel aux Swiss Arts Awards et dans plusieurs espaces d’arts indépendants comme Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, la BIG 21 & 23 ou La Becque.
-
-
-  Il est actuellement résident pour la saison 2024/25 à l'Abri - Genève
+  En 2026, il est l'un des lauréat d'une bourse culturelle de la Fondation Leenaards d’une montant de 50’000 CHF pour la réalisation d’un projet lié à la pyrotechnie et au développement dans son atelier de nouveaux objets et systèmes automatisés, dans une quête de nouveaux savoirs-faire et de recherches expérimentales.
 bio_anglais: >
   Victor Delétraz is an artist based in Geneva, CH. His versatile artistic
   practice explore the fields of installation, writing, music, video, painting
