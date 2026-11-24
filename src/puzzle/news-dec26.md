@@ -7,13 +7,13 @@ texte: >-
   # **NEWS dec26 …**
 
 
-  11.12.26 = ***Arboretum #34*** au Pneu / Genève 19h30-22h30 – n0uvelle perf0rmance nouveau défi même répertoire 
+  11.12.26 = ***Arboretum #34*** au Pneu / Genève 19h30-22h30 – n0uvelle perf0rmance nouveau défi même répertoire</br>  
 
 
-  13.12-31.01.2027 = Group show ***& other stories*** à Forde / Genève – artwork explosé et déclencheur / Vernissage le 12.12.26
+  13.12-31.01.2027 = Group show ***& other stories*** à Forde / Genève – artwork explosé et déclencheur / Vernissage le 12.12.26</br> 
 
 
-  18.12.26 = Group show ***Open Coat*** au Trou / Lancy – i'll present a new piece called **smoking non smoking**
+  18.12.26 = Group show ***Open Coat*** au Trou / Lancy – i'll present a new piece called **smoking non smoking**</br>
 lien: https://arboretum-lab.com/%C3%A9dition-%C3%A0-venir
 texte_lien: "arboretum #34"
 images:
