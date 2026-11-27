@@ -46,5 +46,11 @@ bio_anglais: >
   Victor Delétraz has exhibited and performed in Sofia, Athens, Bordeaux in Capc, in Switzerland for the Kiefer Hablitzel Prize at the Swiss Arts Awards, at Kaserne Basel, La Becque, L’Abri, and in several independent art spaces such as Palazzina, Zabriskie, Le Commun, Soul2Soul RU, Topic, Espace 3353, Le Trou, and the BIG.
 
 
-  In 2024-2025 he is in residence in L'Abri in Geneva. In 2026, he was one of the recipients of a Cultural Grant from the Leenaards Foundation.
+  In 2024-2025, he is in residence in L'Abri – Geneva as an associated artist. During this year of research, he refined his stage work by creating a 2.5-hour performance for four performers; then, in 2026, he performed in the festival C’est déjà demain 14, presenting his first 45-minute piece that blended performance, theater, and visual art elements.
+
+
+  In 2026, he is one of the recipient of a cultural grant from the Leenaards Foundation to carry out a project related to pyrotechnics and the development of new performative objects and automated systems in his studio, as part of a quest for new expertise and experimental research. 
+
+
+  In addition to his work in the visual and performing arts, he also deepened his connection to music as a songwriter, composer, and performer under the pseudonym SASA delay, releasing his debut album, nature, mature, in collaboration with producer and artist Julien Encore in 2025.
 ---
