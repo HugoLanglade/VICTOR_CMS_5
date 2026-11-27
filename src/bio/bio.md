@@ -27,7 +27,7 @@ bio_français: >-
   En 2026, il est l'un des lauréat d'une bourse culturelle de la Fondation Leenaards pour la réalisation d’un projet lié à la pyrotechnie et au développement dans son atelier de nouveaux objets et systèmes automatisés, dans une quête de nouveaux savoirs-faire et de recherches expérimentales.
 bio_anglais: >
   Victor Delétraz is an artist based in Geneva, CH. His versatile artistic
-  practice explore the fields of installation, writing, music, video, painting
+  practice explores the fields of installation, writing, music, video, painting
   and performance.
 
 
@@ -37,7 +37,7 @@ bio_anglais: >
   His installations, which serve as stages for his performances, often incorporate objects of varied origins and typologies, which he uses to bring out their performative potential. These same objects evolve over time and can incorporated into futur projects, forming a distinct artistic corpus characterized by a visual vocabulary based on repetition.
 
 
-  Designed as experiences to be shared with the spectators, his performances create spaces where spontaneity is important. They address political and poetic questions around concepts of failure and instability, security, consumerism or our relationship with communities. They straddle the line between institutional critique and militant imagination.
+  Designed as experiences to be shared with the spectators, his performances create spaces where spontaneity is important. They address political and poetic questions around concepts of failure and instability, security, consumerism or our relationship with communities. They fall somewhere between institutional criticism and activist imagination.
 
 
   He frequently uses a common artistic vocabulary, incorporating elements such as smoke, fire, foam, superfluous or anodyne effects, text, music and interaction with the audience.
