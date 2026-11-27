@@ -30,16 +30,13 @@ images:
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a2804.jpg
   - path: /images/uploads/web_capc_pyjamabal_052024_photo_arthur_pequin_m5a2895.jpg
 description_fr: >-
-  *L’artiste suisse déploie une performance en plusieurs chapitres à l’échelle
-  de tout le musée (devant ses portes, sur les mezzanines et sur les terrasses).
-  Mêlant textes, fumigènes, feux d’artifices et autres accessoires insolites et
-  effets spéciaux, ses interventions tissent une narration autour d’une fête qui
-  vire au cauchemar.* </br>
+  Une invitation de Cédric Fauq
+
+
+  *L’artiste suisse déploie une performance en plusieurs chapitres à l’échelle de tout le musée (devant ses portes, sur les mezzanines et sur les terrasses). Mêlant textes, fumigènes, feux d’artifices et autres accessoires insolites et effets spéciaux, ses interventions tissent une narration autour d’une fête qui vire au cauchemar.* </br>
 
 
   </br> 
-
-
 
 
   3 interventions durant la soirée:
@@ -57,11 +54,7 @@ description_fr: >-
   </br> 
 
 
-
-
   **Texte lu durant la performance *"Les paupières qui bougent la nuit" :*** </br>
-
-
 
 
   Le coussin figé dit :
@@ -239,11 +232,10 @@ description_fr: >-
 
   Les paupière qui bougent la nuit parce qu’il y a encore beaucoup à faire, le lendemain.
 description_en: >-
-  *The Swiss artist deploys a performance in several chapters throughout the
-  museum (in front of the doors, on the mezzanines and on the terraces).
-  Combining text, smoke bombs, fireworks and other unusual props and special
-  effects, his interventions weave a narrative around a party that turns into a
-  nightmare.* </br> 
+  A invitation from Cédric Fauq
+
+
+  *The Swiss artist deploys a performance in several chapters throughout the museum (in front of the doors, on the mezzanines and on the terraces). Combining text, smoke bombs, fireworks and other unusual props and special effects, his interventions weave a narrative around a party that turns into a nightmare.* </br> 
 
 
   </br> 
